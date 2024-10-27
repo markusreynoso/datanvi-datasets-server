@@ -1,0 +1,1321 @@
+location,price,bedrooms,bathrooms,floor area,land area,latitude,longitude,city,province,region
+"Santo Domingo, Cainta",9500000.0,4.0,3.0,144.0,136.0,14.5823408,121.1180438,Cainta,Rizal,Region IV-A
+"San Vicente, Santa Maria",4400000.0,3.0,2.0,63.2,80.0,14.8077154,121.0024016,Santa Maria,Bulacan,Region III
+"Camella Tarlac Access Rd. Maliwalo, Tarlac",7810000.0,5.0,3.0,100.0,110.0,15.4777848,120.6140745,Tarlac,Tarlac,Region III
+"Zambowood Rd. Boalan, Zamboanga",3275000.0,2.0,1.0,40.3,78.4,6.9483885,122.1148889,Zamboanga,Zamboanga,Region IX
+"Santa Maria-San Jose Rd. Bulac, Santa Maria",1800000.0,2.0,2.0,52.0,40.0,14.8279751,121.0003891,Santa Maria,Bulacan,Region III
+"Aningway Sacatihan, Subic",8428000.0,5.0,3.0,142.0,121.0,14.9131781,120.2282421,Subic,Zambales,Region III
+"Zone 1 Brgy. Cadlan Pili Camarines Sur Cadlan, Pili",3565000.0,2.0,1.0,46.0,63.0,13.5979899,123.2430657,Pili,Camarines Sur,Region V
+"Km. 19 West Service Rd. Cupang, Muntinlupa",28650000.0,3.0,3.0,219.3,90.0,14.4270005,121.0452782,Muntinlupa,Muntinlupa,NCR
+"Km.71, North Luzon Expressway Panipuan, Mexico",3500000.0,3.0,2.0,102.4,154.0,15.0941848,120.6701583,Mexico,Pampanga,Region III
+"Tugbok, Davao",5300000.0,3.0,2.0,70.3,67.0,7.1035383,125.4948467,Davao,Davao del Sur,Region XI
+"Caingin, San Rafael",1800000.0,2.0,1.0,46.0,41.0,14.9717467,120.9434431,San Rafael,Bulacan,Region III
+"Emilio Vergara Hwy Santa Arcadia, Cabanatuan",7337000.0,4.0,3.0,85.0,99.0,15.4710779,120.9821312,Cabanatuan,Nueva Ecija,Region III
+"Sun Valley, Paranaque",45001005.0,6.0,5.0,337.0,350.0,14.4888415,121.0325173,Paranaque,Paranaque,NCR
+"Ungka Ii, Pavia",4080345.0,3.0,2.0,52.0,80.0,10.7529006,122.5376029,Pavia,Iloilo,Region VI
+"Aningway Sacatihan, Subic",10082000.0,5.0,3.0,142.0,176.0,14.9131781,120.2282421,Subic,Zambales,Region III
+"Caingin, San Rafael",1800000.0,2.0,1.0,46.0,41.0,14.9717467,120.9434431,San Rafael,Bulacan,Region III
+"Bugtong Na Pulo, Lipa",7500000.0,4.0,3.0,119.0,150.0,13.9984308,121.1674592,Lipa,Batangas,Region IV-A
+"Pasong Camachile I, General Trias",2292960.0,3.0,1.0,40.0,40.0,14.3723207,120.8976745,General Trias,Cavite,Region IV-A
+"Camella Tarlac Access Rd. Maliwalo, Tarlac",5251000.0,2.0,2.0,53.0,88.0,15.4777848,120.6140745,Tarlac,Tarlac,Region III
+"Antero Soriano Highway Sahud Ulan, Tanza",2258057.0,3.0,1.0,45.0,62.0,14.366749,120.8184475,Tanza,Cavite,Region IV-A
+"Camella Tarlac Access Rd. Maliwalo, Tarlac",11757000.0,5.0,3.0,166.0,176.0,15.4777848,120.6140745,Tarlac,Tarlac,Region III
+"Sapang Biabas, Mabalacat",1400000.0,2.0,1.0,40.0,40.0,15.1987752,120.6026101,Mabalacat,Pampanga,Region III
+"Tugbok, Davao",5300000.0,3.0,2.0,70.3,67.0,7.1035383,125.4948467,Davao,Davao del Sur,Region XI
+"Cupang, Muntinlupa",32342000.0,3.0,3.0,247.4,93.0,14.4378843,121.0503212,Muntinlupa,Muntinlupa,NCR
+"Km. 19 West Service Rd. Cupang, Muntinlupa",26393000.0,3.0,3.0,219.3,91.0,14.4270005,121.0452782,Muntinlupa,Muntinlupa,NCR
+"Pasong Camachile I, General Trias",2389000.0,3.0,1.0,50.0,50.0,14.3723207,120.8976745,General Trias,Cavite,Region IV-A
+"Aningway Sacatihan, Subic",12772000.0,5.0,3.0,166.0,246.0,14.9131781,120.2282421,Subic,Zambales,Region III
+"Santo Domingo, Cainta",9500000.0,4.0,3.0,144.0,136.0,14.5823408,121.1180438,Cainta,Rizal,Region IV-A
+"San Vicente, Santa Maria",4400000.0,3.0,2.0,63.2,80.0,14.8077154,121.0024016,Santa Maria,Bulacan,Region III
+"Camella Tarlac Access Rd. Maliwalo, Tarlac",7810000.0,5.0,3.0,100.0,110.0,15.4777848,120.6140745,Tarlac,Tarlac,Region III
+"Zambowood Rd. Boalan, Zamboanga",3275000.0,2.0,1.0,40.3,78.4,6.9483885,122.1148889,Zamboanga,Zamboanga,Region IX
+"Santa Maria-San Jose Rd. Bulac, Santa Maria",1800000.0,2.0,2.0,52.0,40.0,14.8279751,121.0003891,Santa Maria,Bulacan,Region III
+"Aningway Sacatihan, Subic",8428000.0,5.0,3.0,142.0,121.0,14.9131781,120.2282421,Subic,Zambales,Region III
+"Zone 1 Brgy. Cadlan Pili Camarines Sur Cadlan, Pili",3565000.0,2.0,1.0,46.0,63.0,13.5979899,123.2430657,Pili,Camarines Sur,Region V
+"Km. 19 West Service Rd. Cupang, Muntinlupa",28650000.0,3.0,3.0,219.3,90.0,14.4270005,121.0452782,Muntinlupa,Muntinlupa,NCR
+"Km.71, North Luzon Expressway Panipuan, Mexico",3500000.0,3.0,2.0,102.4,154.0,15.0941848,120.6701583,Mexico,Pampanga,Region III
+"Tugbok, Davao",5300000.0,3.0,2.0,70.3,67.0,7.1035383,125.4948467,Davao,Davao del Sur,Region XI
+"Caingin, San Rafael",1800000.0,2.0,1.0,46.0,41.0,14.9717467,120.9434431,San Rafael,Bulacan,Region III
+"Emilio Vergara Hwy Santa Arcadia, Cabanatuan",7337000.0,4.0,3.0,85.0,99.0,15.4710779,120.9821312,Cabanatuan,Nueva Ecija,Region III
+"Sun Valley, Paranaque",45001005.0,6.0,5.0,337.0,350.0,14.4888415,121.0325173,Paranaque,Paranaque,NCR
+"Ungka Ii, Pavia",4080345.0,3.0,2.0,52.0,80.0,10.7529006,122.5376029,Pavia,Iloilo,Region VI
+"Alapan Ii-A, Imus",3336800.0,4.0,2.0,70.0,60.0,14.4084522,120.8964956,Imus,Cavite,Region IV-A
+"Aningway Sacatihan, Subic",10082000.0,5.0,3.0,142.0,176.0,14.9131781,120.2282421,Subic,Zambales,Region III
+"Caingin, San Rafael",1800000.0,2.0,1.0,46.0,41.0,14.9717467,120.9434431,San Rafael,Bulacan,Region III
+"Bugtong Na Pulo, Lipa",7500000.0,4.0,3.0,119.0,150.0,13.9984308,121.1674592,Lipa,Batangas,Region IV-A
+"Pasong Camachile I, General Trias",2292960.0,3.0,1.0,40.0,40.0,14.3723207,120.8976745,General Trias,Cavite,Region IV-A
+"Camella Tarlac Access Rd. Maliwalo, Tarlac",5251000.0,2.0,2.0,53.0,88.0,15.4777848,120.6140745,Tarlac,Tarlac,Region III
+"Camella Tarlac Access Rd. Maliwalo, Tarlac",11757000.0,5.0,3.0,166.0,176.0,15.4777848,120.6140745,Tarlac,Tarlac,Region III
+"Antero Soriano Highway Sahud Ulan, Tanza",2258057.0,3.0,1.0,45.0,62.0,14.366749,120.8184475,Tanza,Cavite,Region IV-A
+"Sapang Biabas, Mabalacat",1400000.0,2.0,1.0,40.0,40.0,15.1987752,120.6026101,Mabalacat,Pampanga,Region III
+"Tugbok, Davao",5300000.0,3.0,2.0,70.3,67.0,7.1035383,125.4948467,Davao,Davao del Sur,Region XI
+"Km. 19 West Service Rd. Cupang, Muntinlupa",26393000.0,3.0,3.0,219.3,91.0,14.4270005,121.0452782,Muntinlupa,Muntinlupa,NCR
+"Cupang, Muntinlupa",32342000.0,3.0,3.0,247.4,93.0,14.4378843,121.0503212,Muntinlupa,Muntinlupa,NCR
+"Pasong Camachile I, General Trias",2389000.0,3.0,1.0,50.0,50.0,14.3723207,120.8976745,General Trias,Cavite,Region IV-A
+"Carsadang Bago I, Imus",5234791.0,3.0,2.0,75.0,112.0,14.4289186,120.928888,Imus,Cavite,Region IV-A
+"Longos, Malolos",12069000.0,5.0,3.0,142.0,176.0,14.87426,120.7915336,Malolos,Bulacan,Region III
+"Aguinaldo Highway San Agustin I, Dasmarinas",3267000.0,2.0,2.0,76.2,66.0,14.3214271,120.94188,Dasmarinas,Cavite,Region IV-A
+"Alapan Ii-A, Imus",2292960.0,3.0,1.0,40.0,40.0,14.4084522,120.8964956,Imus,Cavite,Region IV-A
+"Longos, Malolos",12902000.0,5.0,3.0,166.0,176.0,14.87426,120.7915336,Malolos,Bulacan,Region III
+"Ungka Ii, Pavia",6379520.0,4.0,3.0,100.0,120.0,10.7529006,122.5376029,Pavia,Iloilo,Region VI
+"San Rafael Estates San Roque, San Rafael",1979000.0,2.0,1.0,38.9,41.4,15.0126237,120.9341316,San Rafael,Bulacan,Region III
+"Santa Maria-San Jose Rd. Bulac, Santa Maria",1675000.0,1.0,1.0,44.0,40.0,14.8279751,121.0003891,Santa Maria,Bulacan,Region III
+"Santa Maria-San Jose Rd. Bulac, Santa Maria",1675000.0,1.0,1.0,44.0,40.0,14.8279751,121.0003891,Santa Maria,Bulacan,Region III
+"Aningway Sacatihan, Subic",2605000.0,2.0,1.0,42.0,54.0,14.9131781,120.2282421,Subic,Zambales,Region III
+"Tamiao, Compostela",7021000.0,4.0,2.0,82.0,120.0,10.4382884,123.9947249,Compostela,Cebu,Region VII
+"Km.71, North Luzon Expressway Panipuan, Mexico",2747500.0,3.0,2.0,78.5,154.0,15.0941848,120.6701583,Mexico,Pampanga,Region III
+"Km. 19 West Service Rd. Cupang, Muntinlupa",32184000.0,3.0,3.0,247.4,92.0,14.4270005,121.0452782,Muntinlupa,Muntinlupa,NCR
+"Longos, Malolos",7798000.0,4.0,3.0,85.0,110.0,14.87426,120.7915336,Malolos,Bulacan,Region III
+"San Sebastian, Kawit",6756360.0,4.0,3.0,110.0,100.0,14.4129793,120.8886677,Kawit,Cavite,Region IV-A
+"Sapang Biabas, Mabalacat",2706500.0,3.0,2.0,62.0,65.0,15.1987752,120.6026101,Mabalacat,Pampanga,Region III
+"Alapan Ii-A, Imus",2389000.0,3.0,1.0,50.0,50.0,14.4084522,120.8964956,Imus,Cavite,Region IV-A
+"Victoria South Alabang Tunasan, Muntinlupa",13500000.0,3.0,2.0,140.0,240.0,14.3537827,121.0067911,Muntinlupa,Muntinlupa,NCR
+"Pasong Camachile I, General Trias",7410000.0,4.0,3.0,100.0,120.0,14.3723207,120.8976745,General Trias,Cavite,Region IV-A
+"Lot 14 Block 26 J Abad Santos Street Northfields Executive Village Phase 1 Barangay Longos Malolos Bulacan Longos, Malolos",5900000.0,3.0,6.0,232.9,200.0,14.8843498,120.8014272,Malolos,Bulacan,Region III
+"Eden, Mexico",4113000.0,3.0,2.0,72.0,88.0,15.1262529,120.6580131,Mexico,Pampanga,Region III
+"Km. 19 West Service Rd. Cupang, Muntinlupa",31706000.0,3.0,3.0,247.4,92.0,14.4270005,121.0452782,Muntinlupa,Muntinlupa,NCR
+"Santa Maria-San Jose Rd. Bulac, Santa Maria",1675000.0,1.0,1.0,44.0,40.0,14.8279751,121.0003891,Santa Maria,Bulacan,Region III
+"Km. 19 West Service Rd. Cupang, Muntinlupa",28804000.0,3.0,3.0,219.3,91.0,14.4270005,121.0452782,Muntinlupa,Muntinlupa,NCR
+"Alapan Ii-A, Imus",6650000.0,3.0,2.0,84.0,120.0,14.4084522,120.8964956,Imus,Cavite,Region IV-A
+"Caingin, San Rafael",1800000.0,2.0,1.0,46.0,41.0,14.9717467,120.9434431,San Rafael,Bulacan,Region III
+"Km. 19 West Service Rd. Cupang, Muntinlupa",28678000.0,3.0,3.0,219.3,91.0,14.4270005,121.0452782,Muntinlupa,Muntinlupa,NCR
+"Km.71, North Luzon Expressway Panipuan, Mexico",1837500.0,2.0,2.0,52.5,154.0,15.0941848,120.6701583,Mexico,Pampanga,Region III
+"Km. 19 West Service Rd. Cupang, Muntinlupa",27676000.0,3.0,3.0,219.3,91.0,14.4270005,121.0452782,Muntinlupa,Muntinlupa,NCR
+"Bugtong Na Pulo, Lipa",4000000.0,2.0,1.0,53.0,52.0,13.9984308,121.1674592,Lipa,Batangas,Region IV-A
+"Alapan Ii-A, Imus",2632250.0,3.0,2.0,60.0,50.0,14.4084522,120.8964956,Imus,Cavite,Region IV-A
+"Ungka Ii, Pavia",5337920.0,4.0,2.0,80.0,120.0,10.7529006,122.5376029,Pavia,Iloilo,Region VI
+"San Sebastian, Kawit",2292960.0,3.0,1.0,40.0,40.0,14.4129793,120.8886677,Kawit,Cavite,Region IV-A
+"Governor'S Dr. Tanauan, Tanza",4337472.0,3.0,2.0,112.5,72.0,14.2914142,120.8302984,Tanza,Cavite,Region IV-A
+"Governor'S Dr. Tanauan, Tanza",4337472.0,3.0,2.0,112.5,72.0,14.2914142,120.8302984,Tanza,Cavite,Region IV-A
+"Cay Pombo, Santa Maria",2178000.0,2.0,1.0,44.0,36.0,14.85169485,120.9793768,Santa Maria,Bulacan,Region III
+"Tugbok, Davao",3600000.0,2.0,2.0,48.3,50.0,7.1035383,125.4948467,Davao,Davao del Sur,Region XI
+"Antero Soriano Highway Sahud Ulan, Tanza",2839149.0,3.0,1.0,45.0,62.0,14.366749,120.8184475,Tanza,Cavite,Region IV-A
+"Pasong Camachile I, General Trias",2632250.0,3.0,2.0,60.0,50.0,14.3723207,120.8976745,General Trias,Cavite,Region IV-A
+"San Sebastian, Kawit",3336800.0,4.0,2.0,70.0,60.0,14.4129793,120.8886677,Kawit,Cavite,Region IV-A
+"Km.71, North Luzon Expressway Panipuan, Mexico",2705850.0,3.0,2.0,77.3,154.0,15.0941848,120.6701583,Mexico,Pampanga,Region III
+"Sapang Biabas, Mabalacat",1400000.0,2.0,1.0,40.0,40.0,15.1987752,120.6026101,Mabalacat,Pampanga,Region III
+"Buhangin, Davao",21500000.0,5.0,4.0,300.0,200.0,7.1469686,125.5940509,Davao,Davao del Sur,Region XI
+"Alapan Ii-A, Imus",5282600.0,3.0,2.0,80.0,92.0,14.4084522,120.8964956,Imus,Cavite,Region IV-A
+"Valle Cruz, Cabanatuan",5381000.0,3.0,2.0,80.0,203.0,15.4799841,120.9920413,Cabanatuan,Nueva Ecija,Region III
+"Antero Soriano Highway Sahud Ulan, Tanza",2258057.0,3.0,1.0,45.0,62.0,14.366749,120.8184475,Tanza,Cavite,Region IV-A
+"Emilio Vergara Hwy Santa Arcadia, Cabanatuan",5991000.0,3.0,2.0,66.0,99.0,15.4710779,120.9821312,Cabanatuan,Nueva Ecija,Region III
+"Tugbok, Davao",3600000.0,2.0,2.0,48.3,50.0,7.1035383,125.4948467,Davao,Davao del Sur,Region XI
+"Emilio Vergara Hwy Santa Arcadia, Cabanatuan",2972000.0,2.0,1.0,40.0,36.0,15.4710779,120.9821312,Cabanatuan,Nueva Ecija,Region III
+"Sapang Biabas, Mabalacat",1400000.0,2.0,1.0,40.0,40.0,15.1987752,120.6026101,Mabalacat,Pampanga,Region III
+"Emilio Vergara Hwy Santa Arcadia, Cabanatuan",7315000.0,4.0,3.0,83.0,99.0,15.4710779,120.9821312,Cabanatuan,Nueva Ecija,Region III
+"Eden, Mexico",5278000.0,4.0,3.0,91.0,143.0,15.1262529,120.6580131,Mexico,Pampanga,Region III
+"Eden, Mexico",3970000.0,2.0,2.0,59.0,88.0,15.1262529,120.6580131,Mexico,Pampanga,Region III
+"Santa Maria, Mabalacat",1979000.0,2.0,1.0,40.4,43.2,15.2270079,120.5922007,Mabalacat,Pampanga,Region III
+"The Wood Estates, Brgy. Hugo Perez, Trece Martires",3148800.0,2.0,1.0,37.3,70.0,14.3100648,120.8721289,Trece Martires,Cavite,Region IV-A
+"Aningway Sacatihan, Subic",8434000.0,5.0,3.0,100.0,158.0,14.9131781,120.2282421,Subic,Zambales,Region III
+"Eden, Mexico",3979000.0,2.0,2.0,59.0,88.0,15.1262529,120.6580131,Mexico,Pampanga,Region III
+"Alapan Ii-A, Imus",5978000.0,3.0,3.0,90.0,100.0,14.4084522,120.8964956,Imus,Cavite,Region IV-A
+"Sapang Biabas, Mabalacat",2706500.0,3.0,2.0,62.0,65.0,15.1987752,120.6026101,Mabalacat,Pampanga,Region III
+"Aningway Sacatihan, Subic",10501000.0,4.0,3.0,83.0,217.0,14.9131781,120.2282421,Subic,Zambales,Region III
+"Pasong Camachile I, General Trias",6650000.0,3.0,2.0,84.0,120.0,14.3723207,120.8976745,General Trias,Cavite,Region IV-A
+"Pasong Camachile I, General Trias",5978000.0,3.0,3.0,90.0,100.0,14.3723207,120.8976745,General Trias,Cavite,Region IV-A
+"Carsadang Bago I, Imus",5234791.0,3.0,2.0,75.0,112.0,14.4289186,120.928888,Imus,Cavite,Region IV-A
+"Camella Tarlac Access Rd. Maliwalo, Tarlac",10748000.0,5.0,3.0,166.0,143.0,15.4777848,120.6140745,Tarlac,Tarlac,Region III
+"Km. 19 West Service Rd. Cupang, Muntinlupa",26365000.0,3.0,3.0,219.3,90.0,14.4270005,121.0452782,Muntinlupa,Muntinlupa,NCR
+"Longos, Malolos",3025000.0,2.0,1.0,36.0,42.0,14.87426,120.7915336,Malolos,Bulacan,Region III
+"Km. 19 West Service Rd. Cupang, Muntinlupa",28348000.0,3.0,3.0,219.3,105.0,14.4270005,121.0452782,Muntinlupa,Muntinlupa,NCR
+"Aguinaldo Highway San Agustin I, Dasmarinas",9500000.0,4.0,4.0,132.0,66.0,14.3214271,120.94188,Dasmarinas,Cavite,Region IV-A
+"Camella Tarlac Access Rd. Maliwalo, Tarlac",5705000.0,2.0,2.0,53.0,99.0,15.4777848,120.6140745,Tarlac,Tarlac,Region III
+"Camella Tarlac Access Rd. Maliwalo, Tarlac",5174000.0,2.0,1.0,46.0,96.0,15.4777848,120.6140745,Tarlac,Tarlac,Region III
+"Aningway Sacatihan, Subic",2341000.0,1.0,1.0,33.0,70.0,14.9131781,120.2282421,Subic,Zambales,Region III
+"Longos, Malolos",10413000.0,3.0,2.0,76.0,128.0,14.87426,120.7915336,Malolos,Bulacan,Region III
+"Longos, Malolos",5179000.0,2.0,1.0,46.0,60.0,14.87426,120.7915336,Malolos,Bulacan,Region III
+"Longos, Malolos",6005000.0,2.0,2.0,53.0,88.0,14.87426,120.7915336,Malolos,Bulacan,Region III
+"Emilio Vergara Hwy Santa Arcadia, Cabanatuan",6200000.0,3.0,2.0,66.0,99.0,15.4710779,120.9821312,Cabanatuan,Nueva Ecija,Region III
+"Emilio Vergara Hwy Santa Arcadia, Cabanatuan",4454000.0,2.0,1.0,40.0,63.0,15.4710779,120.9821312,Cabanatuan,Nueva Ecija,Region III
+"Emilio Vergara Hwy Santa Arcadia, Cabanatuan",4458000.0,2.0,1.0,46.0,63.0,15.4710779,120.9821312,Cabanatuan,Nueva Ecija,Region III
+"Emilio Vergara Hwy Santa Arcadia, Cabanatuan",8915000.0,3.0,2.0,66.0,121.0,15.4710779,120.9821312,Cabanatuan,Nueva Ecija,Region III
+"Emilio Vergara Hwy Santa Arcadia, Cabanatuan",4270000.0,2.0,1.0,46.0,63.0,15.4710779,120.9821312,Cabanatuan,Nueva Ecija,Region III
+"Emilio Vergara Hwy Santa Arcadia, Cabanatuan",4263000.0,2.0,1.0,40.0,63.0,15.468244,120.9764138,Cabanatuan,Nueva Ecija,Region III
+"Emilio Vergara Hwy Santa Arcadia, Cabanatuan",7503000.0,4.0,3.0,83.0,99.0,15.468244,120.9764138,Cabanatuan,Nueva Ecija,Region III
+"Emilio Vergara Hwy Santa Arcadia, Cabanatuan",8915000.0,3.0,2.0,66.0,121.0,15.468244,120.9764138,Cabanatuan,Nueva Ecija,Region III
+"Emilio Vergara Hwy Santa Arcadia, Cabanatuan",4458000.0,2.0,1.0,46.0,63.0,15.468244,120.9764138,Cabanatuan,Nueva Ecija,Region III
+"Emilio Vergara Hwy Santa Arcadia, Cabanatuan",4454000.0,2.0,1.0,40.0,63.0,15.468244,120.9764138,Cabanatuan,Nueva Ecija,Region III
+"Camella Tarlac Access Rd. Maliwalo, Tarlac",5174000.0,2.0,1.0,46.0,96.0,15.4777848,120.6140745,Tarlac,Tarlac,Region III
+"Emilio Vergara Hwy Santa Arcadia, Cabanatuan",4633000.0,2.0,1.0,46.0,60.0,15.468244,120.9764138,Cabanatuan,Nueva Ecija,Region III
+"Km. 19 West Service Rd. Cupang, Muntinlupa",26393000.0,3.0,3.0,219.3,91.0,14.4321626,121.0452418,Muntinlupa,Muntinlupa,NCR
+"Divisoria, Mexico",4710000.0,2.0,2.0,72.0,121.0,15.0924892,120.6827977,Mexico,Pampanga,Region III
+"Purok Hurtado Concepcion, Koronadal",2683000.0,2.0,1.0,40.3,50.4,6.4918813,124.7994309,Koronadal,South Cotabato,Region XII
+"Km. 19 West Service Rd. Cupang, Muntinlupa",28348000.0,3.0,3.0,219.3,105.0,14.4321626,121.0452418,Muntinlupa,Muntinlupa,NCR
+"Macarthur Hwy Anonas, Urdaneta",6286000.0,3.0,2.0,66.0,110.0,16.0015834,120.5760561,Urdaneta,Pangasinan,Region I
+"Aningway Sacatihan, Subic",6810000.0,3.0,2.0,66.0,146.0,14.9131781,120.2282421,Subic,Zambales,Region III
+"Alapan Ii-A, Imus",6756360.0,4.0,3.0,110.0,100.0,14.4084522,120.8964956,Imus,Cavite,Region IV-A
+"Km. 19 West Service Rd. Cupang, Muntinlupa",33792000.0,3.0,3.0,247.4,93.0,14.4321626,121.0452418,Muntinlupa,Muntinlupa,NCR
+"Km. 19 West Service Rd. Cupang, Muntinlupa",26393000.0,3.0,3.0,219.3,91.0,14.4321626,121.0452418,Muntinlupa,Muntinlupa,NCR
+"San Jose, Antipolo",5700000.0,4.0,3.0,90.0,78.0,14.5853745,121.1822801,Antipolo,Rizal,Region IV-A
+"Km. 19 West Service Rd. Cupang, Muntinlupa",32539000.0,3.0,3.0,247.4,93.0,14.4321626,121.0452418,Muntinlupa,Muntinlupa,NCR
+"Km. 19 West Service Rd. Cupang, Muntinlupa",28348000.0,3.0,3.0,219.3,105.0,14.4321626,121.0452418,Muntinlupa,Muntinlupa,NCR
+"Km. 19 West Service Rd. Cupang, Muntinlupa",28776000.0,3.0,3.0,219.3,90.0,14.4321626,121.0452418,Muntinlupa,Muntinlupa,NCR
+"Camella Tarlac Access Rd. Maliwalo, Tarlac",4872000.0,2.0,1.0,50.0,88.0,15.4777848,120.6140745,Tarlac,Tarlac,Region III
+"Camella Tarlac Access Rd. Maliwalo, Tarlac",6319000.0,3.0,2.0,66.0,99.0,15.4777848,120.6140745,Tarlac,Tarlac,Region III
+"Camella Tarlac Access Rd. Maliwalo, Tarlac",4315000.0,2.0,1.0,46.0,72.0,15.4777848,120.6140745,Tarlac,Tarlac,Region III
+"Aningway Sacatihan, Subic",7907000.0,3.0,2.0,66.0,150.0,14.9131781,120.2282421,Subic,Zambales,Region III
+"Aningway Sacatihan, Subic",7421000.0,5.0,3.0,100.0,121.0,14.9131781,120.2282421,Subic,Zambales,Region III
+"Aningway Sacatihan, Subic",6087000.0,4.0,3.0,83.0,99.0,14.9131781,120.2282421,Subic,Zambales,Region III
+"Aguinaldo Highway San Agustin I, Dasmarinas",9500000.0,4.0,4.0,132.0,66.0,14.3152974,120.9450966,Dasmarinas,Cavite,Region IV-A
+"Km. 19 West Service Rd. Cupang, Muntinlupa",28572000.0,3.0,3.0,219.3,103.0,14.4321626,121.0452418,Muntinlupa,Muntinlupa,NCR
+"Camella Tarlac Access Rd. Maliwalo, Tarlac",5776000.0,3.0,2.0,66.0,88.0,15.4777848,120.6140745,Tarlac,Tarlac,Region III
+"Km. 19 West Service Rd. Cupang, Muntinlupa",26365000.0,3.0,3.0,219.3,90.0,14.4321626,121.0452418,Muntinlupa,Muntinlupa,NCR
+"Divisoria, Mexico",3190000.0,3.0,2.0,60.0,80.0,14.4321626,121.0452418,Mexico,Pampanga,Region III
+"Aningway Sacatihan, Subic",8277000.0,3.0,2.0,66.0,162.0,14.9131781,120.2282421,Subic,Zambales,Region III
+"Camella Prima Butuan, Barangay Ampayon, Butuan City Ampayon, Butuan",4480180.0,2.0,1.0,40.0,88.0,8.955797,125.5900574,Butuan,Agusan del Norte,Region XIII
+"Sapang Biabas, Mabalacat",2224500.0,2.0,1.0,50.0,65.0,15.1987752,120.6026101,Mabalacat,Pampanga,Region III
+"Cupang, Muntinlupa",31348000.0,3.0,3.0,247.4,92.0,14.4378843,121.0503212,Muntinlupa,Muntinlupa,NCR
+"Emilio Vergara Hwy Santa Arcadia, Cabanatuan",9584000.0,5.0,3.0,142.0,132.0,15.468244,120.9764138,Cabanatuan,Nueva Ecija,Region III
+"Emilio Vergara Hwy Santa Arcadia, Cabanatuan",7618000.0,5.0,3.0,100.0,110.0,15.468244,120.9764138,Cabanatuan,Nueva Ecija,Region III
+"Emilio Vergara Hwy Santa Arcadia, Cabanatuan",4383000.0,2.0,1.0,40.0,63.0,15.468244,120.9764138,Cabanatuan,Nueva Ecija,Region III
+"Aningway Sacatihan, Subic",7340000.0,4.0,3.0,83.0,146.0,14.9131781,120.2282421,Subic,Zambales,Region III
+"Mining, Angeles",8000000.0,3.0,2.0,84.0,84.0,15.1451282,120.6028533,Angeles,Pampanga,Region III
+"Km. 19 West Service Rd. Cupang, Muntinlupa",34016000.0,3.0,3.0,247.4,93.0,14.4321626,121.0452418,Muntinlupa,Muntinlupa,NCR
+"San Sebastian, Kawit",2389000.0,3.0,1.0,50.0,50.0,14.4129793,120.8886677,Kawit,Cavite,Region IV-A
+"Bugtong Na Pulo, Lipa",4928000.0,3.0,1.0,65.0,116.0,13.9984308,121.1674592,Lipa,Batangas,Region IV-A
+"Bugtong Na Pulo, Lipa",4006000.0,2.0,1.0,53.0,52.0,13.9984308,121.1674592,Lipa,Batangas,Region IV-A
+"Emilio Vergara Hwy Santa Arcadia, Cabanatuan",10956000.0,5.0,3.0,166.0,143.0,15.468244,120.9764138,Cabanatuan,Nueva Ecija,Region III
+"Emilio Vergara Hwy Santa Arcadia, Cabanatuan",8686000.0,4.0,3.0,85.0,141.0,15.468244,120.9764138,Cabanatuan,Nueva Ecija,Region III
+"Emilio Vergara Hwy Santa Arcadia, Cabanatuan",3230000.0,2.0,1.0,36.0,65.0,15.468244,120.9764138,Cabanatuan,Nueva Ecija,Region III
+"Emilio Vergara Hwy Santa Arcadia, Cabanatuan",5772000.0,2.0,2.0,53.0,89.0,15.468244,120.9764138,Cabanatuan,Nueva Ecija,Region III
+"Emilio Vergara Hwy Santa Arcadia, Cabanatuan",8732000.0,5.0,3.0,142.0,121.0,15.468244,120.9764138,Cabanatuan,Nueva Ecija,Region III
+"Emilio Vergara Hwy Santa Arcadia, Cabanatuan",10863000.0,4.0,3.0,85.0,204.0,15.468244,120.9764138,Cabanatuan,Nueva Ecija,Region III
+"Emilio Vergara Hwy Santa Arcadia, Cabanatuan",2793000.0,2.0,1.0,36.0,42.0,15.468244,120.9764138,Cabanatuan,Nueva Ecija,Region III
+"Emilio Vergara Hwy Santa Arcadia, Cabanatuan",3309000.0,2.0,1.0,36.0,63.0,15.468244,120.9764138,Cabanatuan,Nueva Ecija,Region III
+"Emilio Vergara Hwy Santa Arcadia, Cabanatuan",6650000.0,3.0,2.0,66.0,110.0,15.468244,120.9764138,Cabanatuan,Nueva Ecija,Region III
+"Emilio Vergara Hwy Santa Arcadia, Cabanatuan",5079000.0,2.0,2.0,53.0,88.0,15.468244,120.9764138,Cabanatuan,Nueva Ecija,Region III
+"Emilio Vergara Hwy Santa Arcadia, Cabanatuan",2698000.0,2.0,1.0,36.0,40.0,15.468244,120.9764138,Cabanatuan,Nueva Ecija,Region III
+"Emilio Vergara Hwy Santa Arcadia, Cabanatuan",10692000.0,5.0,3.0,97.0,121.0,15.468244,120.9764138,Cabanatuan,Nueva Ecija,Region III
+"Emilio Vergara Hwy Santa Arcadia, Cabanatuan",4263000.0,2.0,1.0,40.0,60.0,15.468244,120.9764138,Cabanatuan,Nueva Ecija,Region III
+"Aguinaldo Highway San Agustin I, Dasmarinas",9500000.0,4.0,4.0,132.0,66.0,14.3152974,120.9450966,Dasmarinas,Cavite,Region IV-A
+"Km. 19 West Service Rd. Cupang, Muntinlupa",28090000.0,3.0,3.0,219.3,90.0,14.4321626,121.0452418,Muntinlupa,Muntinlupa,NCR
+"Tamiao, Compostela",7021000.0,4.0,2.0,82.0,120.0,10.4382884,123.9947249,Compostela,Cebu,Region VII
+"Caysio Rd. Caysio, Santa Maria",5183808.0,3.0,2.0,75.3,80.0,14.8482305,120.969695,Santa Maria,Bulacan,Region III
+"Longos, Malolos",6924000.0,3.0,2.0,66.0,99.0,14.87426,120.7915336,Malolos,Bulacan,Region III
+"Antero Soriano Highway Sahud Ulan, Tanza",2839149.0,3.0,1.0,45.0,62.0,14.372626,120.8262141,Tanza,Cavite,Region IV-A
+"Cupang, Muntinlupa",43000000.0,4.0,3.0,400.0,350.0,14.4378843,121.0503212,Muntinlupa,Muntinlupa,NCR
+"Daang Hari Alabang Poblacion, Muntinlupa",13000000.0,4.0,2.0,219.0,120.0,14.3840514,121.0083596,Muntinlupa,Muntinlupa,NCR
+"Emilio Vergara Hwy Santa Arcadia, Cabanatuan",3302000.0,2.0,1.0,40.0,42.0,15.468244,120.9764138,Cabanatuan,Nueva Ecija,Region III
+"Tamiao, Compostela",4389000.0,2.0,2.0,53.0,70.0,10.4382884,123.9947249,Compostela,Cebu,Region VII
+"Camella Tarlac Access Rd. Maliwalo, Tarlac",11245000.0,5.0,3.0,142.0,176.0,15.4777848,120.6140745,Tarlac,Tarlac,Region III
+"Pasong Camachile I, General Trias",5282600.0,3.0,2.0,80.0,92.0,14.3723207,120.8976745,General Trias,Cavite,Region IV-A
+"Longos, Malolos",6754000.0,3.0,2.0,66.0,99.0,14.87426,120.7915336,Malolos,Bulacan,Region III
+"Governor'S Dr, 4114 Dasmarinas, Philippines Paliparan I, Dasmarinas",10746000.0,3.0,3.0,115.0,121.0,14.2964321,120.9666029,Dasmarinas,Cavite,Region IV-A
+"Ungka Ii, Pavia",3198000.0,3.0,2.0,60.0,100.0,10.7529006,122.5376029,Pavia,Iloilo,Region VI
+"Pueblo Solana In Ciudad De Calamba Bubuyan, Calamba",4678200.0,2.0,1.0,62.8,88.0,14.1708274,121.0996381,Calamba,Laguna,Region IV-A
+"Km. 19 West Service Rd. Cupang, Muntinlupa",27088000.0,3.0,3.0,219.3,90.0,14.4321626,121.0452418,Muntinlupa,Muntinlupa,NCR
+"Macarthur Hwy Anonas, Urdaneta",8237000.0,3.0,2.0,66.0,141.0,16.0015834,120.5760561,Urdaneta,Pangasinan,Region I
+"Manna East Dalig, Teresa",4470800.0,2.0,1.0,40.3,85.0,14.5663993,121.2157297,Teresa,Rizal,Region IV-A
+"San Sebastian, Kawit",5690000.0,3.0,2.0,72.0,100.0,14.4129793,120.8886677,Kawit,Cavite,Region IV-A
+"Adlas, Silang",12684000.0,5.0,3.0,142.0,174.0,14.2568411,120.965521,Silang,Cavite,Region IV-A
+"Pasong Camachile I, General Trias",6756360.0,4.0,3.0,110.0,100.0,14.3723207,120.8976745,General Trias,Cavite,Region IV-A
+"Km. 19 West Service Rd. Cupang, Muntinlupa",28216000.0,3.0,3.0,219.3,90.0,14.4321626,121.0452418,Muntinlupa,Muntinlupa,NCR
+"Cupang, Muntinlupa",31111000.0,3.0,3.0,247.4,92.0,14.4378843,121.0503212,Muntinlupa,Muntinlupa,NCR
+"Km. 19 West Service Rd. Cupang, Muntinlupa",31111000.0,3.0,3.0,247.4,92.0,14.4321626,121.0452418,Muntinlupa,Muntinlupa,NCR
+"Km. 19 West Service Rd. Cupang, Muntinlupa",26953000.0,3.0,3.0,219.3,91.0,14.4321626,121.0452418,Muntinlupa,Muntinlupa,NCR
+"Cupang, Muntinlupa",32539000.0,3.0,3.0,247.4,93.0,14.4378843,121.0503212,Muntinlupa,Muntinlupa,NCR
+"Km. 19 West Service Rd. Cupang, Muntinlupa",34604000.0,3.0,3.0,247.4,94.0,14.4321626,121.0452418,Muntinlupa,Muntinlupa,NCR
+"Km. 19 West Service Rd. Cupang, Muntinlupa",26365000.0,3.0,3.0,219.3,90.0,14.4321626,121.0452418,Muntinlupa,Muntinlupa,NCR
+"Km. 19 West Service Rd. Cupang, Muntinlupa",26365000.0,3.0,3.0,219.3,90.0,14.4321626,121.0452418,Muntinlupa,Muntinlupa,NCR
+"Km. 19 West Service Rd. Cupang, Muntinlupa",32568000.0,3.0,3.0,247.4,92.0,14.4321626,121.0452418,Muntinlupa,Muntinlupa,NCR
+"Caysio Rd. Caysio, Santa Maria",5183808.0,3.0,2.0,75.3,80.0,14.8482305,120.969695,Santa Maria,Bulacan,Region III
+"Purok Hurtado Concepcion, Koronadal",3528200.0,2.0,1.0,40.3,84.0,6.4918813,124.7994309,Koronadal,South Cotabato,Region XII
+"Aningway Sacatihan, Subic",8463000.0,5.0,3.0,100.0,163.0,14.9131781,120.2282421,Subic,Zambales,Region III
+"Aningway Sacatihan, Subic",3790000.0,2.0,1.0,40.0,73.0,14.9131781,120.2282421,Subic,Zambales,Region III
+"Aningway Sacatihan, Subic",6060000.0,3.0,2.0,66.0,95.0,14.9131781,120.2282421,Subic,Zambales,Region III
+"Arnaldo Highway Santiago, General Trias",4058400.0,3.0,2.0,54.0,80.0,14.3443205,120.9058453,General Trias,Cavite,Region IV-A
+"Caingin, San Rafael",1800000.0,2.0,1.0,46.0,41.0,14.9717467,120.9434431,San Rafael,Bulacan,Region III
+"Camella Tarlac Access Rd. Maliwalo, Tarlac",8938000.0,5.0,3.0,97.0,145.0,15.4777848,120.6140745,Tarlac,Tarlac,Region III
+"Camella Tarlac Access Rd. Maliwalo, Tarlac",7056000.0,4.0,3.0,83.0,99.0,15.4777848,120.6140745,Tarlac,Tarlac,Region III
+"Camella Tarlac Access Rd. Maliwalo, Tarlac",12383000.0,5.0,3.0,166.0,198.0,15.4777848,120.6140745,Tarlac,Tarlac,Region III
+"Camella Tarlac Access Rd. Maliwalo, Tarlac",11510000.0,5.0,3.0,142.0,202.0,15.4777848,120.6140745,Tarlac,Tarlac,Region III
+"Camella Tarlac Access Rd. Maliwalo, Tarlac",5406000.0,2.0,2.0,53.0,88.0,15.4777848,120.6140745,Tarlac,Tarlac,Region III
+"Camella Tarlac Access Rd. Maliwalo, Tarlac",2742000.0,2.0,1.0,36.0,42.0,15.4777848,120.6140745,Tarlac,Tarlac,Region III
+"Camella Tarlac Access Rd. Maliwalo, Tarlac",10159000.0,5.0,3.0,100.0,176.0,15.4777848,120.6140745,Tarlac,Tarlac,Region III
+"Camella Tarlac Access Rd. Maliwalo, Tarlac",8228000.0,5.0,3.0,100.0,121.0,15.4777848,120.6140745,Tarlac,Tarlac,Region III
+"Camella Tarlac Access Rd. Maliwalo, Tarlac",2871000.0,2.0,1.0,36.0,48.0,15.4777848,120.6140745,Tarlac,Tarlac,Region III
+"Tamiao, Compostela",5049000.0,2.0,2.0,53.0,50.0,10.4382884,123.9947249,Compostela,Cebu,Region VII
+"Camella Tarlac Access Rd. Maliwalo, Tarlac",3066000.0,2.0,1.0,36.0,63.0,15.4777848,120.6140745,Tarlac,Tarlac,Region III
+"Emilio Vergara Hwy Santa Arcadia, Cabanatuan",7650000.0,5.0,3.0,100.0,121.0,15.468244,120.9764138,Cabanatuan,Nueva Ecija,Region III
+"Emilio Vergara Hwy Santa Arcadia, Cabanatuan",9153000.0,5.0,3.0,100.0,141.0,15.468244,120.9764138,Cabanatuan,Nueva Ecija,Region III
+"Emilio Vergara Hwy Santa Arcadia, Cabanatuan",4787000.0,2.0,1.0,46.0,64.0,15.468244,120.9764138,Cabanatuan,Nueva Ecija,Region III
+"Emilio Vergara Hwy Santa Arcadia, Cabanatuan",6497000.0,3.0,2.0,66.0,99.0,15.468244,120.9764138,Cabanatuan,Nueva Ecija,Region III
+"Camella Tarlac Access Rd. Maliwalo, Tarlac",5031000.0,2.0,1.0,50.0,99.0,15.4777848,120.6140745,Tarlac,Tarlac,Region III
+"Bugtong Na Pulo, Lipa",5692000.0,4.0,2.0,80.0,100.0,13.9984308,121.1674592,Lipa,Batangas,Region IV-A
+"Arnaldo Highway Santiago, General Trias",4058400.0,3.0,2.0,54.0,80.0,14.3443205,120.9058453,General Trias,Cavite,Region IV-A
+"Valle Cruz, Cabanatuan",4896200.0,3.0,2.0,81.0,117.0,15.4799841,120.9920413,Cabanatuan,Nueva Ecija,Region III
+"Aningway Sacatihan, Subic",9185000.0,5.0,3.0,142.0,153.0,14.9131781,120.2282421,Subic,Zambales,Region III
+"Bugtong Na Pulo, Lipa",5692000.0,4.0,2.0,80.0,100.0,13.9984308,121.1674592,Lipa,Batangas,Region IV-A
+"Julugan I, Tanza",1650408.0,2.0,1.0,44.0,36.0,14.4053429,120.8428788,Tanza,Cavite,Region IV-A
+"Emilio Vergara Hwy Santa Arcadia, Cabanatuan",7650000.0,5.0,3.0,100.0,121.0,15.468244,120.9764138,Cabanatuan,Nueva Ecija,Region III
+"Emilio Vergara Hwy Santa Arcadia, Cabanatuan",9153000.0,5.0,3.0,100.0,141.0,15.468244,120.9764138,Cabanatuan,Nueva Ecija,Region III
+"Emilio Vergara Hwy Santa Arcadia, Cabanatuan",6497000.0,3.0,2.0,66.0,99.0,15.468244,120.9764138,Cabanatuan,Nueva Ecija,Region III
+"Emilio Vergara Hwy Santa Arcadia, Cabanatuan",4787000.0,2.0,1.0,46.0,64.0,15.468244,120.9764138,Cabanatuan,Nueva Ecija,Region III
+"Emilio Vergara Hwy Santa Arcadia, Cabanatuan",10575000.0,5.0,3.0,166.0,143.0,15.468244,120.9764138,Cabanatuan,Nueva Ecija,Region III
+"Emilio Vergara Hwy Santa Arcadia, Cabanatuan",4259000.0,2.0,1.0,46.0,54.0,15.468244,120.9764138,Cabanatuan,Nueva Ecija,Region III
+"Emilio Vergara Hwy Santa Arcadia, Cabanatuan",5425000.0,2.0,2.0,53.0,88.0,15.468244,120.9764138,Cabanatuan,Nueva Ecija,Region III
+"Emilio Vergara Hwy Santa Arcadia, Cabanatuan",3146000.0,2.0,1.0,36.0,63.0,15.468244,120.9764138,Cabanatuan,Nueva Ecija,Region III
+"Emilio Vergara Hwy Santa Arcadia, Cabanatuan",2799000.0,2.0,1.0,36.0,36.0,15.468244,120.9764138,Cabanatuan,Nueva Ecija,Region III
+"Emilio Vergara Hwy Santa Arcadia, Cabanatuan",7240000.0,3.0,2.0,53.0,133.0,15.468244,120.9764138,Cabanatuan,Nueva Ecija,Region III
+"Emilio Vergara Hwy Santa Arcadia, Cabanatuan",4348000.0,2.0,1.0,40.0,63.0,15.468244,120.9764138,Cabanatuan,Nueva Ecija,Region III
+"Tamiao, Compostela",4389000.0,2.0,2.0,53.0,50.0,10.4382884,123.9947249,Compostela,Cebu,Region VII
+"Aningway Sacatihan, Subic",5578000.0,2.0,2.0,53.0,95.0,14.9131781,120.2282421,Subic,Zambales,Region III
+"Macarthur Hwy Anonas, Urdaneta",8727000.0,3.0,2.0,66.0,158.0,16.0015834,120.5760561,Urdaneta,Pangasinan,Region I
+"Macarthur Hwy Anonas, Urdaneta",5301000.0,3.0,2.0,66.0,88.0,16.0015834,120.5760561,Urdaneta,Pangasinan,Region I
+"Macarthur Hwy Anonas, Urdaneta",9375000.0,3.0,2.0,66.0,174.0,16.0015834,120.5760561,Urdaneta,Pangasinan,Region I
+"Santa Maria, Mabalacat",1979000.0,2.0,1.0,38.9,43.2,15.2270079,120.5922007,Mabalacat,Pampanga,Region III
+"Cupang, Muntinlupa",32539000.0,3.0,3.0,247.4,93.0,14.4378843,121.0503212,Muntinlupa,Muntinlupa,NCR
+"Km. 19 West Service Rd. Cupang, Muntinlupa",31348000.0,3.0,3.0,247.4,92.0,14.4321626,121.0452418,Muntinlupa,Muntinlupa,NCR
+"Km. 19 West Service Rd. Cupang, Muntinlupa",32514000.0,3.0,3.0,247.4,92.0,14.4321626,121.0452418,Muntinlupa,Muntinlupa,NCR
+"Cupang, Muntinlupa",32539000.0,3.0,3.0,247.4,93.0,14.4378843,121.0503212,Muntinlupa,Muntinlupa,NCR
+"Km. 19 West Service Rd. Cupang, Muntinlupa",32331000.0,3.0,3.0,247.4,94.0,14.4321626,121.0452418,Muntinlupa,Muntinlupa,NCR
+"Km. 19 West Service Rd. Cupang, Muntinlupa",32184000.0,3.0,3.0,247.4,92.0,14.4321626,121.0452418,Muntinlupa,Muntinlupa,NCR
+"Km. 19 West Service Rd. Cupang, Muntinlupa",32539000.0,3.0,3.0,247.4,93.0,14.4321626,121.0452418,Muntinlupa,Muntinlupa,NCR
+"Km. 19 West Service Rd. Cupang, Muntinlupa",34016000.0,3.0,3.0,247.4,93.0,14.4321626,121.0452418,Muntinlupa,Muntinlupa,NCR
+"Cupang, Muntinlupa",32331000.0,3.0,3.0,247.4,94.0,14.4378843,121.0503212,Muntinlupa,Muntinlupa,NCR
+"Km. 19 West Service Rd. Cupang, Muntinlupa",32539000.0,3.0,3.0,247.4,93.0,14.4321626,121.0452418,Muntinlupa,Muntinlupa,NCR
+"Km. 19 West Service Rd. Cupang, Muntinlupa",27088000.0,3.0,3.0,219.3,90.0,14.4321626,121.0452418,Muntinlupa,Muntinlupa,NCR
+"Cupang, Muntinlupa",31706000.0,3.0,3.0,247.4,92.0,14.4378843,121.0503212,Muntinlupa,Muntinlupa,NCR
+"Km. 19 West Service Rd. Cupang, Muntinlupa",26365000.0,3.0,3.0,219.3,90.0,14.4321626,121.0452418,Muntinlupa,Muntinlupa,NCR
+"Km. 19 West Service Rd. Cupang, Muntinlupa",27676000.0,3.0,3.0,219.3,91.0,14.4321626,121.0452418,Muntinlupa,Muntinlupa,NCR
+"Km. 19 West Service Rd. Cupang, Muntinlupa",29098000.0,3.0,3.0,219.3,106.0,14.4321626,121.0452418,Muntinlupa,Muntinlupa,NCR
+"Km. 19 West Service Rd. Cupang, Muntinlupa",34016000.0,3.0,3.0,247.4,93.0,14.4321626,121.0452418,Muntinlupa,Muntinlupa,NCR
+"Aningway Sacatihan, Subic",4866000.0,2.0,2.0,53.0,88.0,14.9131781,120.2282421,Subic,Zambales,Region III
+"Camella Tarlac Access Rd. Maliwalo, Tarlac",11871000.0,5.0,3.0,142.0,198.0,15.4777848,120.6140745,Tarlac,Tarlac,Region III
+"Camella Tarlac Access Rd. Maliwalo, Tarlac",6893000.0,4.0,3.0,83.0,104.0,15.4777848,120.6140745,Tarlac,Tarlac,Region III
+"Camella Tarlac Access Rd. Maliwalo, Tarlac",3999000.0,2.0,1.0,46.0,66.0,15.4777848,120.6140745,Tarlac,Tarlac,Region III
+"Camella Tarlac Access Rd. Maliwalo, Tarlac",5192000.0,2.0,1.0,46.0,96.0,15.4777848,120.6140745,Tarlac,Tarlac,Region III
+"Camella Tarlac Access Rd. Maliwalo, Tarlac",4488000.0,2.0,1.0,46.0,63.0,15.4777848,120.6140745,Tarlac,Tarlac,Region III
+"Camella Tarlac Access Rd. Maliwalo, Tarlac",3559000.0,2.0,1.0,46.0,63.0,15.4777848,120.6140745,Tarlac,Tarlac,Region III
+"Aningway Sacatihan, Subic",5605000.0,2.0,2.0,53.0,115.0,14.9131781,120.2282421,Subic,Zambales,Region III
+"San Sebastian, Kawit",5978000.0,3.0,3.0,90.0,100.0,14.4129793,120.8886677,Kawit,Cavite,Region IV-A
+"Aningway Sacatihan, Subic",10770000.0,5.0,3.0,166.0,176.0,14.9131781,120.2282421,Subic,Zambales,Region III
+"Aningway Sacatihan, Subic",11739000.0,5.0,3.0,142.0,190.0,14.9131781,120.2282421,Subic,Zambales,Region III
+"Valle Cruz, Cabanatuan",4772388.0,3.0,2.0,80.0,203.0,15.4799841,120.9920413,Cabanatuan,Nueva Ecija,Region III
+"San Sebastian, Kawit",7410000.0,4.0,3.0,100.0,120.0,14.4129793,120.8886677,Kawit,Cavite,Region IV-A
+"Ungka Ii, Pavia",4436364.0,3.0,2.0,72.0,100.0,10.7529006,122.5376029,Pavia,Iloilo,Region VI
+"President Jose P. Laurel Hwy Banaybanay Ii, San Jose",8700000.0,3.0,3.0,84.8,125.2,13.9184235,121.1054948,San Jose,Batangas,Region IV-A
+"Sapang Biabas, Mabalacat",2706500.0,3.0,2.0,62.0,65.0,15.1987752,120.6026101,Mabalacat,Pampanga,Region III
+"Km. 19 West Service Rd. Cupang, Muntinlupa",26953000.0,3.0,3.0,219.3,91.0,14.4302736,121.0452586,Muntinlupa,Muntinlupa,NCR
+"President Jose P. Laurel Hwy Banaybanay Ii, San Jose",8700000.0,3.0,3.0,84.8,125.2,13.9184235,121.1054948,San Jose,Batangas,Region IV-A
+"Valle Cruz, Cabanatuan",7452000.0,3.0,2.0,80.0,203.0,15.4799841,120.9920413,Cabanatuan,Nueva Ecija,Region III
+"Pasong Camachile I, General Trias",5690000.0,3.0,2.0,72.0,100.0,14.3723207,120.8976745,General Trias,Cavite,Region IV-A
+"Macarthur Hwy Anonas, Urdaneta",5691000.0,2.0,2.0,53.0,110.0,16.0015834,120.5760561,Urdaneta,Pangasinan,Region I
+"Aningway Sacatihan, Subic",13479000.0,5.0,3.0,166.0,230.0,14.9131781,120.2282421,Subic,Zambales,Region III
+"San Sebastian, Kawit",7410000.0,4.0,3.0,100.0,120.0,14.4129793,120.8886677,Kawit,Cavite,Region IV-A
+"Macarthur Hwy Anonas, Urdaneta",8434000.0,2.0,2.0,53.0,246.0,16.0015834,120.5760561,Urdaneta,Pangasinan,Region I
+"Km. 19 West Service Rd. Cupang, Muntinlupa",28678000.0,3.0,3.0,219.3,91.0,14.4302736,121.0452586,Muntinlupa,Muntinlupa,NCR
+"Valle Cruz, Cabanatuan",5772333.0,4.0,2.0,96.0,196.0,15.4799841,120.9920413,Cabanatuan,Nueva Ecija,Region III
+"Km. 19 West Service Rd. Cupang, Muntinlupa",26953000.0,3.0,3.0,219.3,91.0,14.4302736,121.0452586,Muntinlupa,Muntinlupa,NCR
+"President Jose P. Laurel Hwy Banaybanay Ii, San Jose",8700000.0,3.0,3.0,84.8,125.2,13.9184235,121.1054948,San Jose,Batangas,Region IV-A
+"Longos, Malolos",4079000.0,2.0,1.0,36.0,74.0,14.87426,120.7915336,Malolos,Bulacan,Region III
+"Longos, Malolos",12576000.0,4.0,3.0,83.0,132.0,14.87426,120.7915336,Malolos,Bulacan,Region III
+"Longos, Malolos",7425000.0,4.0,3.0,85.0,99.0,14.87426,120.7915336,Malolos,Bulacan,Region III
+"Longos, Malolos",4414000.0,2.0,1.0,36.0,63.0,14.87426,120.7915336,Malolos,Bulacan,Region III
+"Emilio Vergara Hwy Santa Arcadia, Cabanatuan",4608000.0,2.0,1.0,46.0,63.0,15.468244,120.9764138,Cabanatuan,Nueva Ecija,Region III
+"Aningway Sacatihan, Subic",10185000.0,5.0,3.0,142.0,142.0,14.9131781,120.2282421,Subic,Zambales,Region III
+"Emilio Vergara Hwy Santa Arcadia, Cabanatuan",3702000.0,2.0,1.0,40.0,63.0,15.468244,120.9764138,Cabanatuan,Nueva Ecija,Region III
+"Emilio Vergara Hwy Santa Arcadia, Cabanatuan",4432000.0,2.0,1.0,40.0,64.0,15.468244,120.9764138,Cabanatuan,Nueva Ecija,Region III
+"Emilio Vergara Hwy Santa Arcadia, Cabanatuan",8158000.0,5.0,3.0,100.0,121.0,15.468244,120.9764138,Cabanatuan,Nueva Ecija,Region III
+"Emilio Vergara Hwy Santa Arcadia, Cabanatuan",7764000.0,4.0,3.0,83.0,110.0,15.468244,120.9764138,Cabanatuan,Nueva Ecija,Region III
+"Emilio Vergara Hwy Santa Arcadia, Cabanatuan",2717000.0,2.0,1.0,36.0,42.0,15.468244,120.9764138,Cabanatuan,Nueva Ecija,Region III
+"Emilio Vergara Hwy Santa Arcadia, Cabanatuan",3228000.0,2.0,1.0,36.0,54.0,15.468244,120.9764138,Cabanatuan,Nueva Ecija,Region III
+"Antero-Soriano Hwy, Remulla Drive Tanza-Naic Rd. Sahud Ulan, Tanza",3643800.0,2.0,1.0,39.6,100.0,14.3631351,120.8207756,Tanza,Cavite,Region IV-A
+"Emilio Vergara Hwy Santa Arcadia, Cabanatuan",10061000.0,5.0,3.0,166.0,143.0,15.468244,120.9764138,Cabanatuan,Nueva Ecija,Region III
+"Emilio Vergara Hwy Santa Arcadia, Cabanatuan",8608000.0,5.0,3.0,100.0,132.0,15.468244,120.9764138,Cabanatuan,Nueva Ecija,Region III
+"Emilio Vergara Hwy Santa Arcadia, Cabanatuan",10354000.0,5.0,3.0,142.0,143.0,15.468244,120.9764138,Cabanatuan,Nueva Ecija,Region III
+"Emilio Vergara Hwy Santa Arcadia, Cabanatuan",8086000.0,4.0,3.0,85.0,120.0,15.468244,120.9764138,Cabanatuan,Nueva Ecija,Region III
+"Emilio Vergara Hwy Santa Arcadia, Cabanatuan",5779000.0,2.0,2.0,53.0,96.0,15.468244,120.9764138,Cabanatuan,Nueva Ecija,Region III
+"Aningway Sacatihan, Subic",12866000.0,5.0,3.0,166.0,198.0,14.9131781,120.2282421,Subic,Zambales,Region III
+"San Isidro, Cainta",10500000.0,3.0,3.0,120.0,132.0,14.6092561,121.1106377,Cainta,Rizal,Region IV-A
+"Km.71, North Luzon Expressway Panipuan, Mexico",3116400.0,3.0,2.0,89.5,154.0,15.0941848,120.6701583,Mexico,Pampanga,Region III
+"Aningway Sacatihan, Subic",12035000.0,5.0,3.0,166.0,190.0,14.9131781,120.2282421,Subic,Zambales,Region III
+"Buhay Na Tubig, Imus",15500000.0,2.0,1.0,60.0,185.0,14.4069709,120.9565072,Imus,Cavite,Region IV-A
+"Cabuco, Trece Martires",2089739.0,2.0,2.0,40.0,45.0,14.2792049,120.8446323,Trece Martires,Cavite,Region IV-A
+"Efigenio Lizares, Talisay",3079100.0,2.0,1.0,34.2,84.0,10.7425424,122.9987613,Talisay,Negros Occidental,Region XVIII
+"Cabuco, Trece Martires",1918427.0,2.0,2.0,38.0,36.0,14.2792049,120.8446323,Trece Martires,Cavite,Region IV-A
+"Aningway Sacatihan, Subic",6480000.0,4.0,3.0,83.0,110.0,14.9131781,120.2282421,Subic,Zambales,Region III
+"Orange Grv, 8000 Davao City, Philippines Matina Pangi, Davao",8000000.0,4.0,3.0,133.5,122.0,7.0824169,125.5617732,Davao,Davao del Sur,Region XI
+"Buhangin, Davao",17500000.0,5.0,4.0,260.0,232.0,7.1469686,125.5940509,Davao,Davao del Sur,Region XI
+"Alapan Ii-A, Imus",7410000.0,4.0,3.0,100.0,120.0,14.4084522,120.8964956,Imus,Cavite,Region IV-A
+"Antero-Soriano Hwy, Remulla Drive Tanza-Naic Rd. Sahud Ulan, Tanza",3649500.0,3.0,1.0,67.5,100.0,14.3631351,120.8207756,Tanza,Cavite,Region IV-A
+"Arnaldo Highway Santiago, General Trias",4058400.0,3.0,2.0,54.0,80.0,14.3409388,120.9073794,General Trias,Cavite,Region IV-A
+"Cupang, Muntinlupa",32539000.0,3.0,3.0,247.4,93.0,14.4378843,121.0503212,Muntinlupa,Muntinlupa,NCR
+"Km. 19 West Service Rd. Cupang, Muntinlupa",28628000.0,3.0,3.0,219.3,105.0,14.4302736,121.0452586,Muntinlupa,Muntinlupa,NCR
+"Km. 19 West Service Rd. Cupang, Muntinlupa",26393000.0,3.0,3.0,219.3,91.0,14.4302736,121.0452586,Muntinlupa,Muntinlupa,NCR
+"Km. 19 West Service Rd. Cupang, Muntinlupa",28090000.0,3.0,3.0,219.3,90.0,14.4302736,121.0452586,Muntinlupa,Muntinlupa,NCR
+"Km. 19 West Service Rd. Cupang, Muntinlupa",26953000.0,3.0,3.0,219.3,91.0,14.4302736,121.0452586,Muntinlupa,Muntinlupa,NCR
+"Km. 19 West Service Rd. Cupang, Muntinlupa",29196000.0,3.0,3.0,219.3,105.0,14.4302736,121.0452586,Muntinlupa,Muntinlupa,NCR
+"Km. 19 West Service Rd. Cupang, Muntinlupa",28636000.0,3.0,3.0,219.3,105.0,14.4302736,121.0452586,Muntinlupa,Muntinlupa,NCR
+"Km. 19 West Service Rd. Cupang, Muntinlupa",32539000.0,3.0,3.0,247.4,93.0,14.4302736,121.0452586,Muntinlupa,Muntinlupa,NCR
+"Km. 19 West Service Rd. Cupang, Muntinlupa",26981000.0,3.0,3.0,219.3,92.0,14.4302736,121.0452586,Muntinlupa,Muntinlupa,NCR
+"Cabuco, Trece Martires",2089739.0,2.0,2.0,40.0,45.0,14.2792049,120.8446323,Trece Martires,Cavite,Region IV-A
+"Carsadang Bago I, Imus",5234791.0,3.0,2.0,75.0,80.0,14.4289186,120.928888,Imus,Cavite,Region IV-A
+"Camella Tarlac Access Rd. Maliwalo, Tarlac",7805000.0,4.0,3.0,83.0,121.0,15.4777848,120.6140745,Tarlac,Tarlac,Region III
+"Camella Tarlac Access Rd. Maliwalo, Tarlac",4359000.0,2.0,1.0,46.0,72.0,15.4777848,120.6140745,Tarlac,Tarlac,Region III
+"Camella Tarlac Access Rd. Maliwalo, Tarlac",4057000.0,2.0,1.0,40.0,63.0,15.4777848,120.6140745,Tarlac,Tarlac,Region III
+"Camella Tarlac Access Rd. Maliwalo, Tarlac",5869000.0,3.0,2.0,66.0,88.0,15.4777848,120.6140745,Tarlac,Tarlac,Region III
+"Camella Tarlac Access Rd. Maliwalo, Tarlac",8079000.0,4.0,3.0,85.0,121.0,15.4777848,120.6140745,Tarlac,Tarlac,Region III
+"Camella Tarlac Access Rd. Maliwalo, Tarlac",4944000.0,2.0,1.0,36.0,115.0,15.4777848,120.6140745,Tarlac,Tarlac,Region III
+"Purok Hurtado Concepcion, Koronadal",3136800.0,2.0,1.0,40.3,78.4,6.4918813,124.7994309,Koronadal,South Cotabato,Region XII
+"Carsadang Bago I, Imus",5234791.0,3.0,2.0,75.0,80.0,14.4289186,120.928888,Imus,Cavite,Region IV-A
+"Aningway Sacatihan, Subic",6753000.0,4.0,3.0,83.0,121.0,14.9131781,120.2282421,Subic,Zambales,Region III
+"Km. 19 West Service Rd. Cupang, Muntinlupa",27088000.0,3.0,3.0,219.3,90.0,14.4302736,121.0452586,Muntinlupa,Muntinlupa,NCR
+"Aningway Sacatihan, Subic",12069000.0,5.0,3.0,142.0,246.0,14.9131781,120.2282421,Subic,Zambales,Region III
+"Aningway Sacatihan, Subic",5362000.0,2.0,2.0,53.0,88.0,14.9131781,120.2282421,Subic,Zambales,Region III
+"Camella Tarlac Access Rd. Maliwalo, Tarlac",8079000.0,4.0,3.0,85.0,121.0,15.4777848,120.6140745,Tarlac,Tarlac,Region III
+"Camella Tarlac Access Rd. Maliwalo, Tarlac",5869000.0,3.0,2.0,66.0,88.0,15.4777848,120.6140745,Tarlac,Tarlac,Region III
+"Camella Tarlac Access Rd. Maliwalo, Tarlac",7805000.0,4.0,3.0,83.0,121.0,15.4777848,120.6140745,Tarlac,Tarlac,Region III
+"Camella Tarlac Access Rd. Maliwalo, Tarlac",4359000.0,2.0,1.0,46.0,72.0,15.4777848,120.6140745,Tarlac,Tarlac,Region III
+"Camella Tarlac Access Rd. Maliwalo, Tarlac",5074000.0,2.0,1.0,50.0,91.0,15.4777848,120.6140745,Tarlac,Tarlac,Region III
+"Camella Tarlac Access Rd. Maliwalo, Tarlac",12941000.0,5.0,3.0,166.0,236.0,15.4777848,120.6140745,Tarlac,Tarlac,Region III
+"Camella Tarlac Access Rd. Maliwalo, Tarlac",4057000.0,2.0,1.0,40.0,63.0,15.4777848,120.6140745,Tarlac,Tarlac,Region III
+"Camella Tarlac Access Rd. Maliwalo, Tarlac",4944000.0,2.0,1.0,36.0,115.0,15.4777848,120.6140745,Tarlac,Tarlac,Region III
+"Sapang Biabas, Mabalacat",2224500.0,2.0,1.0,50.0,65.0,15.1987752,120.6026101,Mabalacat,Pampanga,Region III
+"Macarthur Hwy Anonas, Urdaneta",4706000.0,2.0,2.0,53.0,88.0,16.0015834,120.5760561,Urdaneta,Pangasinan,Region I
+"Efigenio Lizares, Talisay",3185000.0,2.0,1.0,40.3,84.0,10.7425424,122.9987613,Talisay,Negros Occidental,Region XVIII
+"Macarthur Hwy Anonas, Urdaneta",5301000.0,2.0,2.0,53.0,96.0,16.0015834,120.5760561,Urdaneta,Pangasinan,Region I
+"Km.71, North Luzon Expressway Panipuan, Mexico",2146550.0,3.0,2.0,61.3,154.0,15.0941848,120.6701583,Mexico,Pampanga,Region III
+"Governor'S Dr, 4114 Dasmarinas, Philippines Paliparan Iii, Dasmarinas",14451000.0,5.0,3.0,142.0,154.0,14.3019569,120.88374,Dasmarinas,Cavite,Region IV-A
+"Pasong Camachile I, General Trias",3336800.0,4.0,2.0,70.0,60.0,14.3723207,120.8976745,General Trias,Cavite,Region IV-A
+"Longos, Malolos",4196000.0,2.0,1.0,40.0,63.0,14.87426,120.7915336,Malolos,Bulacan,Region III
+"Longos, Malolos",5733000.0,2.0,2.0,53.0,88.0,14.87426,120.7915336,Malolos,Bulacan,Region III
+"Longos, Malolos",5544000.0,2.0,1.0,36.0,104.0,14.87426,120.7915336,Malolos,Bulacan,Region III
+"Longos, Malolos",7810000.0,3.0,2.0,66.0,99.0,14.87426,120.7915336,Malolos,Bulacan,Region III
+"Longos, Malolos",8298000.0,5.0,3.0,100.0,110.0,14.87426,120.7915336,Malolos,Bulacan,Region III
+"Longos, Malolos",4466000.0,2.0,1.0,46.0,63.0,14.87426,120.7915336,Malolos,Bulacan,Region III
+"Km. 19 West Service Rd. Cupang, Muntinlupa",32184000.0,3.0,3.0,247.4,92.0,14.4302736,121.0452586,Muntinlupa,Muntinlupa,NCR
+"Aningway Sacatihan, Subic",4594000.0,2.0,1.0,46.0,63.0,14.9131781,120.2282421,Subic,Zambales,Region III
+"Emilio Vergara Hwy Santa Arcadia, Cabanatuan",4160000.0,2.0,1.0,46.0,60.0,15.468244,120.9764138,Cabanatuan,Nueva Ecija,Region III
+"Emilio Vergara Hwy Santa Arcadia, Cabanatuan",6884000.0,4.0,3.0,85.0,110.0,15.468244,120.9764138,Cabanatuan,Nueva Ecija,Region III
+"Emilio Vergara Hwy Santa Arcadia, Cabanatuan",6262000.0,3.0,2.0,66.0,96.0,15.468244,120.9764138,Cabanatuan,Nueva Ecija,Region III
+"Emilio Vergara Hwy Santa Arcadia, Cabanatuan",6559000.0,3.0,2.0,66.0,99.0,15.468244,120.9764138,Cabanatuan,Nueva Ecija,Region III
+"Emilio Vergara Hwy Santa Arcadia, Cabanatuan",9003000.0,5.0,3.0,100.0,141.0,15.468244,120.9764138,Cabanatuan,Nueva Ecija,Region III
+"Emilio Vergara Hwy Santa Arcadia, Cabanatuan",6347000.0,3.0,2.0,66.0,96.0,15.468244,120.9764138,Cabanatuan,Nueva Ecija,Region III
+"Almanza Dos, Las Pinas",35000000.0,5.0,5.0,380.0,350.0,14.42473245,121.0145735,Las Pinas,Las Pinas,NCR
+"Emilio Vergara Hwy Santa Arcadia, Cabanatuan",4904000.0,2.0,1.0,46.0,60.0,15.468244,120.9764138,Cabanatuan,Nueva Ecija,Region III
+"Emilio Vergara Hwy Santa Arcadia, Cabanatuan",5282000.0,2.0,1.0,46.0,63.0,15.468244,120.9764138,Cabanatuan,Nueva Ecija,Region III
+"Emilio Vergara Hwy Santa Arcadia, Cabanatuan",4281000.0,2.0,1.0,46.0,60.0,15.468244,120.9764138,Cabanatuan,Nueva Ecija,Region III
+"Emilio Vergara Hwy Santa Arcadia, Cabanatuan",4364000.0,2.0,1.0,36.0,63.0,15.468244,120.9764138,Cabanatuan,Nueva Ecija,Region III
+"Emilio Vergara Hwy Santa Arcadia, Cabanatuan",4393000.0,2.0,1.0,40.0,63.0,15.468244,120.9764138,Cabanatuan,Nueva Ecija,Region III
+"Zambowood Rd. Boalan, Zamboanga",2450200.0,2.0,1.0,40.3,50.4,6.9483885,122.1148889,Zamboanga,Zamboanga,Region IX
+"Perrelos, Carcar",11000000.0,3.0,3.0,442.0,283.0,10.1143434,123.6747667,Carcar,Cebu,Region VII
+"San Isidro, Cainta",14700000.0,4.0,3.0,255.0,187.0,14.6092561,121.1106377,Cainta,Rizal,Region IV-A
+"Camella Tarlac Access Rd. Maliwalo, Tarlac",4540000.0,2.0,1.0,36.0,98.0,15.4777848,120.6140745,Tarlac,Tarlac,Region III
+"President Jose P. Laurel Hwy Banaybanay Ii, San Jose",4062500.0,2.0,2.0,48.3,50.0,13.9184235,121.1054948,San Jose,Batangas,Region IV-A
+"Carsadang Bago I, Imus",5234791.0,3.0,2.0,75.0,80.0,14.4289186,120.928888,Imus,Cavite,Region IV-A
+"Divisoria, Mexico",2530000.0,2.0,2.0,48.0,45.5,14.4321626,121.0452418,Mexico,Pampanga,Region III
+"The Wood Estates, Brgy. Hugo Perez, Trece Martires",2149700.0,1.0,1.0,27.2,69.0,14.3100648,120.8721289,Trece Martires,Cavite,Region IV-A
+"President Jose P. Laurel Hwy Banaybanay Ii, San Jose",4062500.0,2.0,2.0,48.3,50.0,13.9184235,121.1054948,San Jose,Batangas,Region IV-A
+"Governor'S Dr, 4114 Dasmarinas, Philippines Paliparan Iii, Dasmarinas",14986000.0,5.0,3.0,166.0,154.0,14.3019569,120.88374,Dasmarinas,Cavite,Region IV-A
+"Sapang Biabas, Mabalacat",2224500.0,2.0,1.0,50.0,65.0,15.1987752,120.6026101,Mabalacat,Pampanga,Region III
+"Metrocor-B Homes, Talon 5, Las Pinas City Talon Singko, Las Pinas",8897000.0,4.0,3.0,143.0,80.0,14.4235191,120.9966979,Las Pinas,Las Pinas,NCR
+"San Juan - Laiya Rd. Calubcub Ii, San Juan",12099000.0,3.0,2.0,100.0,200.0,13.7425627,121.4257242,San Juan,Batangas,Region IV-A
+"Alfonso, Concepcion",3340000.0,3.0,2.0,107.6,100.0,15.3290862,120.6394315,Concepcion,Tarlac,Region III
+"B.F. Homes, Paranaque",35000000.0,4.0,6.0,330.0,280.0,14.4462789,121.0274109,Paranaque,Paranaque,NCR
+"San Juan - Laiya Rd. Calubcub Ii, San Juan",18771000.0,3.0,2.0,100.0,200.0,13.7425627,121.4257242,San Juan,Batangas,Region IV-A
+"Camella Tarlac Access Rd. Maliwalo, Tarlac",9683000.0,5.0,3.0,100.0,148.0,15.4777848,120.6140745,Tarlac,Tarlac,Region III
+"San Juan - Laiya Rd. Calubcub Ii, San Juan",15450000.0,4.0,3.0,150.0,200.0,13.7425627,121.4257242,San Juan,Batangas,Region IV-A
+"Camella Tarlac Access Rd. Maliwalo, Tarlac",7408000.0,2.0,1.0,36.0,205.0,15.4777848,120.6140745,Tarlac,Tarlac,Region III
+"Tugbok, Davao",8500000.0,3.0,3.0,74.3,80.0,7.1035383,125.4948467,Davao,Davao del Sur,Region XI
+"Calubcub Ii, San Juan",30000000.0,3.0,3.0,337.0,312.0,13.7367475,121.420371,San Juan,Batangas,Region IV-A
+"Camella Tarlac Access Rd. Maliwalo, Tarlac",8229000.0,4.0,3.0,85.0,121.0,15.4777848,120.6140745,Tarlac,Tarlac,Region III
+"Cale, Tanauan",1496900.0,1.0,1.0,27.2,60.0,14.1177207,121.0940992,Tanauan,Batangas,Region IV-A
+"Bugtong Na Pulo, Lipa",9841000.0,5.0,3.0,150.0,150.0,13.9984308,121.1674592,Lipa,Batangas,Region IV-A
+"Santa Maria-San Jose Rd. Bulac, Santa Maria",1675000.0,1.0,1.0,44.0,40.0,14.8279751,121.0003891,Santa Maria,Bulacan,Region III
+"Cupang, Antipolo",17890000.0,4.0,3.0,246.0,121.0,14.6360063,121.1240475,Antipolo,Rizal,Region IV-A
+"Santa Monica, Quezon City",18287829.0,3.0,3.0,176.0,79.0,14.7252015,121.043347,Quezon City,Quezon City,NCR
+"Caysio Rd. Caysio, Santa Maria",5183808.0,3.0,2.0,75.3,80.0,14.8482305,120.969695,Santa Maria,Bulacan,Region III
+"Aningway Sacatihan, Subic",6249000.0,3.0,2.0,66.0,118.0,14.9131781,120.2282421,Subic,Zambales,Region III
+"Almanza Dos, Las Pinas",18000000.0,4.0,3.0,382.0,192.0,14.42473245,121.0145735,Las Pinas,Las Pinas,NCR
+"Macarthur Hwy Anonas, Urdaneta",5442000.0,2.0,2.0,53.0,96.0,16.0015834,120.5760561,Urdaneta,Pangasinan,Region I
+"Camella Tarlac Access Rd. Maliwalo, Tarlac",6346000.0,3.0,2.0,66.0,104.0,15.4777848,120.6140745,Tarlac,Tarlac,Region III
+"Bugtong Na Pulo, Lipa",7367000.0,3.0,2.0,103.0,132.0,13.9984308,121.1674592,Lipa,Batangas,Region IV-A
+"Eden, Mexico",6311000.0,5.0,3.0,107.0,141.0,15.1262529,120.6580131,Mexico,Pampanga,Region III
+"Aningway Sacatihan, Subic",5706000.0,3.0,2.0,66.0,99.0,14.9131781,120.2282421,Subic,Zambales,Region III
+"San Sebastian, Kawit",6650000.0,3.0,2.0,84.0,120.0,14.4129793,120.8886677,Kawit,Cavite,Region IV-A
+"Aningway Sacatihan, Subic",3984000.0,2.0,1.0,46.0,74.0,14.9131781,120.2282421,Subic,Zambales,Region III
+"Matandang Balara, Quezon City",110000000.0,12.0,12.0,1200.0,1000.0,14.6716797,121.0745345,Quezon City,Quezon City,NCR
+"Mercedes Ave, Pasig, 1600 Metro Manila 14.566745440863722, 121.09773643837426 San Miguel, Pasig",19500000.0,3.0,3.0,183.0,110.0,14.5693109,121.0810435,Pasig,Pasig,NCR
+"Olive St, 1900 Cainta, Philippines San Juan, Cainta",18000000.0,6.0,4.0,244.0,158.0,14.5522068,121.1039604,Cainta,Rizal,Region IV-A
+"21 Stirrup St., Rancho Estate 2 Subd., Cupang, Antipolo City Concepcion Dos, Marikina",10900000.0,5.0,3.0,180.0,120.0,14.6400469,121.1272474,Marikina,Marikina,NCR
+"Camella Tarlac Access Rd. Maliwalo, Tarlac",7201000.0,4.0,3.0,83.0,110.0,15.4777848,120.6140745,Tarlac,Tarlac,Region III
+"San Vicente, Urdaneta",4000000.0,3.0,2.0,60.0,247.0,15.9823552,120.5799421,Urdaneta,Pangasinan,Region I
+"Anonas, Urdaneta",6728000.0,3.0,2.0,66.0,99.0,15.9980269,120.5754414,Urdaneta,Pangasinan,Region I
+"Anonas, Urdaneta",8116000.0,4.0,3.0,83.0,121.0,15.9980269,120.5754414,Urdaneta,Pangasinan,Region I
+"Malagasang I-C, Imus",2688000.0,2.0,1.0,50.0,60.0,14.3905436,120.9273746,Imus,Cavite,Region IV-A
+"San Sebastian, Kawit",5282600.0,3.0,2.0,80.0,92.0,14.4129793,120.8886677,Kawit,Cavite,Region IV-A
+"Tunasan, Muntinlupa",16884800.0,5.0,3.0,195.0,240.0,14.3801129,121.0514828,Muntinlupa,Muntinlupa,NCR
+"Anonas, Urdaneta",11576000.0,5.0,3.0,166.0,154.0,15.9980269,120.5754414,Urdaneta,Pangasinan,Region I
+"Robredo Street San Isidro, Koronadal",10793502.0,5.0,3.0,166.0,143.0,6.4803979,124.8538871,Koronadal,South Cotabato,Region XII
+"Camella Tarlac Access Rd. Maliwalo, Tarlac",3900000.0,2.0,1.0,40.0,66.0,15.4777848,120.6140745,Tarlac,Tarlac,Region III
+"Anonas, Urdaneta",6728000.0,3.0,2.0,66.0,99.0,15.9980269,120.5754414,Urdaneta,Pangasinan,Region I
+"Valle Cruz, Cabanatuan",3957188.0,2.0,2.0,75.0,135.0,15.4799841,120.9920413,Cabanatuan,Nueva Ecija,Region III
+"Bayani Rd, 3023 San Jose Del Monte, Philippines Tungkong Mangga, San Jose Del Monte",5295000.0,3.0,1.0,102.0,63.0,14.8055218,121.0694935,San Jose Del Monte,Bulacan,Region III
+"Banawang, Malasiqui",2250000.0,2.0,1.0,56.0,54.0,15.922827,120.4243958,Malasiqui,Pangasinan,Region I
+"Macarthur Hwy Anonas, Urdaneta",6079000.0,3.0,2.0,66.0,121.0,16.0015834,120.5760561,Urdaneta,Pangasinan,Region I
+"Macarthur Hwy Anonas, Urdaneta",8271000.0,3.0,2.0,66.0,142.0,16.0015834,120.5760561,Urdaneta,Pangasinan,Region I
+"Macarthur Hwy Anonas, Urdaneta",8158000.0,3.0,2.0,66.0,117.0,16.0015834,120.5760561,Urdaneta,Pangasinan,Region I
+"Macarthur Hwy Anonas, Urdaneta",7474000.0,3.0,2.0,66.0,121.0,16.0015834,120.5760561,Urdaneta,Pangasinan,Region I
+"Macarthur Hwy Anonas, Urdaneta",9431000.0,4.0,3.0,83.0,157.0,16.0015834,120.5760561,Urdaneta,Pangasinan,Region I
+"Macarthur Hwy Anonas, Urdaneta",6928000.0,4.0,3.0,85.0,110.0,16.0015834,120.5760561,Urdaneta,Pangasinan,Region I
+"Macarthur Hwy Anonas, Urdaneta",10653000.0,5.0,3.0,142.0,154.0,16.0015834,120.5760561,Urdaneta,Pangasinan,Region I
+"Macarthur Hwy Anonas, Urdaneta",9987000.0,5.0,3.0,142.0,132.0,16.0015834,120.5760561,Urdaneta,Pangasinan,Region I
+"Macarthur Hwy Anonas, Urdaneta",7755000.0,5.0,3.0,100.0,145.0,16.0015834,120.5760561,Urdaneta,Pangasinan,Region I
+"Macarthur Hwy Anonas, Urdaneta",11576000.0,5.0,3.0,166.0,154.0,16.0015834,120.5760561,Urdaneta,Pangasinan,Region I
+"Macarthur Hwy Anonas, Urdaneta",10022000.0,5.0,3.0,142.0,133.0,16.0015834,120.5760561,Urdaneta,Pangasinan,Region I
+"Pueblo Solana, Ciudad De Calamba Bubuyan, Calamba",1740000.0,1.0,1.0,29.2,70.0,14.1667422,121.1063562,Calamba,Laguna,Region IV-A
+"Macarthur Hwy Anonas, Urdaneta",5465000.0,3.0,2.0,66.0,89.0,16.0015834,120.5760561,Urdaneta,Pangasinan,Region I
+"Macarthur Hwy Anonas, Urdaneta",7685000.0,3.0,2.0,66.0,125.0,16.0015834,120.5760561,Urdaneta,Pangasinan,Region I
+"Macarthur Hwy Anonas, Urdaneta",6796000.0,3.0,2.0,66.0,101.0,16.0015834,120.5760561,Urdaneta,Pangasinan,Region I
+"Macarthur Hwy Anonas, Urdaneta",6762000.0,3.0,2.0,66.0,100.0,16.0015834,120.5760561,Urdaneta,Pangasinan,Region I
+"Macarthur Hwy Anonas, Urdaneta",6007000.0,3.0,2.0,66.0,100.0,16.0015834,120.5760561,Urdaneta,Pangasinan,Region I
+"Macarthur Hwy Anonas, Urdaneta",10017000.0,4.0,3.0,83.0,174.0,16.0015834,120.5760561,Urdaneta,Pangasinan,Region I
+"Macarthur Hwy Anonas, Urdaneta",9671000.0,4.0,3.0,85.0,246.0,16.0015834,120.5760561,Urdaneta,Pangasinan,Region I
+"Macarthur Hwy Anonas, Urdaneta",8259000.0,4.0,3.0,85.0,110.0,16.0015834,120.5760561,Urdaneta,Pangasinan,Region I
+"Macarthur Hwy Anonas, Urdaneta",7820000.0,4.0,3.0,85.0,99.0,16.0015834,120.5760561,Urdaneta,Pangasinan,Region I
+"Morong, Calabarzon, Philippines Morong",1600000.0,2.0,1.0,44.0,36.0,14.5343846,121.1527061,Philippines Morong,Rizal,Region IV-A
+"Macarthur Hwy Anonas, Urdaneta",12160000.0,5.0,3.0,166.0,168.0,16.0015834,120.5760561,Urdaneta,Pangasinan,Region I
+"Macarthur Hwy Anonas, Urdaneta",6721000.0,4.0,3.0,85.0,121.0,16.0015834,120.5760561,Urdaneta,Pangasinan,Region I
+"Macarthur Hwy Anonas, Urdaneta",9948000.0,4.0,3.0,83.0,172.0,16.0015834,120.5760561,Urdaneta,Pangasinan,Region I
+"Macarthur Hwy Anonas, Urdaneta",8914000.0,4.0,3.0,83.0,142.0,16.0015834,120.5760561,Urdaneta,Pangasinan,Region I
+"Macarthur Hwy Anonas, Urdaneta",8500000.0,4.0,3.0,83.0,130.0,16.0015834,120.5760561,Urdaneta,Pangasinan,Region I
+"Macarthur Hwy Anonas, Urdaneta",10050000.0,5.0,3.0,100.0,246.0,16.0015834,120.5760561,Urdaneta,Pangasinan,Region I
+"Macarthur Hwy Anonas, Urdaneta",7617000.0,3.0,2.0,66.0,110.0,16.0015834,120.5760561,Urdaneta,Pangasinan,Region I
+"Macarthur Hwy Anonas, Urdaneta",5896000.0,3.0,2.0,66.0,96.0,16.0015834,120.5760561,Urdaneta,Pangasinan,Region I
+"Macarthur Hwy Anonas, Urdaneta",8788000.0,3.0,2.0,66.0,157.0,16.0015834,120.5760561,Urdaneta,Pangasinan,Region I
+"Macarthur Hwy Anonas, Urdaneta",9306000.0,3.0,2.0,66.0,172.0,16.0015834,120.5760561,Urdaneta,Pangasinan,Region I
+"Macarthur Hwy Anonas, Urdaneta",8558000.0,3.0,2.0,66.0,153.0,16.0015834,120.5760561,Urdaneta,Pangasinan,Region I
+"Macarthur Hwy Anonas, Urdaneta",9029000.0,3.0,2.0,66.0,246.0,16.0015834,120.5760561,Urdaneta,Pangasinan,Region I
+"Macarthur Hwy Anonas, Urdaneta",4219000.0,2.0,1.0,46.0,56.0,16.0015834,120.5760561,Urdaneta,Pangasinan,Region I
+"Macarthur Hwy Anonas, Urdaneta",8879000.0,4.0,3.0,83.0,141.0,16.0015834,120.5760561,Urdaneta,Pangasinan,Region I
+"Macarthur Hwy Anonas, Urdaneta",4948000.0,2.0,1.0,46.0,63.0,16.0015834,120.5760561,Urdaneta,Pangasinan,Region I
+"Macarthur Hwy Anonas, Urdaneta",13459000.0,5.0,3.0,166.0,174.0,16.0015834,120.5760561,Urdaneta,Pangasinan,Region I
+"Macarthur Hwy Anonas, Urdaneta",10367000.0,5.0,3.0,142.0,143.0,16.0015834,120.5760561,Urdaneta,Pangasinan,Region I
+"Macarthur Hwy Anonas, Urdaneta",11940000.0,5.0,3.0,142.0,157.0,16.0015834,120.5760561,Urdaneta,Pangasinan,Region I
+"Macarthur Hwy Anonas, Urdaneta",9370000.0,4.0,3.0,83.0,158.0,16.0015834,120.5760561,Urdaneta,Pangasinan,Region I
+"Macarthur Hwy Anonas, Urdaneta",8116000.0,4.0,3.0,83.0,121.0,16.0015834,120.5760561,Urdaneta,Pangasinan,Region I
+"Macarthur Hwy Anonas, Urdaneta",7857000.0,3.0,2.0,66.0,130.0,16.0015834,120.5760561,Urdaneta,Pangasinan,Region I
+"Macarthur Hwy Anonas, Urdaneta",6728000.0,3.0,2.0,66.0,99.0,16.0015834,120.5760561,Urdaneta,Pangasinan,Region I
+"Macarthur Hwy Anonas, Urdaneta",8202000.0,3.0,2.0,66.0,140.0,16.0015834,120.5760561,Urdaneta,Pangasinan,Region I
+"Macarthur Hwy Anonas, Urdaneta",11286000.0,5.0,3.0,142.0,143.0,16.0015834,120.5760561,Urdaneta,Pangasinan,Region I
+"Macarthur Hwy Anonas, Urdaneta",11483000.0,5.0,3.0,166.0,174.0,16.0015834,120.5760561,Urdaneta,Pangasinan,Region I
+"Macarthur Hwy Anonas, Urdaneta",10987000.0,5.0,3.0,142.0,161.0,16.0015834,120.5760561,Urdaneta,Pangasinan,Region I
+"Macarthur Hwy Anonas, Urdaneta",8845000.0,4.0,3.0,83.0,140.0,16.0015834,120.5760561,Urdaneta,Pangasinan,Region I
+"Macarthur Hwy Anonas, Urdaneta",8328000.0,4.0,3.0,83.0,125.0,16.0015834,120.5760561,Urdaneta,Pangasinan,Region I
+"Macarthur Hwy Anonas, Urdaneta",4998000.0,2.0,1.0,46.0,63.0,16.0015834,120.5760561,Urdaneta,Pangasinan,Region I
+"Almanza Dos, Las Pinas",24300000.0,4.0,5.0,338.0,196.0,14.42473245,121.0145735,Las Pinas,Las Pinas,NCR
+"Alabang, Muntinlupa",10840000.0,3.0,3.0,140.0,240.0,14.4185637,121.0447216,Muntinlupa,Muntinlupa,NCR
+"Canlubang, Calamba",6800000.0,2.0,1.0,52.0,130.0,14.2160319,121.1080378,Calamba,Laguna,Region IV-A
+"Sun Valley, Paranaque",19500000.0,4.0,4.0,250.0,430.0,14.4888415,121.0325173,Paranaque,Paranaque,NCR
+"San Miguel Village, Makati",78000000.0,4.0,2.0,300.0,325.0,14.56726465,121.0255189,Makati,Makati,NCR
+"San Roque, Antipolo",6503750.0,3.0,3.0,103.0,60.0,14.5840694,121.1731457,Antipolo,Rizal,Region IV-A
+"Neopolitan, Fairview, Quezon City Fairview, Quezon City",45000000.0,6.0,6.0,600.0,600.0,14.7158481,121.0590995,Quezon City,Quezon City,NCR
+"Lingsat, Santa Maria",6500000.0,3.0,2.0,194.0,746.0,17.3756942,120.4536264,Santa Maria,Ilocos Sur,Region I
+"Quiling, Talisay",69000000.0,3.0,4.0,370.0,807.0,14.0944452,121.038303,Talisay,Batangas,Region IV-A
+"Villagio Di Xavier Prima Casa , Binan, Laguna Mampalasan, Binan",8700000.0,4.0,4.0,100.0,140.0,14.3203462,121.0867847,Binan,Laguna,Region IV-A
+"Afpovai, Western Bicutan, Taguig City Western Bicutan, Taguig",55000000.0,4.0,4.0,410.0,200.0,14.52716115,121.0397711,Taguig,Taguig,NCR
+"Ayala Alabang, Muntinlupa",139250000.0,5.0,5.0,337.0,557.0,14.4226096,121.0269407,Muntinlupa,Muntinlupa,NCR
+"Tali Beach Balagtas, Batangas City",200000000.0,5.0,5.0,700.0,804.0,14.1226532,120.5830856,Batangas City,Batangas City,Region IV-A
+Calamba,30000000.0,4.0,4.0,302.0,250.0,14.2060217,121.1556496,Calamba,Laguna,Region IV-A
+"Matandang Balara, Quezon City",85000000.0,4.0,5.0,474.0,448.0,14.6716797,121.0745345,Quezon City,Quezon City,NCR
+"Scout Area Diliman, Quezon City",35530000.0,3.0,4.0,201.0,104.0,14.6361294,121.0335841,Quezon City,Quezon City,NCR
+"Halayhay, Tanza",4032000.0,3.0,2.0,55.0,80.0,14.3740113,120.8122706,Tanza,Cavite,Region IV-A
+"Zone 15, Talisay",19500000.0,4.0,5.0,400.0,352.0,10.72130145,122.9671921,Talisay,Negros Occidental,Region XVIII
+"Paliparan I, Dasmarinas",9150000.0,4.0,3.0,187.0,132.0,14.3195033,120.9853985,Dasmarinas,Cavite,Region IV-A
+"Almanza Dos, Las Pinas",37150000.0,3.0,3.0,208.0,240.0,14.42473245,121.0145735,Las Pinas,Las Pinas,NCR
+"Pilar, Las Pinas",9800000.0,3.0,3.0,180.0,120.0,14.4252635,121.0058656,Las Pinas,Las Pinas,NCR
+"Fluer De Lis Village Larion Alto, Tuguegarao",4400000.0,3.0,2.0,110.0,201.0,17.6304675,121.7194714,Tuguegarao,Cagayan,Region II
+"Inchican, Silang",89000000.0,4.0,4.0,600.0,396.0,14.2510549,121.0527366,Silang,Cavite,Region IV-A
+"Exclusive Subdivision Near Sm Telabastagan Telabastagan, San Fernando",16900000.0,5.0,4.0,315.0,240.0,15.1003534,120.4712603,San Fernando,Pampanga,Region III
+"Blk 1 Lot 20 Sentrina Alaminos Brgy.San Benito,Alaminos,Laguna Along Maharlika National Highway San Benito, Alaminos",4307299.0,3.0,2.0,85.0,89.0,14.0652519,121.2816677,Alaminos,Laguna,Region IV-A
+"Governor'S Dr, 4114 Dasmarinas, Philippines Paliparan Ii, Dasmarinas",10646000.0,4.0,3.0,115.0,121.0,14.304986,120.8981294,Dasmarinas,Cavite,Region IV-A
+"Sta. Maria-Pandi Rd, Pandi, Philippines Poblacion, Pandi",2265619.0,2.0,1.0,40.0,44.0,14.8463651,120.9544099,Pandi,Bulacan,Region III
+"Sampaloc Ii, Dasmarinas",10900000.0,3.0,4.0,103.0,168.0,14.2875141,120.9601214,Dasmarinas,Cavite,Region IV-A
+"San Pedro, San Pablo",10125900.0,3.0,2.0,100.0,212.0,14.5823408,121.1180438,San Pablo,Laguna,Region IV-A
+"Almanza Dos, Las Pinas",22683000.0,3.0,3.0,161.0,120.0,14.42473245,121.0145735,Las Pinas,Las Pinas,NCR
+"Molino Iii, Bacoor",15000000.0,5.0,3.0,174.0,160.0,14.3981725,120.9782219,Bacoor,Cavite,Region IV-A
+"Paliparan Ii, Dasmarinas",9913000.0,3.0,2.0,98.0,121.0,14.3026914,120.993435,Dasmarinas,Cavite,Region IV-A
+"Governor'S Dr, 4114 Dasmarinas, Philippines Paliparan Ii, Dasmarinas",14906000.0,5.0,3.0,166.0,169.0,14.304986,120.8981294,Dasmarinas,Cavite,Region IV-A
+"Governor'S Dr, 4114 Dasmarinas, Philippines Paliparan Ii, Dasmarinas",7093000.0,2.0,2.0,53.0,99.0,14.304986,120.8981294,Dasmarinas,Cavite,Region IV-A
+"Binan, Binan",11500000.0,3.0,2.0,118.0,90.0,14.331387,121.081196,Binan,Laguna,Region IV-A
+"Llano Road Llano, Caloocan",4500000.0,3.0,2.0,77.0,80.0,14.7325955,121.0124192,Caloocan,Caloocan,NCR
+"Manibaug Paralaya, Porac",2294060.0,3.0,1.0,62.5,50.0,15.1155432,120.5660517,Porac,Pampanga,Region III
+"Stone Bridge Estates Mabuhay, Carmona",5001920.0,3.0,2.0,85.0,80.0,14.3030292,121.0412931,Carmona,Cavite,Region IV-A
+"Diliman, Quezon City",42500000.0,5.0,5.0,500.0,126.0,14.6361294,121.0335841,Quezon City,Quezon City,NCR
+"Citta Italia Roma, Bacoor Cavite Molino Iii, Bacoor",13500000.0,5.0,3.0,174.0,160.0,14.4081763,120.9553317,Bacoor,Cavite,Region IV-A
+"Santiago, General Trias, Calabarzon, Philippines Santiago, General Trias",4000000.0,3.0,2.0,54.0,80.0,14.3441356,120.8675542,General Trias,Cavite,Region IV-A
+"Phirst Park Homes Lipa Cove, San Lucas, Lipa, Batangas, Philippines San Lucas, Lipa",1660120.0,2.0,1.0,36.0,40.0,14.0159511,121.181278,Lipa,Batangas,Region IV-A
+"Governor'S Dr, 4114 Dasmarinas, Philippines Paliparan Ii, Dasmarinas",14371000.0,5.0,3.0,142.0,168.0,14.304986,120.8981294,Dasmarinas,Cavite,Region IV-A
+"Cenacle Rd, 1128 Quezon City, Philippines Culiat, Quezon City",19495000.0,5.0,4.0,312.0,94.0,14.6647468,121.0443667,Quezon City,Quezon City,NCR
+"Cenacle Rd, 1128 Quezon City, Philippines Culiat, Quezon City",19495000.0,5.0,4.0,312.0,94.0,14.6647468,121.0443667,Quezon City,Quezon City,NCR
+"Almanza Dos, Las Pinas",150000000.0,3.0,4.0,600.0,375.0,14.42473245,121.0145735,Las Pinas,Las Pinas,NCR
+"Bambang, Taguig",35000000.0,4.0,2.0,310.0,105.0,14.525747,121.0729149,Taguig,Taguig,NCR
+"San Isidro, Cainta",13900000.0,4.0,4.0,143.0,182.0,14.6092561,121.1106377,Cainta,Rizal,Region IV-A
+"Silangan, San Mateo",19100000.0,3.0,3.0,113.0,295.0,14.6576399,121.1509096,San Mateo,Rizal,Region IV-A
+"Buenavista, Pagadian City, Zamboanga Peninsula, Philippines Buenavista, Pagadian",300000.0,3.0,2.0,80.0,100.0,7.8182775,123.3610572,Pagadian,Zamboanga,Region IX
+"Mabuhay, Carmona",5679520.0,3.0,2.0,90.0,88.0,14.3108588,121.0497434,Carmona,Cavite,Region IV-A
+"Catalunan Pequeno, Davao",1500000.0,2.0,1.0,30.0,77.0,7.0754348,125.520254,Davao,Davao del Sur,Region XI
+"San Isidro, Antipolo",5973000.0,3.0,2.0,64.0,60.0,14.5898029,121.1819903,Antipolo,Rizal,Region IV-A
+"Bacayan, Cebu",10500000.0,4.0,3.0,199.0,143.0,10.3869569,123.921265,Cebu,Cebu,Region VII
+"Brgy Pasong Buaya Ii Imus Cavite Daang Hari Pasong Buaya Ii, Imus",11598000.0,3.0,2.0,67.0,132.0,14.3790898,120.9167924,Imus,Cavite,Region IV-A
+"Tuyo, Balanga",2900000.0,2.0,1.0,40.0,66.0,14.6946092,120.5376797,Balanga,Bataan,Region III
+Silang,16800000.0,3.0,3.0,165.0,119.0,14.223624,120.9741497,Silang,Cavite,Region IV-A
+"Capaya, Angeles",12000000.0,4.0,4.0,180.0,120.0,15.1407207,120.6262827,Angeles,Pampanga,Region III
+"Pakigne, Minglanilla",13600000.0,3.0,3.0,318.0,1200.0,10.2603822,123.797739,Minglanilla,Cebu,Region VII
+"San Fernando Pampanga Telabastagan, San Fernando",29900000.0,5.0,5.0,650.0,540.0,15.10154975,120.6215423,San Fernando,Pampanga,Region III
+"Telabastagan, San Fernando",25000000.0,5.0,4.0,250.0,520.0,15.1142829,120.6088717,San Fernando,Pampanga,Region III
+"South Drive, Baguio",45000000.0,4.0,5.0,518.0,144.0,16.4076752,120.6086301,Baguio,Benguet,CAR
+"B.F. Homes, Paranaque",17500000.0,4.0,3.0,160.0,204.0,14.4462789,121.0274109,Paranaque,Paranaque,NCR
+"Lamac, Consolacion",12500000.0,4.0,3.0,227.0,209.0,10.3876855,123.9680975,Consolacion,Cebu,Region VII
+"Alfonso, Concepcion",3690000.0,4.0,3.0,122.9,112.5,15.3290862,120.6394315,Concepcion,Tarlac,Region III
+"A. Ponciano St, 1441 Valenzuela, Philippines Marulas, Valenzuela",9200000.0,3.0,3.0,120.0,65.0,14.6736958,120.9817115,Valenzuela,Valenzuela,NCR
+"Catalunan Grande, Davao",14200000.0,4.0,4.0,200.0,332.0,7.0801636,125.5437938,Davao,Davao del Sur,Region XI
+"Don Bosco, Paranaque",23500000.0,5.0,4.0,276.0,215.0,14.4843304,121.0314209,Paranaque,Paranaque,NCR
+"Fairview, Quezon City",5710000.0,3.0,3.0,116.0,43.0,14.7055228,121.0742821,Quezon City,Quezon City,NCR
+"Loyola Heights, Quezon City",98000000.0,6.0,5.0,350.0,1000.0,14.6410904,121.0737779,Quezon City,Quezon City,NCR
+"Matandang Balara, Quezon City",85000000.0,4.0,5.0,600.0,587.0,14.6716797,121.0745345,Quezon City,Quezon City,NCR
+"Sindalan, San Fernando",6062500.0,4.0,3.0,150.0,164.0,15.0785115,120.6415215,San Fernando,Pampanga,Region III
+"Dapdap, Mabalacat",1600000.0,3.0,1.0,45.0,40.3,15.1858934,120.5896487,Mabalacat,Pampanga,Region III
+"Marauoy, Lipa",10210000.0,4.0,3.0,172.0,165.0,13.9643008,121.1660625,Lipa,Batangas,Region IV-A
+"Deca Home Clark Residences, Margot Angeles Pampanga Margot, Angeles",2800000.0,2.0,2.0,140.0,70.0,15.1667429,120.5223198,Angeles,Pampanga,Region III
+"Banilad, Cebu",65000000.0,6.0,8.0,918.0,566.0,10.3465194,123.911112,Cebu,Cebu,Region VII
+"Kamuning, Quezon City",13000000.0,5.0,4.0,170.0,60.0,14.627544,121.0390617,Quezon City,Quezon City,NCR
+"Amsic, Angeles",25000000.0,5.0,5.0,246.0,289.0,15.1560029,120.5708031,Angeles,Pampanga,Region III
+"Asin Road, Baguio",60000000.0,4.0,5.0,310.0,537.0,16.4021725,120.5639989,Baguio,Benguet,CAR
+"Linao, Talisay, Central Visayas, Philippines Linao, Talisay",14800000.0,5.0,4.0,227.0,420.0,10.26182954,123.8182649,Talisay,Cebu,Region VII
+"Lantic, Carmona",5232628.0,4.0,2.0,104.0,100.0,14.2983433,121.0493423,Carmona,Cavite,Region IV-A
+"Culiat, Quezon City",12500000.0,4.0,4.0,140.0,78.0,14.6679617,121.0565912,Quezon City,Quezon City,NCR
+"Maple St., St. Jude Subd., Malinta, 1440 Valenzuela, Philippines Malinta, Valenzuela",9500000.0,5.0,4.0,120.0,60.0,14.68816392,120.9635991,Valenzuela,Valenzuela,NCR
+"Ayala Alabang, Muntinlupa",170000000.0,6.0,5.0,750.0,574.0,14.4226096,121.0269407,Muntinlupa,Muntinlupa,NCR
+"Dontogan, Baguio",27000000.0,5.0,2.0,350.0,180.0,16.3829867,120.5692941,Baguio,Benguet,CAR
+"San Isidro, Paranaque",8800000.0,4.0,3.0,190.0,105.0,14.4711274,121.0076663,Paranaque,Paranaque,NCR
+"Sabang, Naic, Calabarzon, Philippines Sabang, Naic",1460000.0,2.0,1.0,45.5,54.0,14.32651313,120.8031112,Naic,Cavite,Region IV-A
+"B.F. Homes, Paranaque",16500000.0,3.0,3.0,200.0,150.0,14.4462789,121.0274109,Paranaque,Paranaque,NCR
+"Ayala Alabang, Muntinlupa",400000000.0,5.0,5.0,1000.0,855.0,14.4226096,121.0269407,Muntinlupa,Muntinlupa,NCR
+"Sindalan, San Fernando",7052000.0,4.0,3.0,135.0,164.0,15.0785115,120.6415215,San Fernando,Pampanga,Region III
+"B.F. Homes, Paranaque",21000000.0,4.0,4.0,260.0,189.0,14.4462789,121.0274109,Paranaque,Paranaque,NCR
+"Along Governor Ferrer Drive Pasong Kawayan I, General Trias",2900000.0,3.0,2.0,60.8,69.0,14.3452428,120.8788539,General Trias,Cavite,Region IV-A
+"Ayala Alabang, Muntinlupa",200000000.0,4.0,4.0,1200.0,690.0,14.4226096,121.0269407,Muntinlupa,Muntinlupa,NCR
+"Valle Verde 1, Pasig",45000000.0,3.0,3.0,170.0,150.0,14.57538295,121.0702814,Pasig,Pasig,NCR
+"Culiat, Quezon City",12000000.0,4.0,4.0,220.0,85.0,14.6679617,121.0565912,Quezon City,Quezon City,NCR
+"Concepcion Dos, Marikina",19500000.0,4.0,3.0,200.0,373.0,14.6405888,121.1208184,Marikina,Marikina,NCR
+"Telabastagan, San Fernando",8300000.0,3.0,2.0,135.0,150.0,15.1142829,120.6088717,San Fernando,Pampanga,Region III
+"Bahay Toro, Quezon City, National Capital Region, Philippines Project 8, Quezon City",16495000.0,4.0,3.0,214.0,86.0,14.66645071,121.0235997,Quezon City,Quezon City,NCR
+"Matandang Balara, Quezon City",160000000.0,6.0,5.0,800.0,1000.0,14.6716797,121.0745345,Quezon City,Quezon City,NCR
+"Cabalantian, Bacolor",6434920.0,4.0,3.0,151.0,182.0,15.005106,120.6691581,Bacolor,Pampanga,Region III
+"Tungkong Mangga, San Jose Del Monte",20000000.0,3.0,6.0,300.0,250.0,14.7903216,121.0732705,San Jose Del Monte,Bulacan,Region III
+"Tagbuane, Alburquerque",5400000.0,3.0,2.0,250.0,1529.0,9.6086058,123.9753444,Alburquerque,Bohol,Region VII
+"Capaya, Angeles",8200000.0,3.0,3.0,170.0,120.0,15.1407207,120.6262827,Angeles,Pampanga,Region III
+"Savannah Abilay Norte, Oton",15843000.0,5.0,3.0,166.0,143.0,10.7450495,122.5042561,Oton,Iloilo,Region VI
+"Pasong Buaya Ii, Imus",13000000.0,4.0,3.0,117.0,281.0,14.3817416,120.968223,Imus,Cavite,Region IV-A
+"Cupang, Muntinlupa",56000000.0,4.0,4.5,400.0,375.0,14.4378843,121.0503212,Muntinlupa,Muntinlupa,NCR
+"Marang Amparo Caloocan City Amparo, Caloocan",5340000.0,3.0,2.0,83.0,53.0,14.75183528,121.0718787,Caloocan,Caloocan,NCR
+"San Gregorio, Laurel",26500000.0,5.0,5.0,650.0,430.0,14.0296242,120.8855456,Laurel,Batangas,Region IV-A
+"C. Salvador Loyola Heights, Quezon City",49000000.0,4.0,3.0,350.0,240.0,14.6408237,121.0723185,Quezon City,Quezon City,NCR
+"Canlubang, Calamba",34000000.0,4.0,4.0,302.0,250.0,14.2160319,121.1080378,Calamba,Laguna,Region IV-A
+"Bel-Air Residences, Marauoy, Lipa City, Batangas, Philippines Marauoy, Lipa",8210000.0,3.0,3.0,165.0,139.0,13.96305596,121.1720587,Lipa,Batangas,Region IV-A
+San Fernando,6600000.0,4.0,3.0,160.0,128.0,15.0587568,120.631483,San Fernando,Pampanga,Region III
+"Canlubang, Calamba",5000000.0,3.0,2.0,60.0,50.6,14.2160319,121.1080378,Calamba,Laguna,Region IV-A
+"Santol, Tanza",2918752.0,3.0,1.0,50.0,63.0,14.3748175,120.8733793,Tanza,Cavite,Region IV-A
+"Burot, Tarlac",1750000.0,3.0,1.0,42.0,48.0,15.4139853,120.600176,Tarlac,Tarlac,Region III
+"Telabastagan, San Fernando",45000000.0,6.0,7.0,537.0,900.0,15.1142829,120.6088717,San Fernando,Pampanga,Region III
+"Lapidario Rd, 4109 Trece Martires City, Philippines Lapidario, Trece Martires",3114170.0,2.0,2.0,57.0,50.0,14.26677469,120.8676176,Trece Martires,Cavite,Region IV-A
+"Talisay, Estefania, Bacolod City, Negros Occidental Matab-Ang, Talisay",11129760.0,4.0,3.0,192.0,180.0,10.72547861,123.0071246,Talisay,Negros Occidental,Region XVIII
+"Cabilang Baybay, Carmona",105000000.0,5.0,5.0,565.0,915.0,14.3175013,121.0512123,Carmona,Cavite,Region IV-A
+"Cenacle Rd, 1128 Quezon City, Philippines Culiat, Quezon City",19495000.0,5.0,4.0,312.0,98.0,14.6647468,121.0443667,Quezon City,Quezon City,NCR
+"Rosepointe Tagapo, Santa Rosa",5450000.0,3.0,1.0,102.0,80.0,14.31505162,121.1069831,Santa Rosa,Laguna,Region IV-A
+"Cupang, Muntinlupa",56000000.0,4.0,4.0,400.0,375.0,14.4378843,121.0503212,Muntinlupa,Muntinlupa,NCR
+"Pulang Lupa Uno, Las Pinas",5980000.0,3.0,2.0,95.0,58.0,14.4764854,120.9719211,Las Pinas,Las Pinas,NCR
+"Cubcub, Capas",5887000.0,3.0,2.0,98.0,198.0,15.3329902,120.5914796,Capas,Tarlac,Region III
+"Cubcub, Capas",5887000.0,3.0,2.0,98.0,198.0,15.3329902,120.5914796,Capas,Tarlac,Region III
+"Ayala Alabang, Muntinlupa",150000000.0,4.0,4.0,500.0,550.0,14.4226096,121.0269407,Muntinlupa,Muntinlupa,NCR
+"New Manila, Quezon City",188955000.0,3.0,3.0,350.0,969.0,14.6134141,121.0291416,Quezon City,Quezon City,NCR
+"Ayala Alabang, Muntinlupa",220000000.0,5.0,5.0,749.0,883.0,14.4226096,121.0269407,Muntinlupa,Muntinlupa,NCR
+"Panungyanan, General Trias, Calabarzon, Philippines Panungyanan, General Trias",4136000.0,3.0,2.0,77.3,120.0,14.25058227,120.9171024,General Trias,Cavite,Region IV-A
+"Siling Matanda, Pandi",1227966.0,2.0,1.0,46.6,40.0,14.9041477,120.989765,Pandi,Bulacan,Region III
+"Along Calle Rizal, Brgy Sta Barbara Baliuag City Bulacan Santa Barbara, Baliuag",9800012.0,5.0,3.0,209.0,204.0,14.9407127,120.860617,Baliuag,Bulacan,Region III
+"San Francisco, Binan",5899500.0,2.0,2.0,70.9,84.0,14.3332614,121.0557498,Binan,Laguna,Region IV-A
+"New Manila, Quezon City",130000000.0,5.0,5.0,550.0,300.0,14.6134141,121.0291416,Quezon City,Quezon City,NCR
+"Lumina Tanza, Bagtas, Tanza, Cavite, Philippines Bagtas, Tanza",2762000.0,3.0,1.0,53.0,63.0,14.33379779,120.8456119,Tanza,Cavite,Region IV-A
+"Santo Toribio, Lipa",1280000.0,3.0,1.0,45.0,36.0,13.9107927,121.2158275,Lipa,Batangas,Region IV-A
+"Gulod, Binangonan",3000000.0,3.0,3.0,132.0,66.0,14.3481172,121.21572,Binangonan,Rizal,Region IV-A
+"San Isidro, Antipolo",13500000.0,4.0,3.0,187.0,170.0,14.5898029,121.1819903,Antipolo,Rizal,Region IV-A
+"Ayala Alabang, Muntinlupa",163000000.0,4.0,4.0,304.0,741.0,14.4226096,121.0269407,Muntinlupa,Muntinlupa,NCR
+"Nangka, Consolacion, Central Visayas, Philippines Nangka, Consolacion",4638990.0,2.0,2.0,78.0,50.0,10.37035117,123.9642763,Consolacion,Cebu,Region VII
+"Duquit, Mabalacat",11800000.0,3.0,3.0,190.0,137.0,15.1779337,120.6013701,Mabalacat,Pampanga,Region III
+"Sindalan, San Fernando",7350000.0,4.0,43.0,135.0,164.0,15.0785115,120.6415215,San Fernando,Pampanga,Region III
+"Duquit, Mabalacat",12500000.0,4.0,4.0,203.0,120.0,15.1779337,120.6013701,Mabalacat,Pampanga,Region III
+"Subabasbas, Lapu-Lapu",15000000.0,4.0,2.0,126.0,147.0,10.26980289,123.9690261,Lapu-Lapu,Cebu,Region VII
+"Santol, Tanza",2989049.0,2.0,1.0,50.0,50.0,14.3748175,120.8733793,Tanza,Cavite,Region IV-A
+"Cadulawan, Talisay",48000000.0,5.0,7.0,769.0,407.0,10.2789235,123.8433228,Talisay,Cebu,Region VII
+"Sapang Biabas, Mabalacat",2164500.0,2.0,1.0,50.0,65.0,15.1987752,120.6026101,Mabalacat,Pampanga,Region III
+"Ayala Alabang, Muntinlupa",540000000.0,6.0,6.0,987.0,1442.0,14.4226096,121.0269407,Muntinlupa,Muntinlupa,NCR
+"Junob, Dumaguete",65000000.0,8.0,5.0,1000.0,3289.0,9.2958489,123.2833574,Dumaguete,Negros Oriental,Region XVIII
+"Ayala Alabang, Muntinlupa",470000000.0,7.0,7.0,1500.0,900.0,14.4226096,121.0269407,Muntinlupa,Muntinlupa,NCR
+"Ayala Alabang, Muntinlupa",110000000.0,4.0,5.0,400.0,300.0,14.4226096,121.0269407,Muntinlupa,Muntinlupa,NCR
+"Ayala Alabang, Muntinlupa",188000000.0,5.0,5.0,800.0,688.0,14.4226096,121.0269407,Muntinlupa,Muntinlupa,NCR
+"Rosal Street Corner Betty Go New Manila, Quezon City",60000000.0,5.0,5.0,384.0,122.0,14.62224361,121.0416754,Quezon City,Quezon City,NCR
+"Anabu I-D, Imus",11300000.0,4.0,3.0,203.0,150.0,14.3893122,120.938141,Imus,Cavite,Region IV-A
+"Salitran Iii, Dasmarinas",9270000.0,4.0,3.0,121.0,120.0,14.34376215,120.9452533,Dasmarinas,Cavite,Region IV-A
+"Communal, Davao",7600000.0,4.0,4.0,100.0,100.0,7.1413022,125.6226189,Davao,Davao del Sur,Region XI
+"Pasadena, San Juan",35120000.0,5.0,5.0,264.0,92.6,14.6087274,121.0332511,San Juan,Batangas,Region IV-A
+"Pasadena, San Juan",35710000.0,4.0,4.0,257.0,82.0,14.6087274,121.0332511,San Juan,Batangas,Region IV-A
+"Alabang, Muntinlupa",16884800.0,5.0,4.0,195.0,240.0,14.4185637,121.0447216,Muntinlupa,Muntinlupa,NCR
+"Caysio Road, Santa Maria, Bulacan Caysio, Santa Maria",5400000.0,3.0,2.0,75.3,80.0,14.8482305,120.969695,Santa Maria,Bulacan,Region III
+"Pasadena, San Juan",24590000.0,3.0,2.0,183.0,54.7,14.6087274,121.0332511,San Juan,Batangas,Region IV-A
+"186 Averilla St., San Juan City Little Baguio, San Juan",42000000.0,4.0,5.0,280.0,100.0,14.597523,121.0338296,San Juan,Batangas,Region IV-A
+"Brgy. Sta. Monica Novaliches, Quezon City",10280000.0,4.0,4.0,220.0,92.0,14.71490464,121.0474593,Quezon City,Quezon City,NCR
+"Santo Rosario, Magalang",3185421.0,3.0,2.0,54.0,90.0,15.2447956,120.6371342,Magalang,Pampanga,Region III
+"Nuvali Blvd, 4026 Santa Rosa, Philippines Canlubang, Calamba",10762500.0,3.0,2.0,85.0,138.0,14.23748177,121.0578339,Calamba,Laguna,Region IV-A
+"Dau, Mabalacat",8300000.0,3.0,3.0,144.0,100.0,15.1760734,120.5887353,Mabalacat,Pampanga,Region III
+"East Fairview Near Commonwealth Quezon City Fairview, Quezon City",6200000.0,3.0,3.0,100.0,30.0,14.70567475,121.0748022,Quezon City,Quezon City,NCR
+"Inchican, Silang",35000000.0,4.0,5.0,368.0,277.0,14.2510549,121.0527366,Silang,Cavite,Region IV-A
+"Batasan Hills, Quezon City",14000000.0,3.0,3.0,170.0,121.0,14.6862585,121.099335,Quezon City,Quezon City,NCR
+"San Luis, Antipolo",16000000.0,2.0,2.0,100.0,200.0,14.6043281,121.1981422,Antipolo,Rizal,Region IV-A
+"Lot 2-A Benefits Corner Dividend Street Project 8, Quezon City",12800000.0,3.0,3.0,165.0,52.0,14.67203777,121.0179077,Quezon City,Quezon City,NCR
+"Bagbag, Quezon City",5116623.0,3.0,2.0,68.0,50.0,14.6984863,121.0327857,Quezon City,Quezon City,NCR
+"Poblacion, Pulilan",15000000.0,3.0,2.0,250.0,484.0,14.902206,120.8487909,Pulilan,Bulacan,Region III
+"Ayala Alabang, Muntinlupa",420000000.0,5.0,6.0,1172.0,762.0,14.4226096,121.0269407,Muntinlupa,Muntinlupa,NCR
+"Lourdes, Quezon City",33000000.0,4.0,5.0,309.0,93.0,14.625804,121.0020456,Quezon City,Quezon City,NCR
+"Poblacion, Makati",78000000.0,3.0,3.0,250.0,150.0,14.566261,121.0313853,Makati,Makati,NCR
+Las Pinas,19500000.0,5.0,4.0,386.0,251.0,14.4809012,120.9817861,Las Pinas,Las Pinas,NCR
+"Culiat, Quezon City",24430000.0,4.0,4.0,350.0,110.0,14.6679617,121.0565912,Quezon City,Quezon City,NCR
+"Poblacion V, General Luna",250000000.0,4.0,3.0,200.0,3000.0,14.1333372,120.9041969,General Luna,Quezon,NCR
+"Congressional Avenue, Quezon City",11300000.0,3.0,3.0,120.0,60.0,14.6679427,121.0340442,Quezon City,Quezon City,NCR
+"Guadalupe, Cebu",15000000.0,4.0,3.0,150.0,120.0,9.7340326,123.3656366,Cebu,Cebu,Region VII
+"Mckinley Hill, Taguig",115000000.0,4.0,4.0,324.0,190.0,14.5330489,121.0524293,Taguig,Taguig,NCR
+"Ayala Alabang, Muntinlupa",250000000.0,5.0,5.0,700.0,747.0,14.4226096,121.0269407,Muntinlupa,Muntinlupa,NCR
+"Barangay Sindalan, San Fernando, Pampanga Sindalan, San Fernando",7650000.0,4.0,3.0,135.0,164.0,15.0771316,120.6482244,San Fernando,Pampanga,Region III
+"Ayala Alabang, Muntinlupa",188000000.0,4.0,4.0,800.0,688.0,14.4226096,121.0269407,Muntinlupa,Muntinlupa,NCR
+"Batasan Hills, Quezon City",1200000000.0,5.0,7.0,1024.0,8000.0,14.6862585,121.099335,Quezon City,Quezon City,NCR
+Pasig,24000000.0,5.0,3.0,450.0,250.0,14.5605166,121.0764343,Pasig,Pasig,NCR
+"Del Carmen, San Fernando",1873945.0,2.0,1.0,47.0,40.0,15.0487446,120.6882894,San Fernando,Pampanga,Region III
+"Ayala Alabang, Muntinlupa",180000000.0,3.0,3.0,650.0,650.0,14.4226096,121.0269407,Muntinlupa,Muntinlupa,NCR
+"Almanza Dos, Las Pinas",7000000.0,4.0,2.0,150.0,163.0,14.4234362,121.0223422,Las Pinas,Las Pinas,NCR
+"F. Rodelas Rd. Barangay Bolbok Lipa City Bolbok, Lipa",2913000.0,3.0,2.0,60.5,50.0,13.92511481,121.1522532,Lipa,Batangas,Region IV-A
+"Sun Valley, Paranaque",12000000.0,5.0,5.0,210.0,75.0,14.4888415,121.0325173,Paranaque,Paranaque,NCR
+"Ayala Alabang, Muntinlupa",180000000.0,4.0,5.0,600.0,720.0,14.4226096,121.0269407,Muntinlupa,Muntinlupa,NCR
+"Mckinley Hill Dr, 1634 Taguig City, Philippines Mckinley Hill, Taguig",198000000.0,5.0,6.5,642.0,288.0,14.53466167,121.0519657,Taguig,Taguig,NCR
+"Aldea Grove Estate Angeles Pampanga Mining, Angeles",10810000.0,3.0,2.0,95.0,129.0,15.140846,120.6093074,Angeles,Pampanga,Region III
+"Bagumbong, Caloocan City North, National Capital Region, Philippines Bagumbong, Caloocan",3700000.0,3.0,1.0,57.0,56.3,14.75525692,121.0205241,Caloocan,Caloocan,NCR
+"Fairview, Quezon City",18000000.0,5.0,3.0,300.0,400.0,14.7055228,121.0742821,Quezon City,Quezon City,NCR
+"Mckinley Hill, Taguig",135000000.0,4.0,5.0,450.0,189.0,14.5330489,121.0524293,Taguig,Taguig,NCR
+"Talon Dos, Las Pinas",8500000.0,4.0,2.0,160.0,102.0,14.4330886,120.9847045,Las Pinas,Las Pinas,NCR
+"Filinvest 2 Batasan Commonwealth Quezon City Townhouse Katipunan, Teachers Village, Up Diliman, Ateneo, Miriam, City Hall, Philippine Kidney Hospital, Heart Center, Lung Center, Mrt Edsa, Sm North Edsa, Trinoma Congress, Batasang Pambansa House And Lot, Commonwealth, Quezon City",22500000.0,4.0,4.0,246.0,194.0,14.65742648,121.0687586,Quezon City,Quezon City,NCR
+"Tandang Sora, Quezon City",9750000.0,4.0,4.0,148.7,58.5,14.6818637,121.0322006,Quezon City,Quezon City,NCR
+"B.F. Homes, Paranaque",24950000.0,5.0,4.0,250.0,280.0,14.4462789,121.0274109,Paranaque,Paranaque,NCR
+"Ugong, Pasig",162000000.0,4.0,4.0,400.0,479.0,14.5841307,121.0732458,Pasig,Pasig,NCR
+"Novaliches, Quezon City",5710000.0,3.0,4.0,117.0,43.3,14.7209396,121.038922,Quezon City,Quezon City,NCR
+"Talamban, Cebu",35000000.0,4.0,4.0,300.0,336.0,10.3693575,123.9169315,Cebu,Cebu,Region VII
+"B.F. Homes, Paranaque",34000000.0,4.0,5.0,380.0,286.0,14.4462789,121.0274109,Paranaque,Paranaque,NCR
+"Project 8, Quezon City",9700000.0,3.0,3.0,200.0,80.0,14.6641862,121.0201724,Quezon City,Quezon City,NCR
+"Playa Calatagan House And Lot For Sale Santa Ana, Calatagan",29000000.0,5.0,4.0,200.0,591.0,13.79490732,120.6445256,Calatagan,Batangas,Region IV-A
+"Amsic, Angeles",11500000.0,4.0,3.0,190.0,120.0,15.1560029,120.5708031,Angeles,Pampanga,Region III
+"Don Bosco, Paranaque",18500000.0,4.0,4.0,350.0,210.0,14.4843304,121.0314209,Paranaque,Paranaque,NCR
+"San Ignacio, San Pablo",3200000.0,3.0,2.0,54.0,88.0,14.0462788,121.3424202,San Pablo,Laguna,Region IV-A
+"Sapalibutad, Angeles",7224820.0,4.0,3.0,189.0,182.0,15.1638095,120.6175416,Angeles,Pampanga,Region III
+"Birmingham Metropolis 3 Countryside Pasig City Santa Lucia, Pasig",6450000.0,3.0,2.0,70.0,60.0,14.58236722,121.1003833,Pasig,Pasig,NCR
+"New Manila, Quezon City",87000000.0,5.0,5.0,620.0,112.0,14.6134141,121.0291416,Quezon City,Quezon City,NCR
+"Rosanna Heights, Barangay San Manuel, San Jose Del Monte, Bulacan Tungkong Mangga, San Jose Del Monte",5763000.0,3.0,2.0,70.5,72.0,14.73524759,121.0686981,San Jose Del Monte,Bulacan,Region III
+"Tandang Sora Quezon City House And Lot Nr Congressional Mindanao Avenue Visayas Avenue Commonwealth Teachers Village, Up Diliman, Ateneo, Project 8, Philippine Kidney Hospital, Heart Lung Center Sm North Edsa, Trinoma, Quirino Highway, Novaliches, Sauyo, Pasong Tamo, Quezon City",7300000.0,3.0,3.0,91.6,47.9,14.65608363,121.0720322,Quezon City,Quezon City,NCR
+"Amsic, Angeles",18500000.0,4.0,3.0,217.0,246.0,15.1560029,120.5708031,Angeles,Pampanga,Region III
+"Dasmarinas, Makati",750000000.0,5.0,5.0,600.0,1012.0,14.5401434,121.0269757,Makati,Makati,NCR
+"Ma-A, Davao",13600000.0,4.0,3.0,148.0,150.0,7.0807144,125.5827159,Davao,Davao del Sur,Region XI
+"Philippines, Manila, Barangay 521, San Diego Sampaloc, Manila",11900000.0,3.0,4.0,180.0,52.5,14.6130359,120.9816425,Manila,Manila,NCR
+"Buhangin, Davao",14000000.0,5.0,4.0,300.0,162.0,7.1469686,125.5940509,Davao,Davao del Sur,Region XI
+"Pinget, Baguio",6800000.0,1.0,1.0,35.0,168.0,16.4275072,120.5850982,Baguio,Benguet,CAR
+"Treveia, Nuvali, Barangay Canlubang, Calamba City, Laguna Canlubang, Calamba",30000000.0,4.0,4.0,302.0,250.0,14.20691092,121.0661249,Calamba,Laguna,Region IV-A
+Mandaluyong,33000000.0,4.0,4.0,275.0,201.0,14.5774392,121.0338973,Mandaluyong,Mandaluyong,NCR
+"Camarin, Caloocan",5600000.0,3.0,3.0,97.0,50.0,14.7560394,121.0492887,Caloocan,Caloocan,NCR
+"Amsic, Angeles",15500000.0,4.0,3.0,220.0,165.0,15.1560029,120.5708031,Angeles,Pampanga,Region III
+"B.F. Homes, Paranaque",90000000.0,5.0,6.0,860.0,586.0,14.4462789,121.0274109,Paranaque,Paranaque,NCR
+Angeles,9500000.0,4.0,3.0,190.0,120.0,15.1389351,120.5875321,Angeles,Pampanga,Region III
+"Canlubang, Calamba",30000000.0,4.0,4.0,302.0,250.0,14.2160319,121.1080378,Calamba,Laguna,Region IV-A
+"Canlubang, Calamba",45000000.0,6.0,5.0,442.0,448.0,14.2160319,121.1080378,Calamba,Laguna,Region IV-A
+"Lagtang, Talisay",28000000.0,4.0,4.0,330.0,200.0,10.2669491,123.8335173,Talisay,Cebu,Region VII
+"Almanza Dos, Las Pinas",29000000.0,3.0,5.0,220.0,256.0,14.4234362,121.0223422,Las Pinas,Las Pinas,NCR
+"Puting Kahoy, Silang",68000000.0,4.0,5.0,506.0,389.0,14.2158649,121.0316311,Silang,Cavite,Region IV-A
+"Western Bicutan, Taguig",11000000.0,3.0,3.0,100.0,30.0,14.5095273,121.0380244,Taguig,Taguig,NCR
+"San Ignacio, San Pablo",1800000.0,2.0,1.0,40.0,44.0,14.0462788,121.3424202,San Pablo,Laguna,Region IV-A
+"Almanza Dos, Las Pinas",29000000.0,3.0,5.0,220.0,256.0,14.4234362,121.0223422,Las Pinas,Las Pinas,NCR
+"Mining, Angeles, Pampanga, Philippines Mining, Angeles",12000000.0,4.0,3.0,186.0,120.0,15.1408485,120.6090377,Angeles,Pampanga,Region III
+"Talon Singko, Las Pinas",7000000.0,3.0,3.0,112.0,89.0,14.4292773,121.0032155,Las Pinas,Las Pinas,NCR
+"Fairview, Quezon City",8350000.0,3.0,3.0,102.0,68.0,14.7055228,121.0742821,Quezon City,Quezon City,NCR
+"Almanza Dos, Las Pinas",25000000.0,4.0,5.0,250.0,235.0,14.4234362,121.0223422,Las Pinas,Las Pinas,NCR
+"Cabilang Baybay, Carmona",62000000.0,5.0,5.0,447.0,816.0,14.3175013,121.0512123,Carmona,Cavite,Region IV-A
+"Inchican, Silang",35400000.0,4.0,4.0,391.0,336.0,14.2510549,121.0527366,Silang,Cavite,Region IV-A
+"San Isidro, Cainta",16800000.0,4.0,4.0,221.2,201.9,14.6092561,121.1106377,Cainta,Rizal,Region IV-A
+"Cupang, Muntinlupa",78000000.0,4.0,5.0,382.1,603.0,14.4378843,121.0503212,Muntinlupa,Muntinlupa,NCR
+"Santo Nino, Cainta",14582000.0,4.0,4.0,264.0,100.0,14.5817896,121.1189949,Cainta,Rizal,Region IV-A
+"Fairview, Quezon City",9930000.0,6.0,4.0,160.0,68.0,14.7055228,121.0742821,Quezon City,Quezon City,NCR
+"Daang Hari Road, Bacoor",7800000.0,3.0,3.0,83.0,103.0,14.390641,120.9792922,Bacoor,Cavite,Region IV-A
+"Sun Valley Estates Brgy San Juan Antipolo City Bagong Nayon, Antipolo",16650000.0,4.0,5.0,172.0,264.0,14.64714471,121.1860795,Antipolo,Rizal,Region IV-A
+"Carnation, 1118 Quezon City, Philippines Fairview, Quezon City",9850000.0,6.0,5.0,170.4,74.5,14.70109366,121.0625051,Quezon City,Quezon City,NCR
+"Saint Ignatius, Quezon City",61440000.0,3.0,3.0,250.0,384.0,14.6130801,121.0729596,Quezon City,Quezon City,NCR
+"Sindalan, San Fernando, Central Luzon, Philippines Sindalan, San Fernando",7350000.0,4.0,3.0,135.0,164.0,15.08059811,120.6416087,San Fernando,Pampanga,Region III
+"Canlubang, Calamba",30000000.0,4.0,4.0,310.0,243.0,14.2160319,121.1080378,Calamba,Laguna,Region IV-A
+"Ayala Alabang, Muntinlupa",222250000.0,4.0,4.0,700.0,910.0,14.4226096,121.0269407,Muntinlupa,Muntinlupa,NCR
+"Ayala Alabang, Muntinlupa",205000000.0,6.0,4.0,600.0,870.0,14.4226096,121.0269407,Muntinlupa,Muntinlupa,NCR
+"Tandang Sora, Quezon City",9850000.0,4.0,4.0,150.0,58.7,14.6818637,121.0322006,Quezon City,Quezon City,NCR
+"Bel-Air, Makati",400000000.0,5.0,3.0,654.0,698.0,14.5620342,121.0280944,Makati,Makati,NCR
+"Ugong, Valenzuela",5696435.0,3.0,3.0,82.0,65.0,14.6951994,121.0112037,Valenzuela,Valenzuela,NCR
+"Cacarong Matanda, Pandi",1227966.0,2.0,1.0,46.6,36.0,14.9036508,120.967827,Pandi,Bulacan,Region III
+"Santa Monica, Quezon City",10670517.0,3.0,3.0,143.0,66.0,14.7252015,121.043347,Quezon City,Quezon City,NCR
+"Tandang Sora, Quezon City",9850000.0,4.0,4.0,150.0,58.7,14.6818637,121.0322006,Quezon City,Quezon City,NCR
+"Tanauan, Tanza",1860000.0,2.0,1.0,40.0,60.5,14.2923273,120.8290803,Tanza,Cavite,Region IV-A
+"Puting Kahoy, Silang",95000000.0,6.0,5.0,668.0,478.0,14.2158649,121.0316311,Silang,Cavite,Region IV-A
+"Plaridel, Lipa",5900000.0,4.0,3.0,88.4,240.0,13.9999149,121.1789201,Lipa,Batangas,Region IV-A
+Paranaque,16000000.0,4.0,4.0,350.0,120.0,14.5008116,120.9915327,Paranaque,Paranaque,NCR
+Pasig,9000000.0,4.0,2.0,300.0,120.0,14.5605166,121.0764343,Pasig,Pasig,NCR
+"Amsic, Angeles",30000000.0,6.0,5.0,350.0,800.0,15.1560029,120.5708031,Angeles,Pampanga,Region III
+"Diliman, Quezon City",12900000.0,3.0,3.0,130.0,48.5,14.6361294,121.0335841,Quezon City,Quezon City,NCR
+"Sucat, Muntinlupa",28000000.0,3.0,2.0,219.0,186.0,14.4569804,121.0531587,Muntinlupa,Muntinlupa,NCR
+"Cacarong Matanda, Pandi",1227966.0,2.0,1.0,46.6,36.0,14.9036508,120.967827,Pandi,Bulacan,Region III
+"Santa Monica, Quezon City",10670517.0,3.0,3.0,143.0,66.0,14.7252015,121.043347,Quezon City,Quezon City,NCR
+"Bel-Air, Makati",400000000.0,5.0,3.0,654.0,698.0,14.5620342,121.0280944,Makati,Makati,NCR
+"Brgy Tanauan Tanza Cavite Tanauan, Tanza",4337472.0,3.0,2.0,112.5,72.0,14.2938597,120.8298896,Tanza,Cavite,Region IV-A
+"Ugong, Valenzuela",5696435.0,3.0,3.0,82.0,65.0,14.6951994,121.0112037,Valenzuela,Valenzuela,NCR
+"Capitol Hills, Quezon City",36500000.0,4.0,3.0,212.0,126.0,14.67035355,121.0906154,Quezon City,Quezon City,NCR
+"White Plains, Quezon City",165000000.0,6.0,6.0,800.0,433.0,14.6032747,121.0713026,Quezon City,Quezon City,NCR
+"Puting Kahoy, Silang",68000000.0,4.0,4.0,508.0,380.0,14.2158649,121.0316311,Silang,Cavite,Region IV-A
+"Balingasa, Quezon City",40700000.0,4.0,4.0,329.0,124.0,14.6505356,121.0017007,Quezon City,Quezon City,NCR
+"Daang Hari Road Almanza Dos, Las Pinas",37858000.0,3.0,4.0,278.0,252.0,14.39624779,121.0113644,Las Pinas,Las Pinas,NCR
+"Magallanes, Makati",125000000.0,4.0,4.0,400.0,401.0,14.54197105,121.0193326,Makati,Makati,NCR
+"Molave Highland Subdivision Lamac, Consolacion",17500000.0,3.0,2.0,250.0,202.0,10.39035301,123.968344,Consolacion,Cebu,Region VII
+"Mambugan, Antipolo",70000000.0,5.0,8.0,600.0,800.0,14.6188242,121.1403666,Antipolo,Rizal,Region IV-A
+"Tabalong, Dauis",13500000.0,3.0,3.0,200.0,1000.0,9.623345,123.8198313,Dauis,Bohol,Region VII
+"Poblacion, Muntinlupa",20000000.0,3.0,2.0,300.0,300.0,14.3891448,121.0449804,Muntinlupa,Muntinlupa,NCR
+"Del Monte, Island Of Garden Samal, Samal",2500000.0,2.0,1.0,42.0,100.0,7.0391094,125.7396788,Samal,Davao del Norte,Region XI
+"White Plains, Quezon City",165000000.0,6.0,5.0,850.0,433.0,14.6032747,121.0713026,Quezon City,Quezon City,NCR
+"Culiat, Quezon City",15500000.0,3.0,4.0,185.0,78.0,14.6679617,121.0565912,Quezon City,Quezon City,NCR
+Talisay,56000000.0,6.0,5.0,687.0,421.0,14.0939348,121.0218094,Talisay,Batangas,Region IV-A
+"Puting Kahoy, Silang",60500000.0,4.0,4.0,600.0,450.0,14.2158649,121.0316311,Silang,Cavite,Region IV-A
+"El Monteverde Subd, 6001 Consolacion, Philippines Lamac, Consolacion",29000000.0,4.0,4.0,304.0,356.0,10.38952953,123.9642952,Consolacion,Cebu,Region VII
+"Ayala Alabang, Muntinlupa",170000000.0,6.0,5.0,500.0,695.0,14.4226096,121.0269407,Muntinlupa,Muntinlupa,NCR
+"Kaligayahan, Quezon City",10280000.0,5.0,3.0,197.0,77.0,14.7383609,121.0508834,Quezon City,Quezon City,NCR
+Angeles,15700000.0,4.0,3.0,165.0,220.0,15.1389351,120.5875321,Angeles,Pampanga,Region III
+"Telabastagan, San Fernando",10000000.0,4.0,3.0,128.0,150.0,15.1142829,120.6088717,San Fernando,Pampanga,Region III
+"Ugong, Pasig",100000000.0,5.0,5.0,460.0,190.0,14.5841307,121.0732458,Pasig,Pasig,NCR
+"Clark, Mabalacat",19000000.0,3.0,3.0,245.0,433.0,15.1920323,120.579523,Mabalacat,Pampanga,Region III
+"Cuayan, Angeles",12800000.0,3.0,3.0,172.0,165.0,15.149137,120.5458117,Angeles,Pampanga,Region III
+"Ayala Southvale Primera Bacoor, Cavite Molino I, Bacoor",70000000.0,4.0,4.0,480.0,518.0,14.39971324,120.9990541,Bacoor,Cavite,Region IV-A
+"Cupang, Muntinlupa",66000000.0,5.0,5.0,500.0,450.0,14.4378843,121.0503212,Muntinlupa,Muntinlupa,NCR
+"B.F. Homes, Paranaque",25000000.0,5.0,4.0,300.0,280.0,14.4462789,121.0274109,Paranaque,Paranaque,NCR
+"Tandang Sora, Quezon City",10900000.0,3.0,3.0,140.0,80.0,14.6818637,121.0322006,Quezon City,Quezon City,NCR
+"Ugong, Pasig",36500000.0,4.0,3.0,240.0,170.0,14.5841307,121.0732458,Pasig,Pasig,NCR
+"Biday, San Fernando",5364000.0,3.0,2.0,80.0,81.0,16.639055,120.3249608,San Fernando,La Union,Region I
+"Inchican, Silang",89000000.0,4.0,4.0,600.0,396.0,14.2510549,121.0527366,Silang,Cavite,Region IV-A
+"San Gregorio, Laurel",5000000.0,2.0,3.0,120.0,82.0,14.0296242,120.8855456,Laurel,Batangas,Region IV-A
+"Matandang Balara, Quezon City",120000000.0,8.0,7.0,720.0,402.0,14.6716797,121.0745345,Quezon City,Quezon City,NCR
+"Culiat, Quezon City",9500000.0,3.0,3.0,136.5,83.7,14.6679617,121.0565912,Quezon City,Quezon City,NCR
+"Canlubang, Calamba",35000000.0,6.0,7.0,400.0,367.0,14.2160319,121.1080378,Calamba,Laguna,Region IV-A
+"Pilar, Las Pinas",9500000.0,2.0,2.0,145.0,192.0,14.4252635,121.0058656,Las Pinas,Las Pinas,NCR
+"Loyola Heights, Quezon City",120000000.0,13.0,13.0,1250.0,1000.0,14.6410904,121.0737779,Quezon City,Quezon City,NCR
+"Santa Maria, Mabalacat",19000000.0,3.0,3.0,245.0,433.0,15.2270079,120.5922007,Mabalacat,Pampanga,Region III
+"Puting Kahoy, Silang",60000000.0,4.0,4.0,446.0,352.0,14.2158649,121.0316311,Silang,Cavite,Region IV-A
+"Katarungan Poblacion, Muntinlupa",8000000.0,4.0,4.0,210.0,78.0,14.3889191,121.0255267,Muntinlupa,Muntinlupa,NCR
+"Talon Dos, Las Pinas",25000000.0,6.0,6.0,380.0,420.0,14.4330886,120.9847045,Las Pinas,Las Pinas,NCR
+"Maligaya, Dinalupihan",14000000.0,4.0,3.0,200.0,10000.0,14.86259055,120.4264051,Dinalupihan,Bataan,Region III
+"Maligaya, Dinalupihan",14000000.0,4.0,3.0,200.0,10000.0,14.86259055,120.4264051,Dinalupihan,Bataan,Region III
+"Don Bosco, Paranaque",14000000.0,4.0,4.0,225.0,118.0,14.4843304,121.0314209,Paranaque,Paranaque,NCR
+"Katarungan Poblacion, Muntinlupa",8000000.0,4.0,4.0,210.0,78.0,14.3889191,121.0255267,Muntinlupa,Muntinlupa,NCR
+"Sabang, Morong",65000000.0,4.0,4.0,400.0,575.0,14.6963675,120.2529414,Morong,Bataan,Region III
+"Pasong Tamo, Quezon City",7300000.0,3.0,3.0,91.6,47.9,14.6827233,121.0617082,Quezon City,Quezon City,NCR
+"Mambog Ii, Bacoor",25000000.0,5.0,5.0,232.1,175.0,14.4243574,120.9513831,Bacoor,Cavite,Region IV-A
+"San Juan, Taytay",10400000.0,4.0,3.0,190.0,110.0,14.5585639,121.1360313,Taytay,Rizal,Region IV-A
+"Fairview, Quezon City",4750000.0,3.0,2.0,91.2,60.0,14.7055228,121.0742821,Quezon City,Quezon City,NCR
+"Francisco, Tagaytay",14500800.0,4.0,2.0,120.0,240.0,14.1368264,120.986852,Tagaytay,Cavite,Region IV-A
+"Sta. Cruz, Arevalo, Iloilo City Mohon, Iloilo",7900000.0,4.0,4.0,175.0,240.0,10.68610141,122.5049515,Iloilo,Iloilo,Region VI
+"Bonuan Boquig, Dagupan",5730000.0,4.0,2.0,100.0,190.0,16.0774984,120.3580251,Dagupan,Pangasinan,Region I
+"Lalakay, Los Banos",28500000.0,5.0,4.0,300.0,321.0,14.1729436,121.2142216,Los Banos,Laguna,Region IV-A
+"Camp 7, Baguio",25000000.0,5.0,3.0,250.0,183.0,16.3823953,120.6020345,Baguio,Benguet,CAR
+"San Isidro, Paranaque",4660000.0,2.0,2.0,36.0,38.0,14.4711274,121.0076663,Paranaque,Paranaque,NCR
+"Marcelo Green Village, Paranaque, National Capital Region, Philippines Marcelo Green Village, Paranaque",16500000.0,4.0,4.0,250.0,370.0,14.46964356,121.0401603,Paranaque,Paranaque,NCR
+"San Miguel, Pasig",7000000.0,3.0,2.0,100.3,72.0,14.5658684,121.0855568,Pasig,Pasig,NCR
+"Merville, Paranaque",38000000.0,3.0,3.0,330.0,420.0,14.501909,121.0266683,Paranaque,Paranaque,NCR
+"San Antonio, Binan",2650000.0,2.0,1.0,43.0,45.0,14.327945,121.0912883,Binan,Laguna,Region IV-A
+"Calubcub Ii, San Juan",85000000.0,5.0,6.0,1080.0,1700.0,13.7367475,121.420371,San Juan,Batangas,Region IV-A
+"Ayala Alabang, Muntinlupa",420000000.0,7.0,7.0,1233.0,816.0,14.4226096,121.0269407,Muntinlupa,Muntinlupa,NCR
+"Loakan Proper, Baguio",7900000.0,4.0,2.0,90.0,100.0,16.3754537,120.613781,Baguio,Benguet,CAR
+"Tugbok, Davao",20000000.0,3.0,2.0,200.0,281.0,7.1035383,125.4948467,Davao,Davao del Sur,Region XI
+Angeles,24000000.0,4.0,4.0,290.0,246.0,15.1389351,120.5875321,Angeles,Pampanga,Region III
+"Liburon, Carcar",2350000.0,3.0,1.0,47.0,40.0,10.1169892,123.6525065,Carcar,Cebu,Region VII
+"Biday, San Fernando",8691000.0,4.0,3.0,143.0,94.0,16.639055,120.3249608,San Fernando,La Union,Region I
+"Biday, San Fernando",10542000.0,3.0,2.0,134.0,188.0,16.639055,120.3249608,San Fernando,La Union,Region I
+"Don Bosco, Paranaque",18000000.0,6.0,6.0,235.5,210.0,14.4843304,121.0314209,Paranaque,Paranaque,NCR
+"Plainview, Mandaluyong",22800000.0,4.0,4.0,228.0,55.0,14.5766961,121.034781,Mandaluyong,Mandaluyong,NCR
+"Bakakeng North, Baguio",20000000.0,4.0,3.0,280.0,600.0,16.3836602,120.5912301,Baguio,Benguet,CAR
+"Magallanes, Makati",115000000.0,4.0,3.0,275.0,350.0,14.54197105,121.0193326,Makati,Makati,NCR
+"Camp 7, Baguio",17970000.0,5.0,3.0,150.0,335.0,16.3823953,120.6020345,Baguio,Benguet,CAR
+"B. F. Homes, Paranaque, National Capital Region, Philippines B.F. Homes, Paranaque",45000000.0,5.0,5.0,459.3,308.0,14.45163311,121.024794,Paranaque,Paranaque,NCR
+"Mendez Crossing East, Tagaytay",2044125.0,3.0,1.0,54.0,50.0,14.0986539,120.9217945,Tagaytay,Cavite,Region IV-A
+"Mayamot, Antipolo",12500000.0,4.0,3.0,211.0,90.0,14.6248348,121.1213588,Antipolo,Rizal,Region IV-A
+"Guada Plains Guadalupe, Cebu",25000000.0,5.0,4.0,211.0,182.0,10.32921812,123.8830388,Cebu,Cebu,Region VII
+"Panicsican, San Juan",9750000.0,4.0,2.0,148.0,140.0,16.66243945,120.3306378,San Juan,La Union,Region I
+"San Antonio, San Pedro",7500000.0,5.0,3.0,188.0,197.0,14.3565545,121.0252281,San Pedro,Laguna,Region IV-A
+"San Francisco, Binan",13070000.0,4.0,3.0,147.0,304.0,14.3332614,121.0557498,Binan,Laguna,Region IV-A
+"Cirilo Street, Isidora Hills Subdivision Holy Spirit, Quezon City",26000000.0,4.0,3.0,110.0,476.0,14.68374497,121.0782119,Quezon City,Quezon City,NCR
+"Matandang Balara, Quezon City",168000000.0,5.0,5.0,820.0,476.0,14.6716797,121.0745345,Quezon City,Quezon City,NCR
+Quezon City,35530000.0,4.0,3.0,198.0,111.0,14.6510546,121.0486254,Quezon City,Quezon City,NCR
+"Diliman, Quezon City",110000000.0,4.0,5.0,450.0,800.0,14.6361294,121.0335841,Quezon City,Quezon City,NCR
+"Bagumbayan, Tanauan",1838000.0,2.0,1.0,44.5,58.5,14.0741993,121.138914,Tanauan,Batangas,Region IV-A
+"Molino Iii, Bacoor",8500000.0,4.0,3.0,180.0,200.0,14.3981725,120.9782219,Bacoor,Cavite,Region IV-A
+"Ayala Alabang, Muntinlupa",310000000.0,5.0,5.0,1000.0,700.0,14.4226096,121.0269407,Muntinlupa,Muntinlupa,NCR
+"Mckinley Hill Dr, 1634 Taguig City, Philippines Pinagsama, Taguig",112000000.0,3.0,4.0,420.0,198.0,14.53466167,121.0519657,Taguig,Taguig,NCR
+"Philippines, Caloocan City North, Barangay 172, Thaddevs Kaligayahan, Quezon City",6000000.0,3.0,2.0,155.0,100.0,14.74925549,121.0427557,Quezon City,Quezon City,NCR
+"B.F. Homes, Paranaque",26500000.0,4.0,4.0,350.0,293.0,14.4462789,121.0274109,Paranaque,Paranaque,NCR
+"Saint Ignatius, Quezon City",73780000.0,3.0,3.0,250.0,434.0,14.6130801,121.0729596,Quezon City,Quezon City,NCR
+"Pinacpinacan, San Rafael",1200000.0,2.0,1.0,44.0,36.0,14.9977275,120.9132957,San Rafael,Bulacan,Region III
+"Fort Bonifacio, Taguig",63000000.0,4.0,4.0,172.0,400.0,14.5494253,121.0509721,Taguig,Taguig,NCR
+"Marigondon, Lapu-Lapu",7500000.0,3.0,3.0,180.0,136.0,10.2744239,123.9760833,Lapu-Lapu,Cebu,Region VII
+"Ugong Norte, Quezon City",370000000.0,4.0,4.0,700.0,899.0,14.5977372,121.0704752,Quezon City,Quezon City,NCR
+"Kaligayahan, Quezon City",4200000.0,3.0,2.0,65.0,48.0,14.7383609,121.0508834,Quezon City,Quezon City,NCR
+"Tranca, Talisay",60000000.0,5.0,6.0,700.0,400.0,14.1075781,121.0527384,Talisay,Batangas,Region IV-A
+"Manila Southwoods Cabilang Baybay, Carmona",105000000.0,5.0,5.0,565.0,915.0,14.3220676,121.0396437,Carmona,Cavite,Region IV-A
+"San Isidro, Taytay",9800000.0,4.0,3.0,170.1,82.0,14.5766542,121.1331821,Taytay,Rizal,Region IV-A
+"Plainview, Mandaluyong",24000000.0,3.0,2.0,82.0,200.0,14.5766961,121.034781,Mandaluyong,Mandaluyong,NCR
+"Balibago, Angeles",9500000.0,3.0,2.0,185.0,320.0,15.1686735,120.5903508,Angeles,Pampanga,Region III
+"Batasan Hills, Quezon City",48000000.0,5.0,4.0,316.5,353.0,14.6862585,121.099335,Quezon City,Quezon City,NCR
+"San Isidro, Taytay",12500000.0,4.0,4.0,219.8,95.0,14.5766542,121.1331821,Taytay,Rizal,Region IV-A
+"Dau, Mabalacat",27000000.0,4.0,4.0,350.0,251.0,15.1760734,120.5887353,Mabalacat,Pampanga,Region III
+"Molino Vii, Bacoor",4600000.0,3.0,2.0,114.0,90.0,14.4033478,120.997701,Bacoor,Cavite,Region IV-A
+"Avida Setting Bacoor Cavite Molino Iv, Bacoor",18000000.0,6.0,6.0,432.0,278.0,14.36012583,120.9851914,Bacoor,Cavite,Region IV-A
+"Almanza Uno, Las Pinas",8574500.0,3.0,2.0,124.0,80.0,14.42473245,121.0145735,Las Pinas,Las Pinas,NCR
+"Poblacion, Makati",80000000.0,4.0,3.0,326.0,326.0,14.566261,121.0313853,Makati,Makati,NCR
+"Dove Street, Banilad, Mandaue City Banilad, Mandaue",50000000.0,5.0,5.0,300.0,852.0,10.34806474,123.9201228,Mandaue,Cebu,Region VII
+"Philippines, Quezon City, Fairview Fairview, Quezon City",7500000.0,4.0,4.0,138.0,58.0,14.70677915,121.0732365,Quezon City,Quezon City,NCR
+"Almanza Dos, Las Pinas",79500000.0,5.0,5.0,542.0,333.0,14.4234362,121.0223422,Las Pinas,Las Pinas,NCR
+"Sun Valley, Paranaque",8800000.0,3.0,3.0,118.0,66.0,14.4888415,121.0325173,Paranaque,Paranaque,NCR
+"Calumpang Lejos I, Indang",7500000.0,5.0,5.0,150.0,220.0,14.2370249,120.8451265,Indang,Cavite,Region IV-A
+"Marcelo Green Village, Paranaque, National Capital Region, Philippines Marcelo Green Village, Paranaque",26000000.0,5.0,4.0,271.0,251.0,14.46964356,121.0401603,Paranaque,Paranaque,NCR
+"Onse, San Juan",15300000.0,3.0,3.0,143.0,27.0,14.6017402,121.0314553,San Juan,Batangas,Region IV-A
+"Bigaa, Cabuyao",16000000.0,4.0,3.0,370.0,198.0,14.2911218,121.1288165,Cabuyao,Laguna,Region IV-A
+"B.F. International Village, Las Pinas",18500000.0,3.0,3.0,270.0,332.0,14.4483726,121.0098171,Las Pinas,Las Pinas,NCR
+"Teachers Village East, Quezon City",22995980.0,3.0,4.0,277.1,68.0,14.6442313,121.059698,Quezon City,Quezon City,NCR
+"Paradahan I, Tanza",1846470.0,2.0,1.0,39.0,60.0,14.3252413,120.8600916,Tanza,Cavite,Region IV-A
+"Panungyanan, General Trias",4000000.0,4.0,2.0,81.0,110.0,14.2349557,120.9217871,General Trias,Cavite,Region IV-A
+"Panungyanan, General Trias",4000000.0,4.0,2.0,81.0,110.0,14.2349557,120.9217871,General Trias,Cavite,Region IV-A
+"Buckingham, 1771 Muntinlupa, Philippines Cupang, Muntinlupa",90000000.0,5.0,5.0,700.0,400.0,14.43990151,121.0373808,Muntinlupa,Muntinlupa,NCR
+"Tandang Sora, Quezon City, National Capital Region, Philippines Tandang Sora, Quezon City",8200000.0,3.0,2.0,112.0,60.0,14.68176029,121.0436564,Quezon City,Quezon City,NCR
+"Merville, Paranaque",24000000.0,3.0,2.0,250.0,348.0,14.501909,121.0266683,Paranaque,Paranaque,NCR
+"Natipuan, Nasugbu",35000000.0,6.0,6.0,434.0,405.0,14.1200018,120.6239076,Nasugbu,Batangas,Region IV-A
+"Bonuan Boquig, Dagupan",4920000.0,3.0,2.0,80.0,180.0,16.0774984,120.3580251,Dagupan,Pangasinan,Region I
+"Pinagbuhatan, Pasig",30000000.0,6.0,5.0,500.0,204.0,14.5574086,121.0909665,Pasig,Pasig,NCR
+"Kayumanggi, Lipa",4059035.0,3.0,2.0,102.0,129.0,13.9231445,121.1593833,Lipa,Batangas,Region IV-A
+"Tunasan, Muntinlupa",63500000.0,7.0,7.0,700.0,460.0,14.3801129,121.0514828,Muntinlupa,Muntinlupa,NCR
+"Bagong Nayon, Antipolo",18000000.0,4.0,3.0,204.0,254.0,14.6261877,121.1685012,Antipolo,Rizal,Region IV-A
+"Mambugan, Antipolo",25000000.0,5.0,5.0,300.0,610.0,14.6188242,121.1403666,Antipolo,Rizal,Region IV-A
+"Matandang Balara, Quezon City",168000000.0,5.0,5.0,820.0,480.0,14.6716797,121.0745345,Quezon City,Quezon City,NCR
+"Woodridge Park Subd., Ma-A, Davao City Ma-A, Davao",20000000.0,3.0,3.0,160.0,169.0,7.098967225,125.5818418,Davao,Davao del Sur,Region XI
+"Cresta Verde Ave, Quezon City, Philippines Santa Monica, Quezon City",5400000.0,3.0,2.0,70.0,67.5,14.71942002,121.0475077,Quezon City,Quezon City,NCR
+"Merville, Paranaque",20000000.0,6.0,4.0,260.0,150.0,14.501909,121.0266683,Paranaque,Paranaque,NCR
+"Holy Spirit, Quezon City",10500000.0,3.0,2.0,180.0,176.0,14.6838626,121.0761031,Quezon City,Quezon City,NCR
+"Mabini, Lipa",4500000.0,3.0,2.0,80.0,80.0,13.8968125,121.1491625,Lipa,Batangas,Region IV-A
+"Lawaan Ii, Talisay",16000000.0,5.0,4.0,400.0,180.0,10.253557,123.832139,Talisay,Cebu,Region VII
+"Busay, Cebu",120000000.0,5.0,9.0,1500.0,1458.0,9.9172909,123.4294546,Cebu,Cebu,Region VII
+"Pilar, Las Pinas",8600000.0,3.0,3.0,130.0,80.0,14.4252635,121.0058656,Las Pinas,Las Pinas,NCR
+"Liptong, Bacong",12000000.0,4.0,3.0,300.0,3267.0,9.2618887,123.245437,Bacong,Negros Oriental,Region XVIII
+"Buckingham, 1771 Muntinlupa, Philippines Cupang, Muntinlupa",43000000.0,4.0,5.0,400.0,380.0,14.43990151,121.0373808,Muntinlupa,Muntinlupa,NCR
+"Santa Lucia, Pasig",8530000.0,3.0,3.0,133.0,90.0,14.5842641,121.1013028,Pasig,Pasig,NCR
+"Mckinley Hill Dr, 1634 Taguig City, Philippines Pinagsama, Taguig",112000000.0,3.0,4.0,420.0,198.0,14.53466167,121.0519657,Taguig,Taguig,NCR
+"Buckingham, 1771 Muntinlupa, Philippines Cupang, Muntinlupa",43000000.0,4.0,5.0,380.0,400.0,14.43990151,121.0373808,Muntinlupa,Muntinlupa,NCR
+"Almanza Uno, Las Pinas",16500000.0,5.0,5.0,300.0,194.0,14.42473245,121.0145735,Las Pinas,Las Pinas,NCR
+"Almanza Uno, Las Pinas",73900000.0,8.0,5.0,548.0,662.0,14.42473245,121.0145735,Las Pinas,Las Pinas,NCR
+"Ayala Alabang, Muntinlupa",420000000.0,5.0,6.0,1600.0,868.0,14.4226096,121.0269407,Muntinlupa,Muntinlupa,NCR
+"Woodridge Park Ma-A, Davao",20000000.0,4.0,3.0,180.0,180.0,7.1009106,125.5874709,Davao,Davao del Sur,Region XI
+"Don Bosco, Paranaque",14000000.0,4.0,3.0,200.0,120.0,14.4843304,121.0314209,Paranaque,Paranaque,NCR
+"Woodridge Park Ma-A, Davao",20000000.0,4.0,3.0,180.0,180.0,7.1009106,125.5874709,Davao,Davao del Sur,Region XI
+"Sikatuna Village, Quezon City",16500000.0,2.0,3.0,170.0,100.0,14.6383351,121.0595245,Quezon City,Quezon City,NCR
+"Teachers Village East, Quezon City",23000000.0,3.0,4.0,152.0,53.0,14.6442313,121.059698,Quezon City,Quezon City,NCR
+"Talon Dos Bf Resort Talon Dos, Las Pinas",14300000.0,4.0,3.0,186.0,110.0,14.4330886,120.9847045,Las Pinas,Las Pinas,NCR
+"Macarthur Hwy Longos, Malolos",4000000.0,2.0,2.0,80.0,88.0,14.8673076,120.8029587,Malolos,Bulacan,Region III
+"Lagtang, Talisay",18000000.0,4.0,3.0,240.0,334.0,10.2669491,123.8335173,Talisay,Cebu,Region VII
+"Inchican, Silang",55000000.0,4.0,6.0,400.0,530.0,14.2510549,121.0527366,Silang,Cavite,Region IV-A
+"Bucao St., Nia Village Tandang Sora , Quezon City Tandang Sora, Quezon City",9800000.0,3.0,3.0,119.0,64.0,14.6909849,121.0464956,Quezon City,Quezon City,NCR
+"Bagacay, Dumaguete City, Central Visayas, Philippines Bagacay, Dumaguete",11000000.0,4.0,4.0,90.0,526.0,9.301488978,123.2929309,Dumaguete,Negros Oriental,Region XVIII
+"Merville, Paranaque",30000000.0,3.0,2.0,212.0,377.0,14.501909,121.0266683,Paranaque,Paranaque,NCR
+"Ayala Alabang, Muntinlupa",199000000.0,5.0,5.0,600.0,625.0,14.4226096,121.0269407,Muntinlupa,Muntinlupa,NCR
+"Bonuan Boquig, Dagupan",6750000.0,4.0,2.0,100.0,275.0,16.0774984,120.3580251,Dagupan,Pangasinan,Region I
+"New Manila, Quezon City",90000000.0,5.0,5.0,489.2,198.0,14.6134141,121.0291416,Quezon City,Quezon City,NCR
+"Greenmeadows Subdivision, Ugong Norte, Murphy, Quezon City, 1110 Ugong Norte, Quezon City",180000000.0,4.0,4.0,358.3,866.3,14.59825913,121.0750844,Quezon City,Quezon City,NCR
+"Industrial Valley, Marikina",32000000.0,3.0,3.0,300.0,300.0,14.6271043,121.0800034,Marikina,Marikina,NCR
+"Mckinley Hill Dr, 1634 Taguig City, Philippines Pinagsama, Taguig",112000000.0,3.0,4.0,420.0,198.0,14.53466167,121.0519657,Taguig,Taguig,NCR
+"Valle Verde 4, Pasig",250000000.0,7.0,7.0,800.0,911.0,14.5858783,121.0692763,Pasig,Pasig,NCR
+"San Jose, Mandaluyong",87000000.0,4.0,3.0,640.0,432.0,14.5811187,121.0295749,Mandaluyong,Mandaluyong,NCR
+"Suarez Ave, Pasig, Philippines Maybunga, Pasig",75000000.0,5.0,5.0,581.0,653.0,14.58168384,121.0854541,Pasig,Pasig,NCR
+"Bito-On, Iloilo",14000000.0,3.0,3.0,216.0,260.0,11.4614026,123.2086537,Iloilo,Iloilo,Region VI
+"Salitran Iv, Dasmarinas",30000000.0,6.0,8.0,650.0,300.0,14.3436034,120.9382537,Dasmarinas,Cavite,Region IV-A
+"Cuayan, Angeles",23800000.0,5.0,7.0,342.0,208.0,15.149137,120.5458117,Angeles,Pampanga,Region III
+"Moonwalk, Paranaque",150000000.0,6.0,6.0,800.0,450.0,14.4918575,121.0146712,Paranaque,Paranaque,NCR
+"Angeles, Pampanga Near Mq Mall And Nlex, Pampanga, Philippines Angeles",11500000.0,4.0,3.0,190.0,120.0,15.02815111,120.6920062,Philippines Angeles,Pampanga,Region III
+"Buhay Na Tubig, Imus",22500000.0,4.0,3.0,300.0,152.0,14.4069709,120.9565072,Imus,Cavite,Region IV-A
+"Salitran Iii, Dasmarinas",10980000.0,4.0,3.0,129.0,144.0,14.34376215,120.9452533,Dasmarinas,Cavite,Region IV-A
+"Cuayan, Angeles",23800000.0,5.0,7.0,342.0,208.0,15.149137,120.5458117,Angeles,Pampanga,Region III
+"Moonwalk, Paranaque",150000000.0,6.0,6.0,800.0,450.0,14.4918575,121.0146712,Paranaque,Paranaque,NCR
+"South Point, Cabuyao Laguna Diezmo, Cabuyao",12500000.0,4.0,4.0,200.0,216.0,14.24268145,121.1137872,Cabuyao,Laguna,Region IV-A
+"Camp 7, Baguio",25000000.0,7.0,4.0,250.0,500.0,16.3823953,120.6020345,Baguio,Benguet,CAR
+"Bacong, Central Visayas, Philippines Sulodpan, Bacong",11000000.0,4.0,3.0,200.0,1000.0,9.266670071,123.2844234,Bacong,Negros Oriental,Region XVIII
+"Blue Ridge A, Quezon City",95000000.0,4.0,4.0,400.0,412.0,14.619062,121.0731209,Quezon City,Quezon City,NCR
+"Perez Rd Perez, Trece Martires",6864091.0,4.0,3.0,110.0,211.2,14.2871418,120.896059,Trece Martires,Cavite,Region IV-A
+"Dasmarinas, Makati",450000000.0,5.0,5.0,600.0,630.0,14.5401434,121.0269757,Makati,Makati,NCR
+Muntinlupa,420000000.0,5.0,5.0,1172.0,762.0,14.3892634,121.0449101,Muntinlupa,Muntinlupa,NCR
+"Ayala Alabang, Muntinlupa",188000000.0,7.0,7.0,800.0,688.0,14.4226096,121.0269407,Muntinlupa,Muntinlupa,NCR
+"Maytunas, San Juan",37380000.0,3.0,3.0,254.0,77.7,14.5942824,121.031553,San Juan,Batangas,Region IV-A
+"Poblacion, Muntinlupa",10000000.0,3.0,4.0,314.0,157.0,14.3891448,121.0449804,Muntinlupa,Muntinlupa,NCR
+"Sasa, Davao",12000000.0,6.0,5.0,260.0,300.0,7.1248033,125.6612259,Davao,Davao del Sur,Region XI
+"Mandurriao, Iloilo",4800000.0,4.0,2.0,150.0,172.0,10.7178913,122.5368537,Iloilo,Iloilo,Region VI
+"Mangnao-Canal, Dumaguete",1800000.0,2.0,1.0,60.0,80.0,9.2931729,123.2989601,Dumaguete,Negros Oriental,Region XVIII
+"Majada Labas, Calamba",2710000.0,3.0,1.0,45.0,63.0,14.1943161,121.1056748,Calamba,Laguna,Region IV-A
+"Lot 153 Block 3, Road Lot 1, Filomena Subdivision San Rafael, Tarlac",1140000.0,1.0,1.0,60.0,200.0,15.44995,120.5991633,Tarlac,Tarlac,Region III
+"Robredo Street Carpenter Hill, Koronadal",3543147.0,2.0,1.0,40.0,88.0,6.433303866,124.878687,Koronadal,South Cotabato,Region XII
+"Dalig, Antipolo",17000000.0,4.0,3.0,308.0,250.0,14.5730447,121.1864717,Antipolo,Rizal,Region IV-A
+"Phirst Editions, Kaylaway, Nasugbu, Batangas, Philippines Kaylaway, Nasugbu",5451654.0,3.0,2.0,99.0,70.0,14.07670419,120.8405692,Nasugbu,Batangas,Region IV-A
+"Bingag, Dauis",3500000.0,4.0,2.0,94.0,300.0,9.6206685,123.8053729,Dauis,Bohol,Region VII
+"Catalunan Grande, Davao",16000000.0,5.0,5.0,220.0,345.0,7.0801636,125.5437938,Davao,Davao del Sur,Region XI
+"San Agustin I, Dasmarinas",6300000.0,6.0,4.0,263.0,120.0,14.3132599,120.9466691,Dasmarinas,Cavite,Region IV-A
+"Alicante St. Visa Verde Executive Village , Cainta San Isidro, Cainta",9500000.0,4.0,3.0,185.0,110.0,14.6136552,121.1127371,Cainta,Rizal,Region IV-A
+"237 Apitong Street Comembo, Makati",18000000.0,3.0,2.0,157.4,122.8,14.5503625,121.0620306,Makati,Makati,NCR
+"The Mango Grove, Santo Tomas Batangas Barangay Iv, Santo Tomas",3752000.0,4.0,3.0,109.3,100.0,14.10121658,121.1390423,Santo Tomas,Batangas,Region IV-A
+"Ayala Alabang, Muntinlupa",460000000.0,7.0,7.0,1500.0,900.0,14.4226096,121.0269407,Muntinlupa,Muntinlupa,NCR
+"Novaliches, Quezon City",45000000.0,5.0,5.0,400.0,300.0,14.7209396,121.038922,Quezon City,Quezon City,NCR
+"Batasan Hills, Quezon City",115000000.0,5.0,6.0,655.0,300.0,14.6862585,121.099335,Quezon City,Quezon City,NCR
+"Alapan Ii-B, Imus",5569300.0,3.0,2.0,80.0,106.0,14.4007938,120.9077065,Imus,Cavite,Region IV-A
+"Talon Uno, Las Pinas",26000000.0,4.0,4.0,315.0,204.0,14.4478903,120.9853979,Las Pinas,Las Pinas,NCR
+"Tunasan, Muntinlupa",16884800.0,3.0,2.0,195.0,240.0,14.3801129,121.0514828,Muntinlupa,Muntinlupa,NCR
+"Pondol, Balamban",16800000.0,3.0,2.0,272.0,471.0,10.4893578,123.7122339,Balamban,Cebu,Region VII
+"Bulihan, Malolos",4383680.0,3.0,2.0,67.0,96.0,14.8614278,120.8067497,Malolos,Bulacan,Region III
+"Kamuning, Quezon City, National Capital Region, Philippines Kamuning, Quezon City",16500000.0,3.0,4.0,260.0,80.0,14.62769177,121.0398962,Quezon City,Quezon City,NCR
+"Matandang Balara, Quezon City",148000000.0,5.0,5.0,800.0,1000.0,14.6716797,121.0745345,Quezon City,Quezon City,NCR
+"Isugan, Bacong, Central Visayas, Philippines Isugan, Bacong",5000000.0,3.0,2.0,110.0,270.0,9.264903467,123.2726335,Bacong,Negros Oriental,Region XVIII
+"The Mango Grove, Brgy San Roque, Sto Tomas Batangas Barangay Iv, Santo Tomas",4356000.0,4.0,3.0,109.3,150.0,14.10121658,121.1390423,Santo Tomas,Batangas,Region IV-A
+"Praverde Paliparan I, Dasmarinas",14986000.0,5.0,3.0,166.0,169.0,14.28346205,120.9907103,Dasmarinas,Cavite,Region IV-A
+"B.F. International Village, Las Pinas",18300000.0,4.0,3.0,255.0,203.0,14.4483726,121.0098171,Las Pinas,Las Pinas,NCR
+"Longos, Malolos",3969280.0,2.0,2.0,74.0,89.0,14.87426,120.7915336,Malolos,Bulacan,Region III
+"Bahay Pare, Meycauayan",3500000.0,4.0,2.0,80.0,80.0,14.7681018,121.0128437,Meycauayan,Bulacan,Region III
+"Mckinley Hill, Taguig",140000000.0,5.0,6.0,513.0,189.0,14.5330489,121.0524293,Taguig,Taguig,NCR
+"San Jose, Tagaytay",8500000.0,4.0,3.0,180.0,110.0,14.1213242,120.9682081,Tagaytay,Cavite,Region IV-A
+"Kapitangan, Paombong",1914154.0,2.0,1.0,38.0,36.0,14.8647113,120.788091,Paombong,Bulacan,Region III
+"Santa Cruz, Antipolo",14600000.0,4.0,3.0,300.0,215.0,14.6160568,121.1697877,Antipolo,Rizal,Region IV-A
+"San Gregorio, San Pablo",2100000.0,2.0,1.0,44.0,36.0,14.0494929,121.3289262,San Pablo,Laguna,Region IV-A
+"Sapang Palay, San Jose Del Monte",10674000.0,5.0,3.0,166.0,143.0,14.8469203,121.0425271,San Jose Del Monte,Bulacan,Region III
+"Loyola Heights, Quezon City",16500000.0,4.0,3.0,260.0,161.0,14.6410904,121.0737779,Quezon City,Quezon City,NCR
+"Ugong Norte, Quezon City",360000000.0,4.0,4.0,750.0,600.0,14.5977372,121.0704752,Quezon City,Quezon City,NCR
+"Lot 13 Blk 4, Road Lot 12, Carmel Village Phase 2 Barandal, Calamba",1340000.0,1.0,1.0,48.0,80.0,14.18826416,121.1279397,Calamba,Laguna,Region IV-A
+"Brgy. Mabiga, Hermosa, Bataan Mabiga, Hermosa",28000000.0,3.0,3.0,500.0,7624.0,14.8175943,120.3901786,Hermosa,Bataan,Region III
+"Matandang Balara, Quezon City",190000000.0,5.0,7.5,1200.0,900.0,14.6716797,121.0745345,Quezon City,Quezon City,NCR
+"Inosloban, Lipa",5026399.0,2.0,1.0,52.3,80.0,13.97582845,121.1692147,Lipa,Batangas,Region IV-A
+"Jbc Green Acre Homes Subdivision Guiguilonen, Mangaldan",7800000.0,5.0,4.0,153.0,210.0,16.07188354,120.4111902,Mangaldan,Pangasinan,Region I
+"Pinagbuhatan, Pasig",7500000.0,4.0,4.0,180.0,60.0,14.5574086,121.0909665,Pasig,Pasig,NCR
+"Tunasan, Muntinlupa",16884800.0,5.0,4.0,195.0,240.0,14.3801129,121.0514828,Muntinlupa,Muntinlupa,NCR
+"Talisay, Calatagan",12000000.0,4.0,3.0,300.0,2500.0,13.9073401,120.6275545,Calatagan,Batangas,Region IV-A
+"Pansol, Quezon City",308000000.0,10.0,10.0,1000.0,2055.0,14.6527982,121.0815235,Quezon City,Quezon City,NCR
+"Totolan, Dauis",8800000.0,3.0,3.0,99.8,153.0,9.6352488,123.8487402,Dauis,Bohol,Region VII
+Angeles,6800021.0,4.0,3.0,100.0,128.0,15.1389351,120.5875321,Angeles,Pampanga,Region III
+"Banawa, Cebu",11000000.0,4.0,3.0,90.0,120.0,10.3124117,123.876716,Cebu,Cebu,Region VII
+"Pilar, Las Pinas",8200000.0,4.0,3.0,153.7,58.7,14.4252635,121.0058656,Las Pinas,Las Pinas,NCR
+"Cupang, Antipolo",9970700.0,3.0,3.0,167.0,120.0,14.6360063,121.1240475,Antipolo,Rizal,Region IV-A
+"Baliti, San Fernando",12000000.0,3.0,3.0,200.0,180.0,15.105583,120.6242556,San Fernando,Pampanga,Region III
+"84F Brgy Claro Aguho Street, Project 3, Quezon City Near Cubao Claro, Quezon City",6000000.0,5.0,2.0,120.0,60.7,14.6314458,121.0592546,Quezon City,Quezon City,NCR
+"Guadalupe, Cebu",17000000.0,4.0,3.0,380.0,242.0,9.7340326,123.3656366,Cebu,Cebu,Region VII
+"Maribago, Lapu-Lapu",19500000.0,4.0,4.0,300.0,554.0,10.2850724,123.9929719,Lapu-Lapu,Cebu,Region VII
+Paranaque,3000000.0,2.0,1.0,104.0,52.0,14.5008116,120.9915327,Paranaque,Paranaque,NCR
+"Governor'S Dr Sabang, Naic",6488074.0,4.0,2.0,132.3,100.0,14.3048174,120.8054933,Naic,Cavite,Region IV-A
+"Alabang, Muntinlupa Ayala Alabang, Muntinlupa",420000000.0,5.0,5.0,1172.0,762.0,14.4236141,121.0298739,Muntinlupa,Muntinlupa,NCR
+"Manuyo Dos, Las Pinas",16500000.0,5.0,5.0,260.0,121.0,14.4710957,120.9917098,Las Pinas,Las Pinas,NCR
+"Maribago, Lapu-Lapu City, Central Visayas, Philippines Maribago, Lapu-Lapu",15500000.0,3.0,2.0,340.0,250.0,10.29334203,124.0012264,Lapu-Lapu,Cebu,Region VII
+"San Roque, Antipolo",12500000.0,4.0,3.0,180.0,120.0,14.5234775,121.1554992,Antipolo,Rizal,Region IV-A
+"Almanza Dos, Las Pinas",17500000.0,4.0,4.0,200.0,263.0,14.4234362,121.0223422,Las Pinas,Las Pinas,NCR
+"Dona. Pilar Aguirre Ave, 1750 Las Pinas, Philippines Pilar, Las Pinas",8500000.0,5.0,4.0,160.0,80.0,14.42931312,121.0097864,Las Pinas,Las Pinas,NCR
+"Longos, Malolos",2074000.0,2.0,1.0,64.8,63.0,14.87426,120.7915336,Malolos,Bulacan,Region III
+"Dela Paz, Antipolo",14000000.0,4.0,3.0,240.0,173.0,14.5886674,121.1739784,Antipolo,Rizal,Region IV-A
+"San Luis, Antipolo",5017800.0,3.0,2.0,61.0,70.0,14.6043281,121.1981422,Antipolo,Rizal,Region IV-A
+"Ayala Alabang, Muntinlupa",440000000.0,7.0,7.0,1232.0,816.0,14.4226096,121.0269407,Muntinlupa,Muntinlupa,NCR
+"Along United Nation St. Betterliving Subdivision Don Bosco, Paranaque",14000000.0,4.0,4.0,180.0,140.0,14.4835394,121.020182,Paranaque,Paranaque,NCR
+"Ortigas Avenue, Pasig",16000000.0,9.0,4.0,190.0,240.0,14.5889935,121.0678685,Pasig,Pasig,NCR
+"Ayala Alabang, Muntinlupa",460000000.0,7.0,7.0,900.0,1500.0,14.4226096,121.0269407,Muntinlupa,Muntinlupa,NCR
+San Juan,13554567.0,3.0,3.0,100.0,200.0,13.7440111,121.4281827,San Juan,Batangas,Region IV-A
+"Antero Soriano Hiway, Sahud-Ulan, Tanza Cavite Sahud Ulan, Tanza",1951400.0,3.0,2.0,40.0,45.0,14.37170314,120.8246671,Tanza,Cavite,Region IV-A
+"Buhangin, Davao",3800000.0,2.0,2.0,93.0,60.0,7.1469686,125.5940509,Davao,Davao del Sur,Region XI
+"Batinguel, Dumaguete City, Central Visayas, Philippines Batinguel, Dumaguete",12500000.0,5.0,3.0,500.0,938.0,9.314657616,123.2857224,Dumaguete,Negros Oriental,Region XVIII
+"Clark, Mabalacat",57000000.0,5.0,5.0,338.0,1187.0,15.1920323,120.579523,Mabalacat,Pampanga,Region III
+"Dauis - Panglao Rd, Dao, Panglao, 6340 Bohol Dao, Dauis",4000000.0,3.0,2.0,60.0,120.0,9.6017321,123.8076144,Dauis,Bohol,Region VII
+"Inarawan, Antipolo",18000000.0,4.0,3.0,265.0,475.0,14.6246563,121.1803519,Antipolo,Rizal,Region IV-A
+"Kapitolyo, Pasig",25800000.0,3.0,3.0,212.0,113.0,14.5711649,121.0594975,Pasig,Pasig,NCR
+"Tapia, General Trias",2133600.0,3.0,1.0,40.0,50.0,14.3630407,120.8803493,General Trias,Cavite,Region IV-A
+"Magallanes Village, Makati Magallanes, Makati",118000000.0,3.0,3.0,300.0,350.0,14.5393362,121.0162958,Makati,Makati,NCR
+"Dauis - Panglao Rd, Dao, Panglao, 6340 Bohol Dao, Dauis",6700000.0,3.0,2.0,81.0,180.0,9.6017321,123.8076144,Dauis,Bohol,Region VII
+"Carsadang Bago I, 4103 Imus, Philippines Carsadang Bago I, Imus",4000000.0,3.0,2.0,65.0,85.0,14.43566315,120.921964,Imus,Cavite,Region IV-A
+"Muntinlupa, National Capital Region, Philippines Ayala Alabang, Muntinlupa",420000000.0,5.0,6.0,1600.0,868.0,14.41042661,121.0398882,Muntinlupa,Muntinlupa,NCR
+"Onse, San Juan",39500000.0,4.0,3.0,500.0,287.0,14.6017402,121.0314553,San Juan,Batangas,Region IV-A
+"Block 20 Lot 10 Copper St., Avida Village Cerise Nuvali Canlubang, Calamba",5000000.0,2.0,1.0,60.0,110.0,14.19303199,121.0865373,Calamba,Laguna,Region IV-A
+"Phase 2 Block 22 Lot 5 (10 Apitong St.) Verdana Homes Mamplasan Langkiwa, Binan",21500000.0,4.0,3.5,250.0,200.0,14.30069423,121.0711746,Binan,Laguna,Region IV-A
+"Bali Mansion Inchican, Silang",35000000.0,4.0,5.0,368.0,277.0,14.25154543,121.0504511,Silang,Cavite,Region IV-A
+"Kaligayahan, Quezon City",10280000.0,5.0,3.0,220.0,77.0,14.7383609,121.0508834,Quezon City,Quezon City,NCR
+Angeles,22000000.0,3.0,3.0,200.0,250.0,15.1389351,120.5875321,Angeles,Pampanga,Region III
+"Culiat, Quezon City",35000000.0,4.0,3.0,350.0,496.0,14.6679617,121.0565912,Quezon City,Quezon City,NCR
+"B.F. Homes, Paranaque",33000000.0,5.0,4.0,288.0,300.0,14.4462789,121.0274109,Paranaque,Paranaque,NCR
+"Poblacion, Muntinlupa",3950000.0,3.0,2.0,65.0,50.0,14.3891448,121.0449804,Muntinlupa,Muntinlupa,NCR
+"B.F. Homes, Paranaque",45000000.0,5.0,5.0,375.0,280.0,14.4462789,121.0274109,Paranaque,Paranaque,NCR
+"San Vicente, San Pedro",4900000.0,2.0,1.0,61.0,70.0,14.3562015,121.0481011,San Pedro,Laguna,Region IV-A
+"B.F. Homes, Paranaque",26000000.0,4.0,4.0,350.0,289.0,14.4462789,121.0274109,Paranaque,Paranaque,NCR
+"Tunasan, Muntinlupa, National Capital Region, Philippines Tunasan, Muntinlupa",52000000.0,6.0,4.5,480.0,500.0,14.37226443,121.0361601,Muntinlupa,Muntinlupa,NCR
+"Candau-Ay, Dumaguete City, Central Visayas, Philippines Candau-Ay, Dumaguete",5500000.0,2.0,2.0,110.0,121.0,9.31259957,123.2680201,Dumaguete,Negros Oriental,Region XVIII
+"Ayala Heights, Quezon City",188000000.0,6.0,6.0,910.0,510.0,14.66246055,121.0881386,Quezon City,Quezon City,NCR
+"B.F. Homes, Paranaque",32500000.0,4.0,4.0,268.0,287.0,14.4462789,121.0274109,Paranaque,Paranaque,NCR
+"Philippines, Talisay, Cansojong, Srp Cansojong, Talisay",6000000.0,3.0,3.0,120.0,64.0,10.26069142,123.8634321,Talisay,Cebu,Region VII
+"Lagao, General Santos City",8000000.0,5.0,3.0,142.0,121.0,6.1280792,125.1903784,General Santos City,General Santos City,Region XII
+"Diliman, Quezon City",12230000.0,3.0,3.0,182.9,62.8,14.6361294,121.0335841,Quezon City,Quezon City,NCR
+"B.F. Homes (Paranaque) B.F. Homes, Paranaque",18500000.0,3.0,3.0,300.0,204.0,14.4475119,121.0294569,Paranaque,Paranaque,NCR
+"B.F. Homes, Paranaque",28900000.0,4.0,4.0,270.0,204.0,14.4462789,121.0274109,Paranaque,Paranaque,NCR
+"Muntinlupa, Metro Manila, Philippines Muntinlupa",8000000.0,3.0,2.0,83.0,120.0,14.41042661,121.0398882,Philippines Muntinlupa,Philippines Muntinlupa,NCR
+"Ampid I, San Mateo",9798000.0,4.0,3.0,155.0,104.0,14.6809969,121.1192939,San Mateo,Rizal,Region IV-A
+"Bagong Silangan, Quezon City",20000000.0,5.0,5.0,300.0,240.0,14.6978613,121.1104093,Quezon City,Quezon City,NCR
+"Ayala Alabang, Muntinlupa",110000000.0,4.0,5.0,400.0,300.0,14.4226096,121.0269407,Muntinlupa,Muntinlupa,NCR
+"Buck Estate, Alfonso",25000000.0,4.0,3.0,450.0,392.0,14.0835001,120.8542787,Alfonso,Cavite,Region IV-A
+"Telabastagan, San Fernando",45000000.0,5.0,6.0,432.0,1565.0,15.1142829,120.6088717,San Fernando,Pampanga,Region III
+"Matandang Balara, Quezon City",105000000.0,5.0,5.0,650.0,330.0,14.6716797,121.0745345,Quezon City,Quezon City,NCR
+"B.F. Homes, Paranaque",36000000.0,5.0,6.0,325.0,280.0,14.4462789,121.0274109,Paranaque,Paranaque,NCR
+"Tagapo, Santa Rosa",2090585.0,2.0,1.0,42.0,50.0,14.3136408,121.1001034,Santa Rosa,Laguna,Region IV-A
+"Ordonez St. Corner Champaca St. Marikina Heights, Marikina",6900000.0,3.0,2.0,88.9,53.0,14.65209003,121.1229333,Marikina,Marikina,NCR
+"Bangkas Heights, Davao",17000000.0,2.0,2.0,250.0,338.0,7.0579362,125.4907409,Davao,Davao del Sur,Region XI
+"Atlu-Bola, Mabalacat",10700000.0,4.0,2.0,150.0,120.0,15.2317258,120.5717505,Mabalacat,Pampanga,Region III
+"Barangay Ii, Alaminos",1144549.0,3.0,1.0,46.6,40.0,14.0733361,121.256544,Alaminos,Laguna,Region IV-A
+"San Vicente, San Pedro",5500000.0,3.0,2.0,76.0,70.0,14.3562015,121.0481011,San Pedro,Laguna,Region IV-A
+"Aniban I, Bacoor",16000000.0,5.0,6.0,411.0,360.0,14.4597848,120.9627456,Bacoor,Cavite,Region IV-A
+"Loma De Gato, Marilao",7521360.0,3.0,2.0,90.0,112.0,14.7912768,121.0083083,Marilao,Bulacan,Region III
+"Magenta St., Saphhire Hills, Victoria Homes, Muntinlupa City Tunasan, Muntinlupa",2700000.0,2.0,1.0,37.0,79.0,14.36342026,121.0180178,Muntinlupa,Muntinlupa,NCR
+"Ayala Alabang Muntinlupa Metro Manila Ayala Alabang, Muntinlupa",540000000.0,6.0,7.0,1442.0,987.0,14.428209,121.0266751,Muntinlupa,Muntinlupa,NCR
+"Lot 16 Block 13, Amazon Street, Lakewood City Subdivision Sumacab Este, Cabanatuan",3155000.0,1.0,1.0,191.0,204.0,15.45672305,120.9599101,Cabanatuan,Nueva Ecija,Region III
+"White Plains, Quezon City",208000000.0,7.0,6.0,900.0,464.0,14.6032747,121.0713026,Quezon City,Quezon City,NCR
+"Cabuco, Trece Martires",5739667.0,3.0,2.0,75.0,120.0,14.2792049,120.8446323,Trece Martires,Cavite,Region IV-A
+"Moonwalk, Paranaque",21400000.0,5.0,3.0,300.0,400.0,14.4918575,121.0146712,Paranaque,Paranaque,NCR
+"Cansojong, Talisay",36000000.0,5.0,4.0,309.0,2080.0,10.2495232,123.8548827,Talisay,Cebu,Region VII
+"Concepcion Dos, Marikina",8500000.0,2.0,1.0,63.0,288.0,14.6405888,121.1208184,Marikina,Marikina,NCR
+"San Luis, Antipolo",6448937.0,3.0,2.0,76.0,90.0,14.6043281,121.1981422,Antipolo,Rizal,Region IV-A
+"San Juan, Taytay",45000000.0,6.0,7.0,700.0,561.0,14.5585639,121.1360313,Taytay,Rizal,Region IV-A
+"Don Mariano Ave San Isidro, Angono",5177819.0,3.0,2.0,73.1,41.0,14.5389092,121.1601117,Angono,Rizal,Region IV-A
+"San Lucas, Lipa",4169183.0,2.0,1.0,54.0,113.0,14.017376,121.1836485,Lipa,Batangas,Region IV-A
+"Santa Ana, Taytay",42500000.0,5.0,5.5,460.0,300.0,14.5654235,121.1267997,Taytay,Rizal,Region IV-A
+"1 Bagong Silangan, Quezon City",17500000.0,5.0,3.0,300.0,240.0,14.6978613,121.1104093,Quezon City,Quezon City,NCR
+"Matandang Balara, Quezon City",92000000.0,5.0,5.0,421.0,400.0,14.6716797,121.0745345,Quezon City,Quezon City,NCR
+Dumaguete,10000000.0,6.0,4.0,318.0,210.0,9.3054777,123.3080446,Dumaguete,Negros Oriental,Region XVIII
+"Dela Paz, Antipolo",14000000.0,4.0,3.0,240.0,173.0,14.5886674,121.1739784,Antipolo,Rizal,Region IV-A
+"Tahanan Village B.F. Homes, Paranaque",30000000.0,4.0,4.0,300.0,280.0,14.4506613,121.0300501,Paranaque,Paranaque,NCR
+"Valencia Estates, Valencia, Bukidnon Lumbo, Vallencia",5000000.0,2.0,2.0,60.0,150.0,7.889824603,125.071714,Vallencia,Negros Oriental,Region XVIII
+"San Isidro, Cainta",19500000.0,3.0,3.0,188.0,172.0,14.6092561,121.1106377,Cainta,Rizal,Region IV-A
+"Rosario, Pasig",29000000.0,6.0,6.0,450.0,191.0,14.5904898,121.0882718,Pasig,Pasig,NCR
+"San Miguel Village, Makati",125000000.0,4.0,3.0,300.0,330.0,14.56726465,121.0255189,Makati,Makati,NCR
+"Bonuan Boquig, Dagupan",5040000.0,3.0,2.0,80.0,190.0,16.0774984,120.3580251,Dagupan,Pangasinan,Region I
+"Ayala Alabang, Muntinlupa",125000000.0,4.0,5.0,400.0,300.0,14.4226096,121.0269407,Muntinlupa,Muntinlupa,NCR
+"Holy Spirit, Quezon City",45000000.0,5.0,5.0,350.0,464.0,14.6838626,121.0761031,Quezon City,Quezon City,NCR
+"B.F. Homes, Paranaque",49000000.0,5.0,5.0,450.0,510.0,14.4462789,121.0274109,Paranaque,Paranaque,NCR
+"Batasan Hills, Quezon City",15000000.0,5.0,4.0,303.0,90.0,14.6862585,121.099335,Quezon City,Quezon City,NCR
+"West Triangle, Quezon City",25000000.0,3.0,3.0,270.0,101.0,14.6432727,121.0308148,Quezon City,Quezon City,NCR
+"Pulo, Cabuyao, Laguna, Philippines Pulo, Cabuyao",30000000.0,5.0,4.0,550.0,386.0,14.24206448,121.1300052,Cabuyao,Laguna,Region IV-A
+"Daang Hari, 1751 Las Pinas, Philippines Almanza Dos, Las Pinas",50000000.0,5.0,5.0,323.0,302.0,14.41332862,121.0159055,Las Pinas,Las Pinas,NCR
+"Ayala Alabang Village Ayala Alabang, Muntinlupa",120000000.0,4.0,5.0,400.0,720.0,14.4226096,121.0269407,Muntinlupa,Muntinlupa,NCR
+"B.F. Homes, Paranaque",37500000.0,5.0,5.0,375.0,280.0,14.4462789,121.0274109,Paranaque,Paranaque,NCR
+"Urdaneta, Makati",800000000.0,5.0,5.0,700.0,1156.0,14.556078,121.0296234,Makati,Makati,NCR
+"Santo Nino, Marikina",18000000.0,3.0,3.0,260.0,144.0,14.6403852,121.0966298,Marikina,Marikina,NCR
+"Pan-Philippine Hwy San Vicente, San Pablo",3400000.0,3.0,2.0,66.0,80.0,14.00601546,121.3362269,San Pablo,Laguna,Region IV-A
+"Jaro, Iloilo",3816956.0,3.0,2.0,53.2,72.0,10.7467342,122.5767201,Iloilo,Iloilo,Region VI
+"Casile, Cabuyao",17500000.0,4.0,3.0,250.0,214.0,14.2015402,121.0370618,Cabuyao,Laguna,Region IV-A
+"88 Brookside San Roque Talisay San Roque, Talisay",6449458.0,4.0,2.0,86.0,110.0,10.2535932,123.8591184,Talisay,Cebu,Region VII
+"Buhangin, Davao",18500000.0,4.0,4.0,190.0,184.0,7.1469686,125.5940509,Davao,Davao del Sur,Region XI
+"1 Tandang Sora, Quezon City",8000000.0,3.0,2.0,110.0,45.0,14.6868317,121.035975,Quezon City,Quezon City,NCR
+"Tapia, General Trias",2245920.0,3.0,1.0,40.0,50.0,14.3630407,120.8803493,General Trias,Cavite,Region IV-A
+"Bago Oshiro, Davao",16000000.0,5.0,4.0,210.0,208.0,7.0774367,125.4963894,Davao,Davao del Sur,Region XI
+"Novaliches, Quezon City",45000000.0,5.0,5.0,400.0,300.0,14.7209396,121.038922,Quezon City,Quezon City,NCR
+"Salaban, Amadeo",12000000.0,6.0,5.0,110.0,240.0,14.1296621,120.9332054,Amadeo,Cavite,Region IV-A
+"Ayala Alabang, Muntinlupa",130000000.0,4.0,4.0,500.0,550.0,14.4226096,121.0269407,Muntinlupa,Muntinlupa,NCR
+"Priscilla Estates Cabantian, Davao",10500000.0,4.0,3.0,130.0,300.0,7.129499096,125.6261915,Davao,Davao del Sur,Region XI
+"Sun Valley, Paranaque",38000000.0,3.0,3.0,417.0,472.0,14.4888415,121.0325173,Paranaque,Paranaque,NCR
+"Ayala Alabang, Muntinlupa",420000000.0,7.0,7.0,1233.0,816.0,14.4226096,121.0269407,Muntinlupa,Muntinlupa,NCR
+"Cabilang Baybay, Carmona",23609000.0,3.0,2.0,243.0,240.0,14.3175013,121.0512123,Carmona,Cavite,Region IV-A
+"K-3Rd Street Kamuning, Quezon City",16500000.0,4.0,4.0,240.0,60.0,14.6292389,121.0458642,Quezon City,Quezon City,NCR
+"West Crame, San Juan",28000000.0,8.0,4.0,420.0,315.0,14.6063099,121.0502649,San Juan,Batangas,Region IV-A
+"Batasan Hills, Quezon City",72000000.0,4.0,4.0,504.0,300.0,14.6862585,121.099335,Quezon City,Quezon City,NCR
+"San Antonio, Paranaque",9500000.0,4.0,4.0,250.0,117.0,14.4689826,121.0211224,Paranaque,Paranaque,NCR
+"Ayala Alabang, Muntinlupa",420000000.0,5.0,5.0,1172.0,762.0,14.4226096,121.0269407,Muntinlupa,Muntinlupa,NCR
+"Lot No. 1521-A-5-B, No.757 Fatima Street Bagbaguin, Santa Maria",4280000.0,1.0,1.0,156.0,250.0,14.81428473,120.9568373,Santa Maria,Bulacan,Region III
+"Santo Nino, San Mateo",2000000.0,2.0,2.0,80.0,120.0,14.6367374,121.0942983,San Mateo,Rizal,Region IV-A
+"San Isidro, Antipolo",8000000.0,4.0,3.0,166.0,108.0,14.5898029,121.1819903,Antipolo,Rizal,Region IV-A
+"San Miguel, Pasig",29000000.0,5.0,4.0,334.0,235.0,14.5658684,121.0855568,Pasig,Pasig,NCR
+"Maria Luisa Estate Park Cebu City Budla-An, Cebu",220000000.0,10.0,7.0,1522.0,735.0,10.36130715,123.8956937,Cebu,Cebu,Region VII
+San Fernando,16800000.0,4.0,3.0,240.0,180.0,15.0587568,120.631483,San Fernando,Pampanga,Region III
+"Dalig, Antipolo",11160100.0,3.0,3.0,90.0,150.0,14.5730447,121.1864717,Antipolo,Rizal,Region IV-A
+"Camella Cabid-An, Sorsogon City, Sorsogon, Bicol, Philippines Cabid-An, Sorsogon",2860000.0,2.0,1.0,36.0,44.0,12.97665972,124.0393066,Sorsogon,Sorsogon,Region V
+"B.F. Homes, Paranaque",34800000.0,5.0,5.0,360.0,280.0,14.4462789,121.0274109,Paranaque,Paranaque,NCR
+"Piazetta Street, The Court Yard Of Maia Alta, Dalig, Antipolo City Dalig, Antipolo",8500000.0,3.0,3.0,186.0,183.0,14.57090581,121.1876387,Antipolo,Rizal,Region IV-A
+Davao,70000000.0,6.0,6.0,780.0,1500.0,7.0648306,125.6080623,Davao,Davao del Sur,Region XI
+"Pasay Rotonda, Pasay",13500000.0,4.0,4.0,216.0,72.0,14.5380434,121.0006244,Pasay,Pasay,NCR
+"Lot 9-B Corazon Street Saint Bernadette Heights Subdivision Barangay Del Rosario City Of San Fernando Pampanga Del Rosario, San Fernando",5500000.0,3.0,5.0,202.5,120.0,15.06930099,120.6467725,San Fernando,Pampanga,Region III
+"San Miguel, Pasig",25500000.0,7.0,6.0,350.0,150.0,14.5658684,121.0855568,Pasig,Pasig,NCR
+"Almanza Dos, Las Pinas",35868400.0,4.0,4.0,278.0,240.0,14.4234362,121.0223422,Las Pinas,Las Pinas,NCR
+"Pilar, Las Pinas",16500000.0,4.0,4.0,195.0,280.0,14.4252635,121.0058656,Las Pinas,Las Pinas,NCR
+"Lots 1, 2 And 3 Along Existing Road Sitio Bagong Sikat Barangay Tabang Plaridel Tabang, Plaridel",8000000.0,3.0,4.0,344.0,1058.0,14.87507075,120.8673095,Plaridel,Bulacan,Region III
+"Pamplona Dos, Las Pinas",6300000.0,3.0,2.0,100.0,79.0,14.4496026,120.9750874,Las Pinas,Las Pinas,NCR
+"B.F. Homes Paranaque Metro Manila B.F. Homes, Paranaque",18000000.0,3.0,4.0,220.0,288.0,14.4475119,121.0294569,Paranaque,Paranaque,NCR
+"B.F. Homes, Paranaque",23000000.0,4.0,3.0,200.0,221.0,14.4462789,121.0274109,Paranaque,Paranaque,NCR
+"Dely St Muntingdilaw, Antipolo",5002500.0,2.0,2.0,81.0,60.0,14.5984702,121.1282932,Antipolo,Rizal,Region IV-A
+"Biclatan, General Trias",8455880.0,4.0,2.0,167.0,154.0,14.2780301,120.915855,General Trias,Cavite,Region IV-A
+"Merville, Paranaque",60000000.0,4.0,5.0,627.0,306.0,14.501909,121.0266683,Paranaque,Paranaque,NCR
+"Lot I-14 (Block 16, Lot 14), Along Grenada Street, Camella Homes Phase 1 San Isidro, General Santos City",1970000.0,1.0,1.0,46.0,77.0,6.145104931,125.1895828,General Santos City,General Santos City,Region XII
+"San Isidro, Paranaque",18000000.0,3.0,3.0,300.0,450.0,14.4711274,121.0076663,Paranaque,Paranaque,NCR
+"Inarawan, Antipolo",15000000.0,4.0,3.0,170.0,127.0,14.6246563,121.1803519,Antipolo,Rizal,Region IV-A
+"Tagaytay Nasugbu Hwy, 4213 Balayan, Philippines San Gregorio, Laurel",17000000.0,3.0,4.0,800.0,290.0,14.1090511,120.9561031,Laurel,Batangas,Region IV-A
+"Block 9, Lot 23, Along Road Lot 4, Carmel Village Phase 2B Barandal, Calamba",1350000.0,1.0,1.0,48.0,80.0,14.18788961,121.1251683,Calamba,Laguna,Region IV-A
+"Cabid-An, Sorsogon Cabid-An, Sorsogon",6142000.0,3.0,2.0,66.0,88.0,12.9742481,124.0398913,Sorsogon,Sorsogon,Region V
+"Alapan Ii-B, Imus",2666000.0,3.0,2.0,60.0,50.0,14.4007938,120.9077065,Imus,Cavite,Region IV-A
+"Molino-Paliparan Rd Molino Iv, Bacoor",8000000.0,3.0,2.0,81.0,120.0,14.36966927,120.9810315,Bacoor,Cavite,Region IV-A
+"Inarawan, Antipolo",15000000.0,4.0,3.0,258.0,180.0,14.6246563,121.1803519,Antipolo,Rizal,Region IV-A
+"Dona Pilar Sasa, Davao City Sasa, Davao",16000000.0,5.0,4.0,167.0,152.0,7.1201013,125.6505837,Davao,Davao del Sur,Region XI
+"Ayala Alabang, Muntinlupa",213000000.0,5.0,5.0,800.0,660.0,14.4226096,121.0269407,Muntinlupa,Muntinlupa,NCR
+"Salu, Porac",869000.0,1.0,1.0,32.0,62.0,15.0188367,120.5412948,Porac,Pampanga,Region III
+"Poblacion Occidental, Consolacion",22000000.0,6.0,5.0,400.0,394.0,10.3741863,123.9529404,Consolacion,Cebu,Region VII
+"Brgy 3 Poblacion Alaminos Laguna Barangay Iii, Alaminos",6270000.0,3.0,2.0,77.0,140.0,14.072848,121.2556397,Alaminos,Laguna,Region IV-A
+"Kalubkob, Silang",5781000.0,3.0,3.0,108.0,117.0,14.208871,120.9528707,Silang,Cavite,Region IV-A
+"Lot 13 Block 17, Along Road Lot 22. Camella Lessandra A Jibao-An, Pavia",1300000.0,1.0,1.0,48.0,70.0,10.75553464,122.5156595,Pavia,Iloilo,Region VI
+"Dely St Muntingdilaw, Antipolo",7257800.0,3.0,2.0,93.0,155.0,14.5984702,121.1282932,Antipolo,Rizal,Region IV-A
+"Talon Dos, Las Pinas",15800000.0,4.0,3.0,175.0,115.3,14.4330886,120.9847045,Las Pinas,Las Pinas,NCR
+"Joyao-Joyao, Numancia",2959000.0,2.0,1.0,46.0,44.0,11.69638382,122.3310274,Numancia,Aklan,Region VI
+"Joyao-Joyao, Numancia, Western Visayas, Philippines Joyao-Joyao, Numancia",1969000.0,1.0,1.0,22.0,44.0,11.69638382,122.3310274,Numancia,Aklan,Region VI
+"Lagtang, Talisay, Central Visayas, Philippines Lagtang, Talisay",13000000.0,3.0,2.0,172.0,150.0,10.26986927,123.8342241,Talisay,Cebu,Region VII
+"Concepcion Uno, Marikina",6500000.0,5.0,3.0,300.0,380.0,14.6510742,121.1038227,Marikina,Marikina,NCR
+"Talon Uno, Las Pinas",15000000.0,4.0,4.0,220.0,111.0,14.4478903,120.9853979,Las Pinas,Las Pinas,NCR
+"Salu, Porac",1227000.0,2.0,1.0,39.0,107.0,15.0188367,120.5412948,Porac,Pampanga,Region III
+"Cupang, Antipolo",6560400.0,3.0,2.0,99.3,60.7,14.6360063,121.1240475,Antipolo,Rizal,Region IV-A
+"Toril, Davao",19500000.0,4.0,4.0,330.0,550.0,7.0380711,125.4651385,Davao,Davao del Sur,Region XI
+"Camella Homes, Cabid-An, Sorsogon, Bicol, Philippines Cabid-An, Sorsogon",4340000.0,2.0,1.0,46.0,66.0,12.97665972,124.0393066,Sorsogon,Sorsogon,Region V
+"San Andres, Cainta",26500000.0,5.0,5.0,350.0,150.0,14.5738922,121.111182,Cainta,Rizal,Region IV-A
+"Ma-A, Davao",16000000.0,4.0,4.0,202.0,180.0,7.0807144,125.5827159,Davao,Davao del Sur,Region XI
+"Timalan Balsahan, Naic",1600000.0,2.0,1.0,47.0,54.0,14.3358939,120.7871387,Naic,Cavite,Region IV-A
+"Langkaan I, Dasmarinas",2068000.0,2.0,1.0,44.5,58.5,14.293724,120.9366838,Dasmarinas,Cavite,Region IV-A
+"Along Molino Road Molino Iii, Bacoor",8231063.0,4.0,3.0,98.0,131.0,14.3969475,120.9413346,Bacoor,Cavite,Region IV-A
+"Don Jose, Santa Rosa",18000000.0,5.0,4.0,304.0,200.0,14.2548285,121.0664623,Santa Rosa,Laguna,Region IV-A
+"Tunasan, Muntinlupa",13000000.0,3.0,3.0,140.0,240.0,14.3801129,121.0514828,Muntinlupa,Muntinlupa,NCR
+"Mayamot, Antipolo",13000000.0,4.0,3.0,144.0,120.0,14.6248348,121.1213588,Antipolo,Rizal,Region IV-A
+"Talon Dos, Las Pinas",15000000.0,5.0,4.0,240.0,122.0,14.4330886,120.9847045,Las Pinas,Las Pinas,NCR
+"Inarawan, Antipolo",50000000.0,4.0,5.0,495.0,521.0,14.6246563,121.1803519,Antipolo,Rizal,Region IV-A
+"Hoyo, Silang",6546210.0,4.0,2.0,116.4,176.0,14.1954985,121.0064911,Silang,Cavite,Region IV-A
+"San Andres, Cainta",26500000.0,5.0,5.0,350.0,150.0,14.5738922,121.111182,Cainta,Rizal,Region IV-A
+"Ayala Alabang, Muntinlupa",900000000.0,5.0,5.0,1080.0,2571.0,14.4226096,121.0269407,Muntinlupa,Muntinlupa,NCR
+"B.F. Homes, Paranaque",17800000.0,3.0,2.0,280.0,280.0,14.4462789,121.0274109,Paranaque,Paranaque,NCR
+"San Miguel, Pasig",25000000.0,6.0,6.0,380.0,150.0,14.5658684,121.0855568,Pasig,Pasig,NCR
+"San Antonio, Paranaque, National Capital Region, Philippines Don Bosco, Paranaque",9488617.0,3.0,3.0,121.0,100.0,14.46740867,121.0256043,Paranaque,Paranaque,NCR
+"Hugo Perez Rd Perez, Trece Martires",2110795.0,3.0,2.0,64.3,50.0,14.282215,120.8905553,Trece Martires,Cavite,Region IV-A
+"New Manila, Quezon City",65000000.0,5.0,5.0,488.0,167.0,14.6134141,121.0291416,Quezon City,Quezon City,NCR
+"Sun Valley, Paranaque, National Capital Region, Philippines Sun Valley, Paranaque",9200000.0,4.0,3.0,118.7,66.0,14.49175,121.0398627,Paranaque,Paranaque,NCR
+"Penguin St., Zabarte Subd., Quezon City Kaligayahan, Quezon City",5480000.0,3.0,2.0,94.4,60.0,14.73941133,121.0509799,Quezon City,Quezon City,NCR
+"Langkaan I, Dasmarinas",3200000.0,3.0,2.0,110.0,150.0,14.293724,120.9366838,Dasmarinas,Cavite,Region IV-A
+"Dely St Muntingdilaw, Antipolo",5324500.0,2.0,2.0,88.0,60.0,14.5984702,121.1282932,Antipolo,Rizal,Region IV-A
+"Mckinley Hill, Taguig",208000000.0,5.0,6.0,642.0,288.0,14.5330489,121.0524293,Taguig,Taguig,NCR
+"Merville, Paranaque",78000000.0,4.0,4.0,300.0,705.0,14.501909,121.0266683,Paranaque,Paranaque,NCR
+"Inarawan, Antipolo",68000000.0,7.0,7.0,884.0,523.0,14.6246563,121.1803519,Antipolo,Rizal,Region IV-A
+"Inchican, Silang",17990000.0,3.0,2.0,220.0,150.0,14.2510549,121.0527366,Silang,Cavite,Region IV-A
+"Forbes Park, Makati, National Capital Region, Philippines Forbes Park, Makati",2500000000.0,5.0,7.0,2100.0,1525.0,14.54655976,121.0376131,Makati,Makati,NCR
+"Agus, Lapu-Lapu",9000000.0,4.0,5.0,156.0,150.0,10.2807554,123.9843016,Lapu-Lapu,Cebu,Region VII
+"Langgam, San Pedro",2484027.0,1.0,1.0,26.0,84.0,14.3269207,121.0178307,San Pedro,Laguna,Region IV-A
+"Lot 74 G And F Wilson Street ( Interior Of Fulton Street ) Barangay Lahug Cebu City Cebu Lahug, Cebu",6500000.0,3.0,4.0,184.0,130.0,10.33519639,123.9026544,Cebu,Cebu,Region VII
+"Parang, Marikina",6500000.0,3.0,2.0,81.0,88.8,14.6589442,121.1118171,Marikina,Marikina,NCR
+"Fairview, Quezon City",6950000.0,3.0,3.0,96.0,60.0,14.7055228,121.0742821,Quezon City,Quezon City,NCR
+"Alabang, Muntinlupa",63500000.0,7.0,7.0,700.0,460.0,14.4185637,121.0447216,Muntinlupa,Muntinlupa,NCR
+"Talon Dos Bf Resort Talon Dos, Las Pinas",15000000.0,4.0,3.0,210.0,111.0,14.4330886,120.9847045,Las Pinas,Las Pinas,NCR
+"Bulihan, Malolos",3812480.0,2.0,2.0,52.0,96.0,14.8614278,120.8067497,Malolos,Bulacan,Region III
+"B.F. Homes, Paranaque",45000000.0,4.0,4.0,350.0,280.0,14.4462789,121.0274109,Paranaque,Paranaque,NCR
+"Banaybanay, Padre Garcia",2300000.0,3.0,1.0,48.0,52.0,13.8998198,121.2182294,Padre Garcia,Batangas,Region IV-A
+"Bakakeng North, Baguio",20000000.0,3.0,4.0,280.0,408.0,16.3836602,120.5912301,Baguio,Benguet,CAR
+"Hibok-Hibok, Block 20, Lot 12, Pulu Amsic Subdivision Amsic, Angeles",19900000.0,3.0,4.0,240.0,246.0,15.15780137,120.5691808,Angeles,Pampanga,Region III
+"St. Francis Homes Xi, Binan Laguna Canlalay, Binan",9000000.0,5.0,3.0,280.0,279.0,14.32299278,121.0927955,Binan,Laguna,Region IV-A
+"San Vicente, San Pablo",3500000.0,3.0,2.0,57.4,80.0,14.0226687,121.3416391,San Pablo,Laguna,Region IV-A
+"Antipolo, Calabarzon, Philippines San Roque, Antipolo",6503750.0,3.0,3.0,130.7,60.0,14.57370507,121.1708548,Antipolo,Rizal,Region IV-A
+"Pan-Philippine Hwy San Vicente, San Pablo",3700000.0,4.0,2.0,85.0,74.0,14.00601546,121.3362269,San Pablo,Laguna,Region IV-A
+Sta Rosa City Laguna,6800000.0,4.0,3.0,187.2,137.0,14.27758271,121.0926867,Sta Rosa City Laguna,Sta Rosa City Laguna,Region IV-A
+"Pan-Philippine Hwy San Vicente, San Pablo",2600000.0,3.0,2.0,54.7,50.0,14.00601546,121.3362269,San Pablo,Laguna,Region IV-A
+"Panorama St, 1811 Marikina, Philippines Marikina Heights, Marikina",6600000.0,4.0,2.0,140.0,70.0,14.63942048,121.1289044,Marikina,Marikina,NCR
+"Del Carmen, San Fernando",5000000.0,3.0,2.0,150.0,81.0,15.0487446,120.6882894,San Fernando,Pampanga,Region III
+"Damilag, Manolo Fortich",1700000.0,3.0,2.0,52.5,116.0,8.3553282,124.8126054,Manolo Fortich,Bukidnon,Region X
+"Lot 12, Block 8, Along Unnamed Subd. Road, Tungkop, Minglanilla",3200000.0,1.0,1.0,124.0,124.0,10.24081096,123.7874714,Minglanilla,Cebu,Region VII
+"Lot 15 Block 4, Along Road Lot 4, Camella Pine Grove Phase 2 Mandalagan, Bacolod",3100000.0,1.0,1.0,83.0,91.0,10.68960812,122.9738667,Bacolod,Negros Occidental,Region XVIII
+"Mayamot, Antipolo",15000000.0,3.0,3.0,160.0,120.0,14.6248348,121.1213588,Antipolo,Rizal,Region IV-A
+"Balsic, Hermosa",2100000.0,3.0,1.0,70.0,118.0,14.8645114,120.490254,Hermosa,Bataan,Region III
+"Salu, Porac",1788000.0,2.0,1.0,44.0,107.0,15.0188367,120.5412948,Porac,Pampanga,Region III
+"Olivarez Tagaytay San Jose, Tagaytay",14900000.0,5.0,7.0,350.0,264.0,14.11962597,120.9577186,Tagaytay,Cavite,Region IV-A
+"Malainen Luma, Naic",1815200.0,2.0,1.0,38.0,84.0,14.270612,120.7919224,Naic,Cavite,Region IV-A
+"Molino-Paliparan Rd Molino Iv, Bacoor",3697532.0,2.0,1.0,42.4,72.0,14.36966927,120.9810315,Bacoor,Cavite,Region IV-A
+"Santan St Cupang, Antipolo",4150000.0,3.0,2.0,78.3,50.0,14.63716058,121.1332686,Antipolo,Rizal,Region IV-A
+"Carsadang Bago, Imus, Calabarzon, Philippines Carsadang Bago I, Imus",3200000.0,3.0,3.0,94.0,50.0,14.4290953,120.9288976,Imus,Cavite,Region IV-A
+"B.F. Homes, Paranaque",32500000.0,5.0,4.0,370.0,280.0,14.4462789,121.0274109,Paranaque,Paranaque,NCR
+"Tunasan, Muntinlupa",50000000.0,4.0,4.0,475.0,338.0,14.3801129,121.0514828,Muntinlupa,Muntinlupa,NCR
+"Diliman, Quezon City",13000000.0,3.0,3.0,180.0,60.0,14.6361294,121.0335841,Quezon City,Quezon City,NCR
+"Amsic, Angeles",12800000.0,4.0,4.0,128.0,150.0,15.1560029,120.5708031,Angeles,Pampanga,Region III
+"Silangan, San Mateo",14000000.0,3.0,3.0,240.0,152.0,14.65671895,121.1508088,San Mateo,Rizal,Region IV-A
+"Sabutan, Silang",3500000.0,2.0,2.0,67.0,80.0,14.2299502,120.9743357,Silang,Cavite,Region IV-A
+"Congressional Avenue, Quezon City",10900000.0,3.0,1.0,140.0,80.0,14.6679427,121.0340442,Quezon City,Quezon City,NCR
+"Salitran I, Dasmarinas",35000000.0,4.0,4.0,301.0,491.0,14.3502316,120.9378666,Dasmarinas,Cavite,Region IV-A
+"Buho, Silang",8500000.0,3.0,3.0,120.0,108.0,14.1386647,120.9553978,Silang,Cavite,Region IV-A
+"San Juan, Taytay",4700000.0,4.0,4.0,120.0,60.0,14.5585639,121.1360313,Taytay,Rizal,Region IV-A
+"Don Bosco, Paranaque",15500000.0,4.0,3.0,260.0,200.0,14.4843304,121.0314209,Paranaque,Paranaque,NCR
+"Catalunan Pequeno, Davao",3000000.0,2.0,1.0,36.0,120.0,7.0754348,125.520254,Davao,Davao del Sur,Region XI
+"Inchican, Silang",39000000.0,7.0,4.0,300.0,345.0,14.2510549,121.0527366,Silang,Cavite,Region IV-A
+"Saranay Road Bagumbong Caloocan City Bagumbong, Caloocan",4438000.0,3.0,2.0,72.0,80.0,14.7547818,121.0256669,Caloocan,Caloocan,NCR
+"Punta I, Tanza",1690000.0,3.0,1.0,45.0,36.0,14.3521701,120.8598484,Tanza,Cavite,Region IV-A
+"De Castro Ave, Pasig, Philippines Rosario, Pasig",7000000.0,3.0,3.0,110.0,73.0,14.5880653,121.0972902,Pasig,Pasig,NCR
+Taytay,9000000.0,4.0,2.0,160.0,111.0,14.5706996,121.13202,Taytay,Rizal,Region IV-A
+"B.F. Homes, Paranaque",24000000.0,3.0,3.0,290.0,204.0,14.4462789,121.0274109,Paranaque,Paranaque,NCR
+"Barangay Ii, Alaminos",4433750.0,2.0,2.0,106.0,138.0,14.0733361,121.256544,Alaminos,Laguna,Region IV-A
+"San Antonio Rd San Antonio, Binan",2750000.0,2.0,1.0,43.0,45.0,14.3313691,121.0855278,Binan,Laguna,Region IV-A
+"Lot 5 Block 10 Torquise Street City Heights Subdivision Barangay Taculing Bacolod City Negros Occidental Taculing, Bacolod",7000000.0,3.0,4.0,226.0,240.0,10.6528721,122.9553982,Bacolod,Negros Occidental,Region XVIII
+"Pasong Buaya Ii, Imus",3400000.0,2.0,1.0,80.0,57.5,14.3817416,120.968223,Imus,Cavite,Region IV-A
+"C. Lawis Ext San Luis, Antipolo",4000000.0,3.0,2.0,80.0,48.0,14.59087293,121.1882015,Antipolo,Rizal,Region IV-A
+"Teachers Village East, Quezon City",22600000.0,4.0,4.0,265.7,68.0,14.6442313,121.059698,Quezon City,Quezon City,NCR
+"Teachers Village East, Quezon City",16000000.0,3.0,3.0,175.0,67.0,14.6442313,121.059698,Quezon City,Quezon City,NCR
+"Santa Lucia, Pasig",8530000.0,3.0,2.0,132.0,90.0,14.5842641,121.1013028,Pasig,Pasig,NCR
+"Biga I, Silang",7494000.0,3.0,2.0,66.0,121.0,14.2449652,120.9757013,Silang,Cavite,Region IV-A
+"Kaunlaran Rd Palo-Alto, Calamba",4500505.0,3.0,2.0,54.0,96.0,14.18596405,121.1081526,Calamba,Laguna,Region IV-A
+"Lot 10 Block 21 Coolidge Street Cuesta Verde Executive Village Phase 2 Barangay Dalig Antipolo City Rizal Dalig, Antipolo",5200000.0,6.0,6.0,192.7,157.0,14.57424941,121.1812249,Antipolo,Rizal,Region IV-A
+"Bugtong Na Pulo, Lipa",8365000.0,5.0,3.0,150.0,150.0,13.9984308,121.1674592,Lipa,Batangas,Region IV-A
+"Balsic, Hermosa",1700000.0,3.0,1.0,40.0,70.0,14.8645114,120.490254,Hermosa,Bataan,Region III
+"Lot 14 Block 6, Road Lot 2, Ruby Drive, Camella Santiago City Batal, Santiago",3000000.0,1.0,1.0,90.0,119.0,16.69703948,121.5737924,Santiago,Isabela,Region II
+"B.F. Homes, Paranaque",36000000.0,5.0,4.0,250.0,204.0,14.4462789,121.0274109,Paranaque,Paranaque,NCR
+"Buhangin, Davao",15900000.0,5.0,3.0,300.0,162.0,7.1469686,125.5940509,Davao,Davao del Sur,Region XI
+"Panungyanan, General Trias",4500000.0,4.0,2.0,81.0,100.0,14.2349557,120.9217871,General Trias,Cavite,Region IV-A
+"Dungon, Iloilo",8000000.0,4.0,3.0,240.0,212.0,10.7260028,122.539162,Iloilo,Iloilo,Region VI
+"Ana Ros Subdivision, Hibao-An Norte, Mandurriao Mandurriao, Iloilo",5500000.0,3.0,3.0,112.0,100.0,10.7298445,122.5251582,Iloilo,Iloilo,Region VI
+"Lot 3 Block 3 Pcs-04-002881 Diamond Street Palmera Hills 2 Barangay Dolores Taytay Dolores, Taytay",6800000.0,4.0,4.0,208.8,281.0,14.57775755,121.149976,Taytay,Rizal,Region IV-A
+"Lots 5, 6, 7 & 8 Jardin Leonila Subdivision Barangay Maahas Los Banos Laguna Maahas, Los Banos",6643000.0,9.0,5.0,438.0,480.0,14.17920769,121.2522677,Los Banos,Laguna,Region IV-A
+"Lot 1 Blk 11, Road Lot 8 Corner Road Lot 2, Carmel Village Barandal, Calamba",1860000.0,1.0,1.0,48.0,159.0,14.20627752,121.1194196,Calamba,Laguna,Region IV-A
+"The Regina Northview Subdivision, Cutcut I, Capas, Tarlac Cutcut 1St, Capas",2177000.0,2.0,1.0,36.0,100.0,15.31166113,120.5811072,Capas,Tarlac,Region III
+"Bagong Nayon 1 Bagong Nayon, Antipolo",5800000.0,7.0,5.0,151.0,150.0,14.62972185,121.1677207,Antipolo,Rizal,Region IV-A
+"Lawa, Calamba",2400000.0,4.0,2.0,62.2,60.0,14.2052753,121.1474637,Calamba,Laguna,Region IV-A
+"Farmington Street, Hillcrest Subdivision, Talomo District, Diversion Road Talomo, Davao",2662000.0,3.0,2.0,38.0,121.0,7.066155597,125.5627136,Davao,Davao del Sur,Region XI
+"Santa Ana, Taytay",34000000.0,4.0,3.0,350.0,192.0,14.5654235,121.1267997,Taytay,Rizal,Region IV-A
+"Pandan, Angeles",28000000.0,4.0,3.0,272.0,221.0,15.1520332,120.6088623,Angeles,Pampanga,Region III
+"Project 8, Quezon City",5000000.0,2.0,1.0,69.0,35.0,14.6641862,121.0201724,Quezon City,Quezon City,NCR
+"Lot 20, Blk 5, Along Cherry St., Savannah Glen F Abilay Norte, Oton",1400000.0,1.0,1.0,46.0,91.0,10.74869931,122.5025877,Oton,Iloilo,Region VI
+"Salitran I, Dasmarinas",10980000.0,3.0,3.0,110.0,120.0,14.3502316,120.9378666,Dasmarinas,Cavite,Region IV-A
+"San Miguel, Pasig",15500000.0,5.0,3.0,180.0,120.0,14.5658684,121.0855568,Pasig,Pasig,NCR
+"Maharlika West, Tagaytay",22000000.0,4.0,4.0,400.0,600.0,14.0977832,120.9430935,Tagaytay,Cavite,Region IV-A
+"Apo Street, Pulu Amsic Subdivision Amsic, Angeles",220000000.0,11.0,12.0,2200.0,1399.0,15.15892947,120.5692092,Angeles,Pampanga,Region III
+"Kaybagal North, Tagaytay",13000000.0,4.0,5.0,300.0,400.0,14.1221752,120.9354195,Tagaytay,Cavite,Region IV-A
+"Tatala Rd Tatala, Binangonan",2500000.0,2.0,1.0,50.0,64.0,14.4756233,121.2054562,Binangonan,Rizal,Region IV-A
+"Don Bosco, Paranaque",18500000.0,5.0,5.0,240.0,210.0,14.4843304,121.0314209,Paranaque,Paranaque,NCR
+"M Residences At Mahogany Place 3, Acacia Estates, Taguig City Bambang, Taguig",22749290.0,4.0,4.0,119.3,75.0,14.52260666,121.0675721,Taguig,Taguig,NCR
+"Bambang, Taguig",24372955.0,4.0,3.0,166.0,75.0,14.525747,121.0729149,Taguig,Taguig,NCR
+"Lots 1 And 2 Block 25 Coolidge Street Corner Buchanan Street Cuesta Verde Executive Village Phase 2 Barangay Dalig Antipolo City Rizal Dalig, Antipolo",8000000.0,6.0,7.0,239.0,269.0,14.57423902,121.1813,Antipolo,Rizal,Region IV-A
+"Bago Gallera, Davao",6050000.0,4.0,3.0,90.6,180.0,7.0546491,125.5102936,Davao,Davao del Sur,Region XI
+"Inchican, Silang",17000000.0,4.0,4.0,230.0,150.0,14.2510549,121.0527366,Silang,Cavite,Region IV-A
+"Bagumbayan, Tanauan",2500000.0,3.0,2.0,66.0,100.0,14.0741993,121.138914,Tanauan,Batangas,Region IV-A
+"San Miguel, Pasig",16500000.0,4.0,3.0,182.0,127.0,14.5658684,121.0855568,Pasig,Pasig,NCR
+"Acropolis Residences, Kauswagan Rd., Brgy. Talamban, Cebu City Philippines (Across Northgen Hospital) Talamban, Cebu",7258203.0,3.0,2.0,161.0,60.0,10.3741261,123.9112195,Cebu,Cebu,Region VII
+"Dalig, Antipolo",65000000.0,8.0,7.0,670.0,555.0,14.5730447,121.1864717,Antipolo,Rizal,Region IV-A
+"New Manila, Quezon City",52000000.0,3.0,3.0,380.0,162.3,14.6134141,121.0291416,Quezon City,Quezon City,NCR
+"Santo Domingo, Santa Rosa",13000000.0,4.0,3.0,230.0,150.0,14.2459557,121.0461524,Santa Rosa,Laguna,Region IV-A
+"Asisan, Tagaytay",16000000.0,5.0,2.0,180.0,540.0,14.0986387,120.9087557,Tagaytay,Cavite,Region IV-A
+"Pooc, Talisay",4500000.0,3.0,2.0,90.0,55.0,10.2383782,123.8244385,Talisay,Cebu,Region VII
+"Western Bicutan, Taguig",45000000.0,4.0,3.0,370.0,200.0,14.5095273,121.0380244,Taguig,Taguig,NCR
+Antipolo,78000000.0,5.0,5.0,822.0,556.0,14.5871972,121.1759246,Antipolo,Rizal,Region IV-A
+"Lot 69 Block 2 Pueblo El Grande Subdivision Phase 3 Barangay Tayud Consolacion Cebu Tayud, Consolacion",5500000.0,2.0,4.0,112.0,120.0,10.36959533,123.9842767,Consolacion,Cebu,Region VII
